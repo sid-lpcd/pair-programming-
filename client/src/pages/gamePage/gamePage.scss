@@ -6,81 +6,16 @@
   max-width: 63.75rem;
 }
 
-.form {
-  @include flex(start, start);
-  flex-direction: column;
-
-  & > *[class*="input"] {
-    min-height: 1.875rem;
-    min-width: 17.5rem;
-    width: 100%;
-    padding: $min-padding;
-    border: 2px solid $border-color;
-    border-radius: calc($min-padding - ($min-padding/4));
-    background-color: $primary-background-input-color;
-
-    &:focus {
-      border: 2px solid $primary-accent-color;
-      outline: none;
-    }
-
-    @include tablet {
-      min-height: 2.5rem;
-      padding: $min-padding calc($min-padding * 2);
-      border-radius: calc($min-padding + ($min-padding/4));
-    }
-  }
-
-  & > *[class*="error"] {
-    border: 2px solid #b10606;
-  }
-
-  & > *[class*="label"] {
-    padding: $min-padding 0;
-  }
-
-  &__submit-btn {
-    margin: $min-padding 0;
-    padding: $min-padding;
-    @include flex(center);
-    align-self: flex-end;
-    background-color: $primary-accent-color;
-    color: $secondary-color;
-    border: 2px solid $primary-accent-color;
-    border-radius: calc($min-padding - ($min-padding/4));
-    opacity: 1;
-
-    @include tablet {
-      padding: $min-padding calc($min-padding * 2);
-      border-radius: calc($min-padding + ($min-padding/4));
-    }
-  }
+.main-game {
+  @include flex(center, start);
+  gap: calc($min-padding * 3);
+  padding: 3rem 0;
 }
-
-.comments {
-  padding: calc($min-padding * 2) 0;
-  @include flex(start, start);
-  flex-direction: column;
-  gap: $min-padding;
-
-  &__row {
-    padding: $min-padding 0;
-    border-top: 1px solid $border-color;
-    width: 100%;
-    @include flex(space-between);
-    flex-wrap: wrap;
+.game {
+  &__container {
+    width: 50%;
   }
-  &__name {
-    flex-basis: 80%;
-  }
-  &__name,
-  &__date {
-    color: $primary-accent-color;
-    padding-bottom: $min-padding;
-  }
-  &__comment {
-    @include tablet {
-      flex-basis: 100%;
-    }
+  &__title {
+    padding: 0;
   }
 }

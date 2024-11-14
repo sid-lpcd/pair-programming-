@@ -13,7 +13,7 @@ const Header = ({
   getGame,
 }) => {
   return (
-    <header className="header">
+    <header className="header header--wrapper">
       <h1 className="header__logo">The Lord of the Games</h1>
       {!isIndividualPage ? (
         <div className="header__filters-container">
