@@ -1,69 +1,86 @@
 import "./GameCard.scss";
 import Tag from "../Tag/Tag";
 import { v4 as uuidv4 } from "uuid";
-import LikeOutline from "../../../assets/icons/Like_Outline.svg?react";
-import LikeFilled from "../../../assets/icons/Like_Filled.svg?react";
+import LikeOutline from "../../assets/icons/Like_Outline.svg?react";
+import LikeFilled from "../../assets/icons/Like_Filled.svg?react";
+import {
+  Accordion,
+  AccordionDetails,
+  AccordionSummary,
+  Rating,
+} from "@mui/material";
+import ExpandMoreIcon from "../../assets/icons/Dropdown.svg?react";
+import { Link } from "react-router-dom";
 
-const GameCard = ({
-  gameCard,
-  selectedFilters,
-  individualPage,
-  userLike,
-  handleLikeClick,
-}) => {
+const GameCard = ({ gameCard, userLike, handleLikeClick }) => {
   const convertDate = (time) => {
     const date = new Date(time);
     return date.toLocaleDateString("en-US", {
       year: "numeric",
-      month: "2-digit",
-      day: "2-digit",
     });
   };
   return (
     <article className="game-card">
-      <div className="game-card__top">
-        <img
-          src={gameCard.photo}
-          alt={gameCard.photoDescription}
-          className="game-card__img"
-        />
-        {!individualPage && (
-          <p className="game-card__name game-card__name--small">
-            {gameCard.photographer}
-          </p>
+      <div className="game-card__likes">
+        {userLike ? (
+          <LikeFilled onClick={handleLikeClick} />
+        ) : (
+          <LikeOutline onClick={handleLikeClick} />
         )}
       </div>
-      <div className="game-card__row">
-        {gameCard.tags.map((tag) => {
-          return (
+      <Link to={`/${gameCard.id}`} key={gameCard.id} className="game-card-link">
+        <div className="game-card__top">
+          <img
+            src={gameCard.cover?.url}
+            alt={gameCard.summary}
+            className="game-card__img"
+          />
+          <div className="game-card__overlay-img">
+            {gameCard.themes?.map((theme) => {
+              return (
+                <Tag
+                  name={theme.name}
+                  className="game-card"
+                  isDisabled={true}
+                  key={uuidv4()}
+                />
+              );
+            })}
+          </div>
+        </div>
+        <div className="game-card__row game-card__row--bottom">
+          <Rating
+            className="game-card__rating"
+            name="rating"
+            defaultValue={
+              gameCard.total_rating ? (gameCard.total_rating / 100) * 5 : 0
+            }
+            precision={0.5}
+            readOnly
+          />
+          <p className="game-card__date">{convertDate(gameCard.created_at)}</p>
+        </div>
+        <h3 className="game-card__photographer">{gameCard.name}</h3>
+      </Link>
+      <Accordion slotProps={{ heading: { component: "h4" } }}>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon className="dropdown-icon" />}
+          aria-controls="panel1-content"
+          id="panel1-header"
+        >
+          Accordion
+        </AccordionSummary>
+        <AccordionDetails>
+          {gameCard.platforms?.map((plat) => (
             <Tag
-              name={tag}
-              className="game-card"
+              name={plat.name}
+              className="game-card__tag"
               isDisabled={true}
-              isFilled={selectedFilters.includes(tag)}
               key={uuidv4()}
             />
-          );
-        })}
-      </div>
-      {individualPage && (
-        <div className="game-card__row game-card__row--bottom">
-          <div className="game-card__likes">
-            {userLike ? (
-              <LikeFilled onClick={handleLikeClick} />
-            ) : (
-              <LikeOutline onClick={handleLikeClick} />
-            )}
-            <span className="game-card__like-text">
-              {gameCard?.likes} likes
-            </span>
-          </div>
-          <p className="game-card__photographer">
-            Game by {gameCard.photographer}
-          </p>
-          <p className="game-card__date">{convertDate(gameCard.timestamp)}</p>
-        </div>
-      )}
+          ))}
+        </AccordionDetails>
+      </Accordion>
     </article>
   );
 };

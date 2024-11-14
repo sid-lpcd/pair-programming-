@@ -1,7 +1,8 @@
-@use "../../../styles/partials/variables" as *;
-@use "../../../styles/partials/mixins" as *;
+@use "../../styles/partials/variables" as *;
+@use "../../styles/partials/mixins" as *;
 
 .game-card {
+  position: relative;
   background-color: $secondary-background-color;
   border: 1px solid $primary-accent-color;
   border-radius: 8px;
@@ -20,6 +21,10 @@
   &__img {
     width: 100%;
     display: block;
+  }
+
+  &__rating svg * {
+    fill: goldenrod;
   }
 
   &__name {
@@ -67,12 +72,16 @@
   }
 
   &__likes {
-    flex: 1 0 50%;
-    @include flex(start);
-    gap: $min-padding;
-
-    @include tablet {
-      flex: unset;
+    position: absolute;
+    display: block;
+    padding: $min-padding;
+    z-index: 1;
+    & svg {
+      width: 30px;
+      height: 30px;
+      & * {
+        fill: red;
+      }
     }
   }
 }
