@@ -2,11 +2,36 @@ import { useEffect, useState } from "react";
 import "./MainPage.scss";
 import Filters from "../../components/Filters/Filters";
 import GameList from "../../components/GameList/GameList";
+import axios from "axios";
 
 const MainPage = ({ isFilterOpen, setIsFilterOpen, games, setGames }) => {
-  const [filters, setFilters] = useState(["test", "test1"]);
+  const [filters, setFilters] = useState(["1", "2"]);
+
+  let allThemes = [];
+
+  const fetchThemes = async () => {
+    const res = await axios.get(`http://localhost:3000/games/themes`);
+    const themes = res.data;
+
+    themes.forEach((theme) => {
+      console.log(theme.name);
+      if (!allThemes.includes(theme.name)) {
+        allThemes.push(theme.name);
+      }
+    });
+
+    setFilters(allThemes);
+  };
+
+  console.log("filters", filters);
+
+  useEffect(() => {
+    fetchThemes();
+  }, []);
 
   const [selectedFilters, setSelectedFilters] = useState([]);
+
+  console.log("selected", selectedFilters);
 
   const handleFilters = (filter) => {
     let newFilters = [];
@@ -74,6 +99,9 @@ const MainPage = ({ isFilterOpen, setIsFilterOpen, games, setGames }) => {
           isFilterOpen ? " main__wrapper--filter-open" : ""
         }`}
       >
+        {/* {games?.themes?.includes(selectedFilters) && (
+          <GameList games={games} selectedFilters={selectedFilters} />
+        )} */}
         {games && <GameList games={games} selectedFilters={selectedFilters} />}
       </main>
     </>

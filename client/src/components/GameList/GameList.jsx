@@ -15,7 +15,6 @@ const GameList = ({ selectedFilters, games }) => {
 
         return (
           <GameCard
-            key={game.id}
             gameCard={game}
             userLike={game.like}
             handleLikeClick={() => game.setLike(!game.like)}
