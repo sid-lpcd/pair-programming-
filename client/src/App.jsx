@@ -16,7 +16,6 @@ function App() {
 
   const getAllGames = async () => {
     const listGames = await apiHandler("GET", "games/");
-    console.log(listGames[0]);
     setGames(listGames.splice(0, 50));
   };
 
