@@ -4,6 +4,8 @@ import Header from "./components/Header/Header";
 import { Route, Routes, useLocation } from "react-router-dom";
 import MainPage from "./pages/MainPage/MainPage";
 import { apiHandler } from "./utils/apiUtils.mjs";
+import GamePage from "./pages/gamePage/gamePage";
+import { NotFound } from "./pages/NotFound/NotFound";
 
 function App() {
   const [games, setGames] = useState(null);
@@ -53,6 +55,8 @@ function App() {
             />
           }
         />
+        <Route path="/not-found" element={<NotFound />} />
+        <Route path="/:gameId" element={<GamePage />} />
       </Routes>
     </>
   );

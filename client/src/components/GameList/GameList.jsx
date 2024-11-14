@@ -6,7 +6,12 @@ const GameList = ({ selectedFilters, games }) => {
   return (
     <section className="game-list">
       {games.map((game) => {
-        [game.like, game.setLike] = useState(false);
+        [game.like, game.setLike] = [
+          false,
+          () => {
+            game.like = !game.like;
+          },
+        ];
 
         return (
           <GameCard
