@@ -1,6 +1,7 @@
 import express from "express";
 import {
   getAllGames,
+  getGamesById,
   getGenres,
   getKeywords,
   getPlatforms,
@@ -10,6 +11,7 @@ import {
 const router = express.Router();
 
 router.get("/", getAllGames);
+router.get("/:id", getGamesById);
 
 router.get("/genres", getGenres);
 router.get("/platforms", getPlatforms);

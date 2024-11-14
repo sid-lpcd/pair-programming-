@@ -2,6 +2,8 @@ import { AssertionError } from "assert";
 import fs from "fs";
 
 const games = JSON.parse(fs.readFileSync("./data/games.json"));
+// const singleGame = JSON.parse(fs.readFileSync("./data/games.json"));
+// const singleGame = JSON.parse()
 const genres = JSON.parse(fs.readFileSync("./data/genres.json"));
 const keywords = JSON.parse(fs.readFileSync("./data/keywords.json"));
 const themes = JSON.parse(fs.readFileSync("./data/themes.json"));
@@ -39,6 +41,23 @@ export const getThemes = (req, res) => {
 export const getPlatforms = (req, res) => {
   try {
     return res.json(platforms);
+  } catch (error) {
+    console.error(error);
+  }
+};
+
+export const getGamesById = (req, res) => {
+  try {
+    const id = Number(req.params.id);
+
+    const game = games.find((game) => game.id === id);
+
+    if (game) {
+      console.log(game);
+      return res.json(game);
+    } else {
+      return res.status(404).json({ msg: "Game not found" });
+    }
   } catch (error) {
     console.error(error);
   }
