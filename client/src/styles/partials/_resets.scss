@@ -1,3 +1,4 @@
+@use "./variables" as *;
 *,
 *::before,
 *::after {
@@ -19,4 +20,8 @@ p {
 a {
   color: unset;
   text-decoration: none;
+}
+
+svg * {
+  fill: $primary-accent-color;
 }
