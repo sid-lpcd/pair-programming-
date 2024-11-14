@@ -43,3 +43,22 @@ export const getPlatforms = (req, res) => {
     console.error(error);
   }
 };
+
+// const getGamesData = (category) => {
+//   let items = [];
+
+//   games.forEach((game) => {
+//     if (game[category]) {
+//       game[category].forEach((cat) => {
+//         if (!items.includes(cat.name)) {
+//           items.push(cat.name);
+//         }
+//       });
+//     }
+//   });
+
+//   console.log(items);
+//   fs.writeFileSync(`./data/${category}.json`, JSON.stringify(items));
+// };
+
+// getGamesData("genres");
