@@ -20,6 +20,9 @@ const GameCard = ({ gameCard, userLike, handleLikeClick }) => {
       year: "numeric",
     });
   };
+  if (!gameCard.cover?.url) {
+    return <></>;
+  }
   return (
     <article className="game-card">
       <div className="game-card__likes">
@@ -31,11 +34,13 @@ const GameCard = ({ gameCard, userLike, handleLikeClick }) => {
       </div>
       <Link to={`/${gameCard.id}`} key={gameCard.id} className="game-card-link">
         <div className="game-card__top">
-          <img
-            src={gameCard.cover?.url}
-            alt={gameCard.summary}
-            className="game-card__img"
-          />
+          {gameCard.cover?.url && (
+            <img
+              src={gameCard.cover?.url}
+              alt={gameCard.summary}
+              className="game-card__img"
+            />
+          )}
           <div className="game-card__overlay-img">
             {gameCard.themes?.map((theme) => {
               return (
@@ -69,7 +74,7 @@ const GameCard = ({ gameCard, userLike, handleLikeClick }) => {
           aria-controls="panel1-content"
           id="panel1-header"
         >
-          Accordion
+          Platforms
         </AccordionSummary>
         <AccordionDetails>
           {gameCard.platforms?.map((plat) => (

@@ -8,6 +8,7 @@ import { apiHandler } from "./utils/apiUtils.mjs";
 function App() {
   const [games, setGames] = useState(null);
   const [isFilterOpen, setIsFilterOpen] = useState(false);
+  const [gameName, setGameName] = useState(null);
 
   const location = useLocation();
 
@@ -27,6 +28,8 @@ function App() {
         isFilterOpen={isFilterOpen}
         setIsFilterOpen={setIsFilterOpen}
         isIndividualPage={location.pathname !== "/"}
+        gameName={gameName}
+        setGameName={setGameName}
       />
 
       <Routes>

@@ -12,10 +12,12 @@
   @include tablet {
     border-radius: 12px;
     margin: 0rem 0;
+    width: 30%;
   }
 
   &__top {
     position: relative;
+    min-height: 50px;
   }
 
   &__img {
@@ -26,6 +28,12 @@
         @include flex(center);
         gap: $min-padding;
       }
+    }
+    @include tablet {
+      height: 14.375rem;
+    }
+
+    @include desktop {
     }
   }
   &__overlay-img {
@@ -58,12 +66,21 @@
     &--bottom {
       @include flex(space-between);
       flex-wrap: wrap;
+
+      & > span {
+        height: 20px;
+      }
     }
   }
 
   &__title {
-    padding-left: $min-padding;
-    padding-right: $min-padding;
+    padding: $min-padding;
+    @include tablet {
+      min-height: 8.75rem;
+    }
+
+    @include desktop {
+    }
   }
 
   &__likes {

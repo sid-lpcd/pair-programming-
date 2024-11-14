@@ -18,7 +18,7 @@ textarea,
 
 /**************** Default Padding Wrapper ******************/
 
-*[class*="wrapper"] {
+*[class$="wrapper"] {
   padding: 0 $margin-mobile;
 
   @include tablet {

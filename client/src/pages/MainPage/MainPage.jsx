@@ -70,8 +70,8 @@ const MainPage = ({ isFilterOpen, setIsFilterOpen, games, setGames }) => {
         setIsFilterOpen={setIsFilterOpen}
       />
       <main
-        className={`main__wrapper ${
-          isFilterOpen ? "main__wrapper--filter-open" : ""
+        className={`main__wrapper${
+          isFilterOpen ? " main__wrapper--filter-open" : ""
         }`}
       >
         {games && <GameList games={games} selectedFilters={selectedFilters} />}
