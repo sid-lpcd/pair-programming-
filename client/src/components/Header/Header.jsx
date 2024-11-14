@@ -2,6 +2,7 @@ import "./Header.scss";
 import { Autocomplete, TextField } from "@mui/material";
 import FilterIcon from "../../assets/icons/Filter.svg?react";
 import BackIcon from "../../assets/icons/Arrow.svg?react";
+import { Link } from "react-router-dom";
 
 const Header = ({
   games,
