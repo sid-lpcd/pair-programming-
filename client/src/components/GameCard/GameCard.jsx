@@ -9,6 +9,7 @@ import {
   AccordionSummary,
   Rating,
 } from "@mui/material";
+
 import ExpandMoreIcon from "../../assets/icons/Dropdown.svg?react";
 import { Link } from "react-router-dom";
 
@@ -60,7 +61,7 @@ const GameCard = ({ gameCard, userLike, handleLikeClick }) => {
           />
           <p className="game-card__date">{convertDate(gameCard.created_at)}</p>
         </div>
-        <h3 className="game-card__photographer">{gameCard.name}</h3>
+        <h3 className="game-card__title">{gameCard.name}</h3>
       </Link>
       <Accordion slotProps={{ heading: { component: "h4" } }}>
         <AccordionSummary

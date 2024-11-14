@@ -21,30 +21,31 @@
   &__img {
     width: 100%;
     display: block;
+    &:hover {
+      + .game-card__overlay-img {
+        @include flex(center);
+        gap: $min-padding;
+      }
+    }
+  }
+  &__overlay-img {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.2);
+    top: 0;
+    z-index: 1;
+    &:hover {
+      @include flex(center);
+      gap: $min-padding;
+    }
   }
 
   &__rating svg * {
-    fill: goldenrod;
+    fill: gold;
   }
 
-  &__name {
-    right: 0;
-    bottom: 0;
-    position: absolute;
-
-    padding: $min-padding;
-    background-color: $secondary-background-color;
-    margin: 0;
-    border-top-left-radius: 8px;
-    border-bottom: 1px solid $primary-accent-color;
-
-    @include tablet {
-      padding: calc($min-padding + $min-padding/2);
-    }
-
-    @include desktop {
-    }
-  }
   &__row {
     padding: $min-padding;
     @include flex(start);
@@ -54,21 +55,15 @@
       padding: calc($min-padding * 2);
     }
 
-    @include desktop {
-    }
-
     &--bottom {
       @include flex(space-between);
       flex-wrap: wrap;
     }
   }
 
-  &__photographer {
-    order: 3;
-
-    @include tablet {
-      order: 0;
-    }
+  &__title {
+    padding-left: $min-padding;
+    padding-right: $min-padding;
   }
 
   &__likes {
