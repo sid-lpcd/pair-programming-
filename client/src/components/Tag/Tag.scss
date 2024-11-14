@@ -1,0 +1,23 @@
+@use "../../styles/partials/variables" as *;
+@use "../../styles/partials/mixins" as *;
+
+*[class*="__tag"] {
+  padding: calc($min-padding - $min-padding/4) $min-padding;
+  border-radius: calc($min-padding - $min-padding/4);
+  border: 1px solid $primary-accent-color;
+  background-color: $secondary-background-color;
+  color: black;
+  // color: $primary-accent-color;
+  font-family: "Outfit", Arial, Helvetica, sans-serif;
+
+  @include tablet {
+    padding: $min-padding calc($min-padding + $min-padding/2);
+    border-radius: calc($min-padding + $min-padding/2);
+  }
+
+  &:disabled {
+    color: $primary-color;
+    border-color: $border-color;
+    background-color: $secondary-background-color;
+  }
+}

@@ -1,0 +1,20 @@
+@use "../../styles/partials/variables" as *;
+@use "../../styles/partials/mixins" as *;
+
+.game-list {
+  @include tablet {
+    @include flex(space-between);
+    flex-wrap: wrap;
+    row-gap: $margin-tablet;
+  }
+
+  & > a {
+    @include tablet {
+      width: calc(100% / 2 - $margin-tablet/2);
+    }
+
+    @include desktop {
+      width: calc(100% / 3 - $margin-tablet * 2 / 3);
+    }
+  }
+}

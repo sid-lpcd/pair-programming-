@@ -1,0 +1,21 @@
+@use "../../styles/partials/variables" as *;
+@use "../../styles/partials/mixins" as *;
+
+.wrapper--max-width {
+  margin: 0 auto;
+  max-width: 63.75rem;
+}
+
+.main-game {
+  @include flex(center, start);
+  gap: calc($min-padding * 3);
+  padding: 3rem 0;
+}
+.game {
+  &__container {
+    width: 50%;
+  }
+  &__title {
+    padding: 0;
+  }
+}
