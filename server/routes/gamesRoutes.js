@@ -2,6 +2,7 @@ import express from "express";
 import {
   getAllGames,
   getGamesById,
+  getGamesByName,
   getGamesByTheme,
   getGenres,
   getKeywords,
@@ -18,5 +19,6 @@ router.get("/platforms", getPlatforms);
 router.get("/themes", getThemes);
 router.get("/keywords", getKeywords);
 // router.get("/themes/:themeId", getGamesByTheme);
-router.get("/:id", getGamesById);
+router.get("/name", getGamesByName);
+router.get("/:name", getGamesById);
 export default router;

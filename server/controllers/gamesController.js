@@ -42,12 +42,28 @@ export const getPlatforms = (req, res) => {
   }
 };
 
-export const getGamesById = (req, res) => {
+export const getGamesByName = (req, res) => {
   try {
-    const name = req.params.name;
+    const name = req.query.name;
     // const id = Number(req.params.name);
 
     const game = games.find((game) => game.name === name);
+
+    if (game) {
+      console.log(game);
+      return res.json(game);
+    } else {
+      return res.status(404).json({ msg: "Game not found" });
+    }
+  } catch (error) {
+    console.error(error);
+  }
+};
+export const getGamesById = (req, res) => {
+  try {
+    const id = Number(req.params.id);
+
+    const game = games.find((game) => game.id === id);
 
     if (game) {
       console.log(game);
