@@ -5,6 +5,11 @@ const router = express.Router();
 
 router.get("/", getAllGames);
 
-router.get("/genres", getGenres);
+// router.get("/genres", getGenres);
 
 export default router;
+
+//genres
+//keywords
+// platforms
+// themes
