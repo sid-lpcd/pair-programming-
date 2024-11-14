@@ -2,54 +2,44 @@ import { AssertionError } from "assert";
 import fs from "fs";
 
 const games = JSON.parse(fs.readFileSync("./data/games.json"));
+const genres = JSON.parse(fs.readFileSync("./data/genres.json"));
+const keywords = JSON.parse(fs.readFileSync("./data/keywords.json"));
+const themes = JSON.parse(fs.readFileSync("./data/themes.json"));
+const platforms = JSON.parse(fs.readFileSync("./data/platforms.json"));
 
 export const getAllGames = (req, res) => {
-  return res.json(games);
-};
-
-export const getGenres = (req, res) => {
-  let genres = [];
-
   try {
-    return res.json(JSON.parse(fs.readFileSync("./data/games.json")));
+    return res.json(games);
   } catch (error) {
     console.error(error);
   }
 };
 
-// const getThemes = () => {
-//   const themes = [];
-
-//   games.forEach((game) => {
-//     if (game.themes) {
-//       game.themes.forEach((theme) => {
-//         if (!themes.includes(theme.name)) {
-//           themes.push(theme.name);
-//         }
-//       });
-//     }
-//   });
-
-//   fs.writeFileSync("./data/genres.json", JSON.stringify(themes));
-// };
-
-// getThemes();
-
-// const getGamesData = (category) => {
-//   let items = [];
-
-//   games.forEach((game) => {
-//     if (game[category]) {
-//       game[category].forEach((cat) => {
-//         if (!items.includes(cat.name)) {
-//           items.push(cat.name);
-//         }
-//       });
-//     }
-//   });
-
-//   console.log(items);
-//   fs.writeFileSync(`./data/${category}.json`, JSON.stringify(items));
-// };
-
-// getGamesData("themes");
+export const getGenres = (req, res) => {
+  try {
+    return res.json(genres);
+  } catch (error) {
+    console.error(error);
+  }
+};
+export const getKeywords = (req, res) => {
+  try {
+    return res.json(keywords);
+  } catch (error) {
+    console.error(error);
+  }
+};
+export const getThemes = (req, res) => {
+  try {
+    return res.json(themes);
+  } catch (error) {
+    console.error(error);
+  }
+};
+export const getPlatforms = (req, res) => {
+  try {
+    return res.json(platforms);
+  } catch (error) {
+    console.error(error);
+  }
+};
