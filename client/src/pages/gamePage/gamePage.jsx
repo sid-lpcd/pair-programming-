@@ -22,10 +22,14 @@ const GamePage = () => {
       } else {
         setGame(game[0]);
         const similarGamesList = [];
+        console.log(game[0].similar_games);
         game[0].similar_games?.forEach(async (element) => {
           const newGame = await apiHandler("GET", `games/${element}`);
-          similarGamesList.push(newGame[0]);
+          if (newGame[0]) {
+            similarGamesList.push(newGame[0]);
+          }
         });
+        console.log(similarGamesList);
         if (similarGamesList.length) {
           setSimilarGames(similarGamesList);
         }
