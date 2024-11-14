@@ -17,6 +17,13 @@ function App() {
     console.log(listGames[0]);
     setGames(listGames.splice(0, 50));
   };
+
+  const getGame = async (newGameName) => {
+    const game = await apiHandler("GET", `games/${newGameName}`);
+    console.log(game);
+    setGames(game);
+  };
+
   useEffect(() => {
     getAllGames();
   }, []);
@@ -29,7 +36,7 @@ function App() {
         setIsFilterOpen={setIsFilterOpen}
         isIndividualPage={location.pathname !== "/"}
         gameName={gameName}
-        setGameName={setGameName}
+        getGame={getGame}
       />
 
       <Routes>

@@ -8,8 +8,8 @@ const Header = ({
   isFilterOpen,
   setIsFilterOpen,
   isIndividualPage,
-  GameName,
-  setGameName,
+  gameName,
+  getGame,
 }) => {
   return (
     <header className="header">
@@ -23,9 +23,9 @@ const Header = ({
             sx={{ width: 200 }}
             renderInput={(params) => <TextField {...params} label="Game" />}
             className="header__filter-autocomplete"
-            value={GameName}
+            value={gameName}
             onChange={(event, newValue) => {
-              setGameName(newValue);
+              getGame(newValue);
             }}
           />
           <button
