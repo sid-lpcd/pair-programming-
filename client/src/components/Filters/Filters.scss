@@ -1,0 +1,69 @@
+@use "../../styles/partials/variables" as *;
+@use "../../styles/partials/mixins" as *;
+
+.filters {
+  display: grid;
+  grid-template-rows: 1fr;
+
+  @include desktop {
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 25vw;
+    max-width: 25vw;
+    height: 100vh;
+    overflow: hidden;
+    z-index: 2;
+  }
+  &--hidden {
+    grid-template-rows: 0fr;
+    @include desktop {
+      width: 0;
+    }
+    .filters-wrapper {
+      padding-bottom: 0;
+    }
+  }
+  &-wrapper {
+    background-color: $secondary-background-color;
+    overflow: hidden;
+    padding-bottom: calc($min-padding * 2);
+    height: 100%;
+  }
+
+  &__header {
+    @include desktop {
+      @include flex(space-between);
+      padding: calc($min-padding * 10) 0 calc($min-padding * 6);
+    }
+  }
+
+  &__title {
+    @include desktop {
+      padding: 0;
+    }
+  }
+
+  &__close {
+    display: none;
+    @include desktop {
+      display: unset;
+      opacity: 0;
+      background-color: unset;
+      border: none;
+      color: $primary-accent-color;
+      text-decoration: underline;
+      &--active {
+        opacity: 1;
+      }
+    }
+  }
+
+  &__container {
+    @include flex(start);
+    flex-wrap: wrap;
+    gap: $min-padding;
+    align-content: space-between;
+  }
+}
