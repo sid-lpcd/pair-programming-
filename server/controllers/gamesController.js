@@ -67,7 +67,7 @@ export const getGamesById = (req, res) => {
 
     if (game) {
       console.log(game);
-      return res.json(game);
+      return res.json([game]);
     } else {
       return res.status(404).json({ msg: "Game not found" });
     }

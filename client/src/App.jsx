@@ -18,9 +18,11 @@ function App() {
     setGames(listGames.splice(0, 50));
   };
 
-  const getGame = async (newGameName) => {
-    const game = await apiHandler("GET", `games/${newGameName}`);
+  const getGame = async (newGame) => {
+    console.log(newGame.id);
+    const game = await apiHandler("GET", `games/${newGame.id}`);
     console.log(game);
+    setGameName(null);
     setGames(game);
   };
 

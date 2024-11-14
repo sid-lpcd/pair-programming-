@@ -20,5 +20,5 @@ router.get("/themes", getThemes);
 router.get("/keywords", getKeywords);
 // router.get("/themes/:themeId", getGamesByTheme);
 router.get("/name", getGamesByName);
-router.get("/:name", getGamesById);
+router.get("/:id", getGamesById);
 export default router;
