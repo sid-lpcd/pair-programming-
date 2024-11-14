@@ -3,18 +3,30 @@ import { Autocomplete, TextField } from "@mui/material";
 import FilterIcon from "../../assets/icons/Filter.svg?react";
 import BackIcon from "../../assets/icons/Arrow.svg?react";
 
-const Header = ({ games, isFilterOpen, setIsFilterOpen, isIndividualPage }) => {
+const Header = ({
+  games,
+  isFilterOpen,
+  setIsFilterOpen,
+  isIndividualPage,
+  gameName,
+  getGame,
+}) => {
   return (
-    <header>
-      <h1>The Lord of the Games</h1>
+    <header className="header">
+      <h1 className="header__logo">The Lord of the Games</h1>
       {!isIndividualPage ? (
         <div className="header__filters-container">
           <Autocomplete
             disablePortal
             options={games}
             getOptionLabel={(option) => option.name ?? option}
-            sx={{ width: 300 }}
+            sx={{ width: 200 }}
             renderInput={(params) => <TextField {...params} label="Game" />}
+            className="header__filter-autocomplete"
+            value={gameName}
+            onChange={(event, newValue) => {
+              getGame(newValue);
+            }}
           />
           <button
             className={`header__filter-btn header__filter-btn--small ${

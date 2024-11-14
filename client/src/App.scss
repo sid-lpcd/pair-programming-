@@ -18,7 +18,7 @@ textarea,
 
 /**************** Default Padding Wrapper ******************/
 
-*[class*="wrapper"] {
+*[class$="wrapper"] {
   padding: 0 $margin-mobile;
 
   @include tablet {
@@ -116,4 +116,8 @@ body,
     font-size: 0.875rem;
     line-height: 1.0938rem;
   }
+}
+*[class*="icon"] {
+  width: 1rem;
+  height: 1rem;
 }

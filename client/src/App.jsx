@@ -1,23 +1,32 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import "./App.scss";
 import Header from "./components/Header/Header";
 import { Route, Routes, useLocation } from "react-router-dom";
 import MainPage from "./pages/MainPage/MainPage";
+import { apiHandler } from "./utils/apiUtils.mjs";
 
 function App() {
-  const [games, setGames] = useState([
-    { id: 1, name: "Fifa 2012" },
-    { id: 2, name: "Fifa 2014" },
-    { id: 3, name: "Call of Duty" },
-    { id: 4, name: "Call of Duty: Modern Warefare" },
-  ]);
+  const [games, setGames] = useState(null);
   const [isFilterOpen, setIsFilterOpen] = useState(false);
+  const [gameName, setGameName] = useState(null);
 
   const location = useLocation();
 
-  // useEffect(() => {
-  //   // setGames(getAllGames())
-  // }, []);
+  const getAllGames = async () => {
+    const listGames = await apiHandler("GET", "games/");
+    console.log(listGames[0]);
+    setGames(listGames.splice(0, 50));
+  };
+
+  const getGame = async (newGameName) => {
+    const game = await apiHandler("GET", `games/${newGameName}`);
+    console.log(game);
+    setGames(game);
+  };
+
+  useEffect(() => {
+    getAllGames();
+  }, []);
 
   return (
     <>
@@ -26,10 +35,22 @@ function App() {
         isFilterOpen={isFilterOpen}
         setIsFilterOpen={setIsFilterOpen}
         isIndividualPage={location.pathname !== "/"}
+        gameName={gameName}
+        getGame={getGame}
       />
 
       <Routes>
-        <Route path="/" element={<MainPage />} />
+        <Route
+          path="/"
+          element={
+            <MainPage
+              games={games}
+              setGames={setGames}
+              isFilterOpen={isFilterOpen}
+              setIsFilterOpen={setIsFilterOpen}
+            />
+          }
+        />
       </Routes>
     </>
   );
