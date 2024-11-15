@@ -14,27 +14,28 @@ function App() {
 
   const location = useLocation();
 
-  const getAllGames = async () => {
+  const getGames = async () => {
     const listGames = await apiHandler("GET", "games/");
     setGames(listGames.splice(0, 50));
   };
 
   const getGame = async (newGame) => {
-    console.log(newGame.id);
+    if (!newGame) {
+      getGames();
+      return setGameName(null);
+    }
     const game = await apiHandler("GET", `games/${newGame.id}`);
-    console.log(game);
-    setGameName(null);
+    setGameName(game[0]);
     setGames(game);
   };
 
   useEffect(() => {
-    getAllGames();
+    getGames();
   }, []);
 
   return (
     <>
       <Header
-        games={games}
         isFilterOpen={isFilterOpen}
         setIsFilterOpen={setIsFilterOpen}
         isIndividualPage={location.pathname !== "/"}
