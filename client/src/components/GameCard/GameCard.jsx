@@ -13,7 +13,7 @@ import {
 import ExpandMoreIcon from "../../assets/icons/Dropdown.svg?react";
 import { Link } from "react-router-dom";
 
-const GameCard = ({ gameCard, userLike, handleLikeClick, individualPage }) => {
+const GameCard = ({ gameCard, userLike, setLike, individualPage }) => {
   const convertDate = (time) => {
     const date = new Date(time);
     return date.toLocaleDateString("en-US", {
@@ -27,9 +27,9 @@ const GameCard = ({ gameCard, userLike, handleLikeClick, individualPage }) => {
     <article className="game-card">
       <div className="game-card__likes">
         {userLike ? (
-          <LikeFilled onClick={handleLikeClick} />
+          <LikeFilled onClick={() => setLike(gameCard.id)} />
         ) : (
-          <LikeOutline onClick={handleLikeClick} />
+          <LikeOutline onClick={() => setLike(gameCard.id)} />
         )}
       </div>
       <Link to={`/${gameCard.id}`} key={gameCard.id} className="game-card-link">
@@ -42,10 +42,10 @@ const GameCard = ({ gameCard, userLike, handleLikeClick, individualPage }) => {
             />
           )}
           <div className="game-card__overlay-img">
-            {gameCard.themes?.map((theme) => {
+            {gameCard.genres?.map((genre) => {
               return (
                 <Tag
-                  name={theme.name}
+                  name={genre.name}
                   className="game-card"
                   isDisabled={true}
                   key={uuidv4()}

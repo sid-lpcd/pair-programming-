@@ -4,6 +4,7 @@
 .filters {
   display: grid;
   grid-template-rows: 1fr;
+  margin-bottom: calc($min-padding * 5);
 
   @include desktop {
     display: inline-block;

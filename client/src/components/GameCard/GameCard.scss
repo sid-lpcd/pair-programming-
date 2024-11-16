@@ -45,8 +45,9 @@
     top: 0;
     z-index: 1;
     &:hover {
-      @include flex(center);
+      @include flex(center, center);
       gap: $min-padding;
+      flex-wrap: wrap;
     }
   }
 
@@ -87,7 +88,7 @@
     position: absolute;
     display: block;
     padding: $min-padding;
-    z-index: 1;
+    z-index: 2;
     & svg {
       width: 30px;
       height: 30px;

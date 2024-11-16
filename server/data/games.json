@@ -134,7 +134,8 @@
         "checksum": "8c40b73c-c673-3e26-6d53-69d01476f473"
       }
     ],
-    "url": "https://www.igdb.com/games/maji-kyun-renaissance"
+    "url": "https://www.igdb.com/games/maji-kyun-renaissance",
+    "like": false
   },
   {
     "id": 5668,
@@ -764,7 +765,8 @@
       }
     ],
     "total_rating": 75.87665911459223,
-    "url": "https://www.igdb.com/games/commando"
+    "url": "https://www.igdb.com/games/commando",
+    "like": false
   },
   {
     "id": 88308,
@@ -795,7 +797,8 @@
       }
     ],
     "summary": "Welcome to the Big Outdoors, Squirrels! Introducing the latest app featuring Hey Duggee! Safe, ad-free fun for your little ones. \n \nCompleting each activity earns the Squirrel a badge. With 5 Squirrels playing for 7 badges each, that’s a whole lot of Duggee Hugs!",
-    "url": "https://www.igdb.com/games/hey-duggee-the-big-outdoor-app"
+    "url": "https://www.igdb.com/games/hey-duggee-the-big-outdoor-app",
+    "like": false
   },
   {
     "id": 165668,
@@ -838,19 +841,22 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/endings"
+    "url": "https://www.igdb.com/games/endings",
+    "like": false
   },
   {
     "id": 95080,
     "created_at": 1521818623,
     "name": "Dotra",
-    "url": "https://www.igdb.com/games/dotra"
+    "url": "https://www.igdb.com/games/dotra",
+    "like": false
   },
   {
     "id": 104748,
     "created_at": 1530519587,
     "name": "Space station - build your own ISS",
-    "url": "https://www.igdb.com/games/space-station-build-your-own-iss"
+    "url": "https://www.igdb.com/games/space-station-build-your-own-iss",
+    "like": false
   },
   {
     "id": 89616,
@@ -939,13 +945,15 @@
       18115, 19222, 25905, 41349, 85804, 87170, 87507, 90788, 90965, 95776
     ],
     "summary": "Shoot bubbles and match colors to pop your way up to victory in this bubble shooting adventure, win magic keys to unlock more secret colorful bubble world, it’s time to enjoy the endless bubble shooting fun!",
-    "url": "https://www.igdb.com/games/bubble-whirl-shooter"
+    "url": "https://www.igdb.com/games/bubble-whirl-shooter",
+    "like": false
   },
   {
     "id": 91579,
     "created_at": 1521138594,
     "name": "Racing Live",
-    "url": "https://www.igdb.com/games/racing-live"
+    "url": "https://www.igdb.com/games/racing-live",
+    "like": false
   },
   {
     "id": 70668,
@@ -1047,7 +1055,8 @@
         "checksum": "8c40b73c-c673-3e26-6d53-69d01476f473"
       }
     ],
-    "url": "https://www.igdb.com/games/kurukuru-princess-yume-no-white-quartet"
+    "url": "https://www.igdb.com/games/kurukuru-princess-yume-no-white-quartet",
+    "like": false
   },
   {
     "id": 2401,
@@ -1211,8 +1220,9 @@
       241246
     ],
     "summary": "Jonah Lomu Rugby is a sports video game developed by Rage Software and published by Codemasters in 1997. It was released for MS-DOS, PlayStation and Sega Saturn. It was the first rugby union game released on the Saturn or PlayStation platforms.\n\nIt has five game modes: Friendly, World Cup, Tournament, Territories Cup and Classic Matches.\n\nThe title of the video game refers to former New Zealand winger Jonah Lomu.",
-    "total_rating": 70.0,
-    "url": "https://www.igdb.com/games/jonah-lomu-rugby"
+    "total_rating": 70,
+    "url": "https://www.igdb.com/games/jonah-lomu-rugby",
+    "like": false
   },
   {
     "id": 119025,
@@ -1287,7 +1297,8 @@
       17613, 24620, 36346, 65827, 76340, 87485, 100794, 101573, 105264, 112754
     ],
     "summary": "Pet Puzzle is a relaxing and leisurely three-in-a-row game.",
-    "url": "https://www.igdb.com/games/pet-puzzle"
+    "url": "https://www.igdb.com/games/pet-puzzle",
+    "like": false
   },
   {
     "id": 213046,
@@ -1325,7 +1336,8 @@
       }
     ],
     "summary": "Wales Interactive is proud to offer the ultimate bundle for their very best FMV games! Featuring Night Book, Who Pressed Mute on Uncle Marcus? Bloodshore, Five Dates and I Saw Black Clouds in one bundle!",
-    "url": "https://www.igdb.com/games/the-ultimate-fmv-bundle-2"
+    "url": "https://www.igdb.com/games/the-ultimate-fmv-bundle-2",
+    "like": false
   },
   {
     "id": 274149,
@@ -1385,13 +1397,15 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/crusades"
+    "url": "https://www.igdb.com/games/crusades",
+    "like": false
   },
   {
     "id": 130740,
     "created_at": 1582360476,
     "name": "Deathmatch Club",
-    "url": "https://www.igdb.com/games/deathmatch-club"
+    "url": "https://www.igdb.com/games/deathmatch-club",
+    "like": false
   },
   {
     "id": 202668,
@@ -1460,7 +1474,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/toms-adventure--1"
+    "url": "https://www.igdb.com/games/toms-adventure--1",
+    "like": false
   },
   {
     "id": 274991,
@@ -1523,7 +1538,8 @@
         "checksum": "95416d52-fb76-9995-f035-ee86bafbe5c4"
       }
     ],
-    "url": "https://www.igdb.com/games/hi-5-dvd-game"
+    "url": "https://www.igdb.com/games/hi-5-dvd-game",
+    "like": false
   },
   {
     "id": 203546,
@@ -1581,7 +1597,8 @@
       13189, 25222, 27266, 55282, 75948, 87975, 96217, 106992, 111130, 121217
     ],
     "summary": "In the atmospheric puzzle-platformer Meat & Greed, you will experience the horrors of a slaughterhouse from the perspective of different animals. Solve riddles and collaborate with other animals to try and escape this ill-fated factory.",
-    "url": "https://www.igdb.com/games/meat-and-greed"
+    "url": "https://www.igdb.com/games/meat-and-greed",
+    "like": false
   },
   {
     "id": 314733,
@@ -1616,7 +1633,8 @@
       }
     ],
     "summary": "Dive into MadBreak, a captivating reimagining of the beloved \"Brick Breaker\" game. With each level, you'll face exhilarating challenges that push your skills to the limit. Can you master the unique twists and turns that MadBreak throws your way? Break through the ordinary and embrace the extraordinary. Test your reflexes, strategize your moves, and discover if you have what it takes to conquer MadBreak! Get ready for an adrenaline-fueled journey where every block shattered brings you closer to victory. Are you up for the challenge? Game SUPPORTs controller use!",
-    "url": "https://www.igdb.com/games/madbreak"
+    "url": "https://www.igdb.com/games/madbreak",
+    "like": false
   },
   {
     "id": 230654,
@@ -1653,14 +1671,16 @@
         "checksum": "bdc235e9-0e6d-f73f-a420-cfa7935af434"
       }
     ],
-    "url": "https://www.igdb.com/games/hockey-de-mesa"
+    "url": "https://www.igdb.com/games/hockey-de-mesa",
+    "like": false
   },
   {
     "id": 176242,
     "created_at": 1634290363,
     "name": "This hole in my chest",
     "summary": "A game about feeling empty",
-    "url": "https://www.igdb.com/games/this-hole-in-my-chest"
+    "url": "https://www.igdb.com/games/this-hole-in-my-chest",
+    "like": false
   },
   {
     "id": 99620,
@@ -1724,7 +1744,8 @@
       25222, 34218, 55282, 75948, 87622, 87975, 103292, 106992, 111130, 115374
     ],
     "summary": "After being called to Paris, you find yourself in the middle of a shocking mystery involving an ancient werewolf hungry for revenge.",
-    "url": "https://www.igdb.com/games/shadow-wolf-mysteries-cursed-wedding-collectors-edition"
+    "url": "https://www.igdb.com/games/shadow-wolf-mysteries-cursed-wedding-collectors-edition",
+    "like": false
   },
   {
     "id": 210938,
@@ -1774,13 +1795,15 @@
       7615, 13196, 19404, 25311, 26845, 103232, 109339, 111187, 113402, 119598
     ],
     "summary": "Phoenix Point: Complete Edition, the acclaimed strategy game from the creator of X-COM, is now assembled into the ultimate collection, including all DLCs, content updates, and product improvements over four years of development.",
-    "url": "https://www.igdb.com/games/phoenix-point-complete-edition"
+    "url": "https://www.igdb.com/games/phoenix-point-complete-edition",
+    "like": false
   },
   {
     "id": 94975,
     "created_at": 1521565054,
     "name": "Wubble Bubbles",
-    "url": "https://www.igdb.com/games/wubble-bubbles"
+    "url": "https://www.igdb.com/games/wubble-bubbles",
+    "like": false
   },
   {
     "id": 192652,
@@ -1850,13 +1873,15 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/out-of-orbit"
+    "url": "https://www.igdb.com/games/out-of-orbit",
+    "like": false
   },
   {
     "id": 102637,
     "created_at": 1527332612,
     "name": "Word Champion!",
-    "url": "https://www.igdb.com/games/word-champion"
+    "url": "https://www.igdb.com/games/word-champion",
+    "like": false
   },
   {
     "id": 130742,
@@ -1873,7 +1898,8 @@
     },
     "created_at": 1582360606,
     "name": "Flashy Maze",
-    "url": "https://www.igdb.com/games/flashy-maze"
+    "url": "https://www.igdb.com/games/flashy-maze",
+    "like": false
   },
   {
     "id": 32258,
@@ -1911,19 +1937,22 @@
       1447, 35737, 49414, 56036, 59427, 64061, 87485, 99118, 111287, 112082
     ],
     "summary": "In the distant future, humanity is nearing it's end. A monster that was slain by the divine long ago has returned and is hunting down all life. Now a group of people have managed to get an old device up and running, this will allow Jason to go back in time and try to save this dark and desperate future. Along the way he will meet people who have a certain impact in time, but can he change that impact or is time truly set in stone?  \nHis journey will take him to four different times, each having their own style and characters. Along the way he will uncover deep dark secrets that will change how everyone sees the world and universe. In the end nothing will be the same.",
-    "url": "https://www.igdb.com/games/the-divine-paradox"
+    "url": "https://www.igdb.com/games/the-divine-paradox",
+    "like": false
   },
   {
     "id": 94831,
     "created_at": 1521417600,
     "name": "Lines",
-    "url": "https://www.igdb.com/games/lines--2"
+    "url": "https://www.igdb.com/games/lines--2",
+    "like": false
   },
   {
     "id": 101840,
     "created_at": 1526640012,
     "name": "Aisleen",
-    "url": "https://www.igdb.com/games/aisleen"
+    "url": "https://www.igdb.com/games/aisleen",
+    "like": false
   },
   {
     "id": 268167,
@@ -1944,13 +1973,15 @@
       17613, 36346, 65827, 76340, 87485, 100794, 101573, 105264, 112754, 115738
     ],
     "summary": "Experience exhilarating Chinese high-speed rail operations with the Zhengxi passenger line from SimTech Vision for Train simulator.",
-    "url": "https://www.igdb.com/games/train-simulator-zhengxi-highspeed-zhengzhou-sanmenxia-route"
+    "url": "https://www.igdb.com/games/train-simulator-zhengxi-highspeed-zhengzhou-sanmenxia-route",
+    "like": false
   },
   {
     "id": 101761,
     "created_at": 1526638544,
     "name": "BackDoor- Door 1",
-    "url": "https://www.igdb.com/games/backdoor-door-1"
+    "url": "https://www.igdb.com/games/backdoor-door-1",
+    "like": false
   },
   {
     "id": 85137,
@@ -2001,7 +2032,8 @@
       }
     ],
     "summary": "Family Trainer: Extreme Challenge is the follow up to the successful Family Trainer game/mat bundle.",
-    "url": "https://www.igdb.com/games/family-trainer-extreme-challenge"
+    "url": "https://www.igdb.com/games/family-trainer-extreme-challenge",
+    "like": false
   },
   {
     "id": 15258,
@@ -2080,7 +2112,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/masterblazer"
+    "url": "https://www.igdb.com/games/masterblazer",
+    "like": false
   },
   {
     "id": 85349,
@@ -2140,7 +2173,8 @@
       17613, 19222, 25905, 41349, 51207, 77597, 87507, 90839, 95776, 121518
     ],
     "summary": "Prism Pets, a colorfully cute puzzle that shines. Slide, smash and crash your way into color!",
-    "url": "https://www.igdb.com/games/prism-pets"
+    "url": "https://www.igdb.com/games/prism-pets",
+    "like": false
   },
   {
     "id": 230918,
@@ -2178,25 +2212,29 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/kings-hand-seasonal-winter-pack"
+    "url": "https://www.igdb.com/games/kings-hand-seasonal-winter-pack",
+    "like": false
   },
   {
     "id": 95081,
     "created_at": 1521819163,
     "name": "Soccer Rally Arena",
-    "url": "https://www.igdb.com/games/soccer-rally-arena"
+    "url": "https://www.igdb.com/games/soccer-rally-arena",
+    "like": false
   },
   {
     "id": 130745,
     "created_at": 1582360624,
     "name": "TS Online Mobile",
-    "url": "https://www.igdb.com/games/ts-online-mobile"
+    "url": "https://www.igdb.com/games/ts-online-mobile",
+    "like": false
   },
   {
     "id": 125970,
     "created_at": 1574087941,
     "name": "Tie Break Tennis",
-    "url": "https://www.igdb.com/games/tie-break-tennis"
+    "url": "https://www.igdb.com/games/tie-break-tennis",
+    "like": false
   },
   {
     "id": 171563,
@@ -2226,7 +2264,8 @@
       13189, 25222, 27266, 55282, 75948, 87975, 96217, 106992, 111130, 121217
     ],
     "summary": "A stroke of luck, a once in a lifetime chance to end the war. The fleet gathers in preparation for an invasion. The Battle of Mochi Prime... is about to begin.",
-    "url": "https://www.igdb.com/games/space-fox-kimi-the-battle-of-mochi-prime"
+    "url": "https://www.igdb.com/games/space-fox-kimi-the-battle-of-mochi-prime",
+    "like": false
   },
   {
     "id": 283004,
@@ -2261,7 +2300,8 @@
       }
     ],
     "summary": "Porky's was a prototype game designed for the ColecoVision in 1983. Revenge is sweet... and you're out to get it. You've been \"had\" at Porky's, and you're out to blow it away. The action's hot and heavy and it's up to you to keep Pee Wee on his toes. If he succumbs to distraction, it's the pits! It's more fun than a greased pig... it's a blast!",
-    "url": "https://www.igdb.com/games/porkys--1"
+    "url": "https://www.igdb.com/games/porkys--1",
+    "like": false
   },
   {
     "id": 230919,
@@ -2299,7 +2339,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/kings-hand-exotic-purgatory-pack"
+    "url": "https://www.igdb.com/games/kings-hand-exotic-purgatory-pack",
+    "like": false
   },
   {
     "id": 36573,
@@ -2440,7 +2481,8 @@
       5399, 25905, 43367, 58095, 86503, 90788, 90965, 117939, 119493, 178246
     ],
     "summary": "Maximum Force is a light gun shooter arcade game developed by Mesa Logic for Atari Games in 1997. In 1998, Atari Games re-released the game as part of one machine called Area 51/Maximum Force Duo that also included Area 51, and later ported the game to both the Sony PlayStation and Sega Saturn game consoles.\n\nLike its predecessor Area 51, Maximum Force is notable for its use of digitized video stored on an on-board hard disk, and the bizarrely contrasting unrealistic gibs into which every enemy blows apart when shot, in exactly the same way. While enemies, innocents, and explosions are 2D digitized video sprites, the levels and vehicles are pre-rendered in 3D.",
-    "url": "https://www.igdb.com/games/maximum-force"
+    "url": "https://www.igdb.com/games/maximum-force",
+    "like": false
   },
   {
     "id": 26668,
@@ -2546,7 +2588,8 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/re-zero-starting-life-in-another-world-death-or-kiss"
+    "url": "https://www.igdb.com/games/re-zero-starting-life-in-another-world-death-or-kiss",
+    "like": false
   },
   {
     "id": 82461,
@@ -2582,14 +2625,16 @@
       }
     ],
     "summary": "Sparkle 2: Sparkle 2 is a superbly polished marble shooter action puzzle game with beautiful graphics, mighty powerups and an amazing soundtrack. Match the orbs before they fall into the abyss and find your way through mysterious lands of startling beauty!\n\nAzkend 2: Step aboard a fantastic adventure! Enjoy amazing match-three gameplay and discover one of the most astonishing worlds ever imagined.",
-    "total_rating": 60.0,
-    "url": "https://www.igdb.com/games/10tons-adventure-puzzles-bundle"
+    "total_rating": 60,
+    "url": "https://www.igdb.com/games/10tons-adventure-puzzles-bundle",
+    "like": false
   },
   {
     "id": 96085,
     "created_at": 1522345078,
     "name": "Rocky Climb",
-    "url": "https://www.igdb.com/games/rocky-climb--1"
+    "url": "https://www.igdb.com/games/rocky-climb--1",
+    "like": false
   },
   {
     "id": 12323,
@@ -2713,14 +2758,16 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "url": "https://www.igdb.com/games/fatal-run"
+    "url": "https://www.igdb.com/games/fatal-run",
+    "like": false
   },
   {
     "id": 24244,
     "created_at": 1474570527,
     "name": "Memorick: The Apprentice Knight",
-    "total_rating": 69.0,
-    "url": "https://www.igdb.com/games/memorick-the-apprentice-knight"
+    "total_rating": 69,
+    "url": "https://www.igdb.com/games/memorick-the-apprentice-knight",
+    "like": false
   },
   {
     "id": 130753,
@@ -2818,7 +2865,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/crazy-kong--1"
+    "url": "https://www.igdb.com/games/crazy-kong--1",
+    "like": false
   },
   {
     "id": 268284,
@@ -2848,7 +2896,8 @@
       17613, 17637, 24620, 31515, 36269, 36346, 55590, 65827, 76340, 112754
     ],
     "summary": "Izyum-Barvenkovo offensive operation of the Red Army was carried out from 17 to 27 July, 1943 by forces of South-Western Front in order to encircle and destroy the German group defending Donbass, as well to prevent the transfer of enemy troops to the Kursk region.",
-    "url": "https://www.igdb.com/games/graviteam-tactics-stalemate-on-donets"
+    "url": "https://www.igdb.com/games/graviteam-tactics-stalemate-on-donets",
+    "like": false
   },
   {
     "id": 283005,
@@ -2883,19 +2932,22 @@
       }
     ],
     "summary": "With an overhead view of the table, you play a billiards variant called \"Pocket Ball\" with just six object balls. Imprecise control over the aim and velocity of your shots. You'll discover the exicetiment of ball colliding. The silence and concentration of the billiard room, as well as the enthusiasm of the players will all be there for you.",
-    "url": "https://www.igdb.com/games/video-hustler--1"
+    "url": "https://www.igdb.com/games/video-hustler--1",
+    "like": false
   },
   {
     "id": 118708,
     "created_at": 1558129952,
     "name": "The Crew 2: Digital Deluxe Edition",
-    "url": "https://www.igdb.com/games/the-crew-2-digital-deluxe-edition"
+    "url": "https://www.igdb.com/games/the-crew-2-digital-deluxe-edition",
+    "like": false
   },
   {
     "id": 108614,
     "created_at": 1536219164,
     "name": "Leo Spanish Spelling Complete",
-    "url": "https://www.igdb.com/games/leo-spanish-spelling-complete"
+    "url": "https://www.igdb.com/games/leo-spanish-spelling-complete",
+    "like": false
   },
   {
     "id": 130751,
@@ -2917,13 +2969,15 @@
       }
     ],
     "summary": "Tower of Fortune is a retro-style slot machine/RPG. You play as a retired hero and lived with daughter peacefully. Until one day, an unknown power from the mystic tower took her away. This force the hero to draw the sword again and fight for his daughter.",
-    "url": "https://www.igdb.com/games/tower-of-fortune"
+    "url": "https://www.igdb.com/games/tower-of-fortune",
+    "like": false
   },
   {
     "id": 130752,
     "created_at": 1582360826,
     "name": "Kuma no Pooh-San: 100 Acre no Mori no Cooking Book",
-    "url": "https://www.igdb.com/games/kuma-no-pooh-san-100-acre-no-mori-no-cooking-book"
+    "url": "https://www.igdb.com/games/kuma-no-pooh-san-100-acre-no-mori-no-cooking-book",
+    "like": false
   },
   {
     "id": 232258,
@@ -2955,7 +3009,8 @@
         "checksum": "95416d52-fb76-9995-f035-ee86bafbe5c4"
       }
     ],
-    "url": "https://www.igdb.com/games/jello-bubbles-pop-color-balls"
+    "url": "https://www.igdb.com/games/jello-bubbles-pop-color-balls",
+    "like": false
   },
   {
     "id": 232243,
@@ -2997,7 +3052,8 @@
         "checksum": "95416d52-fb76-9995-f035-ee86bafbe5c4"
       }
     ],
-    "url": "https://www.igdb.com/games/pixel-race-endless-retro-racing"
+    "url": "https://www.igdb.com/games/pixel-race-endless-retro-racing",
+    "like": false
   },
   {
     "id": 311462,
@@ -3054,7 +3110,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/paradise-up-above-gold-label-edition"
+    "url": "https://www.igdb.com/games/paradise-up-above-gold-label-edition",
+    "like": false
   },
   {
     "id": 12930,
@@ -3151,7 +3208,8 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "url": "https://www.igdb.com/games/voyager"
+    "url": "https://www.igdb.com/games/voyager",
+    "like": false
   },
   {
     "id": 303668,
@@ -3324,7 +3382,8 @@
       23733, 25222, 25646, 26223, 27266, 55190, 106992, 150394, 291421, 310249
     ],
     "summary": "The beautifully hand-drawn art of the Hidden Cats Series levels from Nukearts is now in a Jigsaw Puzzle game! Enjoy the free content from Paris City and get more from DLCs.",
-    "url": "https://www.igdb.com/games/hidden-cats-in-jigsaw-puzzle"
+    "url": "https://www.igdb.com/games/hidden-cats-in-jigsaw-puzzle",
+    "like": false
   },
   {
     "id": 305010,
@@ -3439,7 +3498,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/street-fighter-6-year-2-terry"
+    "url": "https://www.igdb.com/games/street-fighter-6-year-2-terry",
+    "like": false
   },
   {
     "id": 38557,
@@ -3534,7 +3594,8 @@
       233120
     ],
     "summary": "A pool game initially released by Konami in 1981 for the arcade.",
-    "url": "https://www.igdb.com/games/video-hustler"
+    "url": "https://www.igdb.com/games/video-hustler",
+    "like": false
   },
   {
     "id": 314668,
@@ -3664,7 +3725,8 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/cactiverse"
+    "url": "https://www.igdb.com/games/cactiverse",
+    "like": false
   },
   {
     "id": 190243,
@@ -3705,19 +3767,22 @@
       19404, 31515, 33603, 33646, 36269, 55590, 65827, 111043, 115539, 116674
     ],
     "summary": "Magna Graecia is a colorful building strategy and puzzle game in ancient Greek style in which you create a sprawling village with olives and grapes by placing buildings strategically, leveling them up, receiving adjacency bonuses, and expanding your territory, while enjoying the whole process.",
-    "url": "https://www.igdb.com/games/magna-graecia"
+    "url": "https://www.igdb.com/games/magna-graecia",
+    "like": false
   },
   {
     "id": 100487,
     "created_at": 1525334844,
     "name": "Catch It",
-    "url": "https://www.igdb.com/games/catch-it"
+    "url": "https://www.igdb.com/games/catch-it",
+    "like": false
   },
   {
     "id": 92040,
     "created_at": 1521189075,
     "name": "Bingo",
-    "url": "https://www.igdb.com/games/bingo--1"
+    "url": "https://www.igdb.com/games/bingo--1",
+    "like": false
   },
   {
     "id": 209901,
@@ -3765,19 +3830,22 @@
         "checksum": "882ca6f3-57ac-cd51-6c68-7a1e030c36ab"
       }
     ],
-    "url": "https://www.igdb.com/games/hidden-secrets-the-nightmare"
+    "url": "https://www.igdb.com/games/hidden-secrets-the-nightmare",
+    "like": false
   },
   {
     "id": 104739,
     "created_at": 1530519489,
     "name": "Word Nut: Word Games & Puzzles",
-    "url": "https://www.igdb.com/games/word-nut-word-games-and-puzzles"
+    "url": "https://www.igdb.com/games/word-nut-word-games-and-puzzles",
+    "like": false
   },
   {
     "id": 89689,
     "created_at": 1519988583,
     "name": "A Knight's Move",
-    "url": "https://www.igdb.com/games/a-knights-move"
+    "url": "https://www.igdb.com/games/a-knights-move",
+    "like": false
   },
   {
     "id": 118128,
@@ -3879,8 +3947,9 @@
       19404, 25311, 28182, 35994, 79134, 96217, 103232, 106987, 109339, 113402
     ],
     "summary": "Little Dungeon Stories is a challenging roguelike card-based RPG. Enter the dungeon full of secrets, hostile monsters, deadly traps, and legendary loots. How long can you survive?",
-    "total_rating": 50.0,
-    "url": "https://www.igdb.com/games/little-dungeon-stories"
+    "total_rating": 50,
+    "url": "https://www.igdb.com/games/little-dungeon-stories",
+    "like": false
   },
   {
     "id": 197231,
@@ -3916,7 +3985,8 @@
       10603, 19222, 25905, 41349, 87507, 88511, 88863, 90788, 90839, 95776
     ],
     "summary": "New, addictive and clever game mechanics in a beautiful and carefully designed world of rhombuses. Turn the tiles or turn the board to complete the levels and help the animals getting on the bus.",
-    "url": "https://www.igdb.com/games/rhom-bus"
+    "url": "https://www.igdb.com/games/rhom-bus",
+    "like": false
   },
   {
     "id": 197609,
@@ -4034,7 +4104,8 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/ys-viii-lacrimosa-of-dana-deluxe-edition"
+    "url": "https://www.igdb.com/games/ys-viii-lacrimosa-of-dana-deluxe-edition",
+    "like": false
   },
   {
     "id": 91555,
@@ -4082,7 +4153,8 @@
         "checksum": "882ca6f3-57ac-cd51-6c68-7a1e030c36ab"
       }
     ],
-    "url": "https://www.igdb.com/games/spike-the-hedgehog"
+    "url": "https://www.igdb.com/games/spike-the-hedgehog",
+    "like": false
   },
   {
     "id": 30668,
@@ -4154,7 +4226,8 @@
       18011, 25222, 25646, 26223, 27266, 55190, 81275, 95776, 106992, 113895
     ],
     "summary": "Repulsanoid is a unique but simple 3D Puzzle game, that features a one-of-a-kind control method and provides a wide variety of challenges based around it. \nIt tasks the player with controlling the bounds of the stage, rather than a character. \nIt's a stress-free, but engaging test of your reflexes and 3D thinking.",
-    "url": "https://www.igdb.com/games/repulsanoid"
+    "url": "https://www.igdb.com/games/repulsanoid",
+    "like": false
   },
   {
     "id": 313700,
@@ -4253,7 +4326,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/idle-champions-dr-buzz-watson-the-bee-familiar-pack"
+    "url": "https://www.igdb.com/games/idle-champions-dr-buzz-watson-the-bee-familiar-pack",
+    "like": false
   },
   {
     "id": 171309,
@@ -4313,37 +4387,43 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/neon-arena--1"
+    "url": "https://www.igdb.com/games/neon-arena--1",
+    "like": false
   },
   {
     "id": 106781,
     "created_at": 1533286648,
     "name": "Jump Ball Blast",
-    "url": "https://www.igdb.com/games/jump-ball-blast"
+    "url": "https://www.igdb.com/games/jump-ball-blast",
+    "like": false
   },
   {
     "id": 137234,
     "created_at": 1598521799,
     "name": "Slip Slop",
-    "url": "https://www.igdb.com/games/slip-slop"
+    "url": "https://www.igdb.com/games/slip-slop",
+    "like": false
   },
   {
     "id": 137242,
     "created_at": 1598521968,
     "name": "Premier Collection III",
-    "url": "https://www.igdb.com/games/premier-collection-iii"
+    "url": "https://www.igdb.com/games/premier-collection-iii",
+    "like": false
   },
   {
     "id": 104304,
     "created_at": 1530176713,
     "name": "Wildland Animal Hunting",
-    "url": "https://www.igdb.com/games/wildland-animal-hunting"
+    "url": "https://www.igdb.com/games/wildland-animal-hunting",
+    "like": false
   },
   {
     "id": 52641,
     "created_at": 1501413934,
     "name": "One Epic Game",
-    "url": "https://www.igdb.com/games/one-epic-game"
+    "url": "https://www.igdb.com/games/one-epic-game",
+    "like": false
   },
   {
     "id": 300977,
@@ -4439,25 +4519,29 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/disneys-peter-pan-return-to-neverland"
+    "url": "https://www.igdb.com/games/disneys-peter-pan-return-to-neverland",
+    "like": false
   },
   {
     "id": 130725,
     "created_at": 1582360159,
     "name": "Caution! Platforming Ahead",
-    "url": "https://www.igdb.com/games/caution-platforming-ahead"
+    "url": "https://www.igdb.com/games/caution-platforming-ahead",
+    "like": false
   },
   {
     "id": 92009,
     "created_at": 1521188626,
     "name": "Morph Chess 3D",
-    "url": "https://www.igdb.com/games/morph-chess-3d"
+    "url": "https://www.igdb.com/games/morph-chess-3d",
+    "like": false
   },
   {
     "id": 97156,
     "created_at": 1524230486,
     "name": "UFO Hunter",
-    "url": "https://www.igdb.com/games/ufo-hunter"
+    "url": "https://www.igdb.com/games/ufo-hunter",
+    "like": false
   },
   {
     "id": 6668,
@@ -4609,14 +4693,16 @@
         "checksum": "91f581b0-62df-6d68-b7fc-1d4f1bc6d4fa"
       }
     ],
-    "total_rating": 50.0,
-    "url": "https://www.igdb.com/games/escape-the-museum"
+    "total_rating": 50,
+    "url": "https://www.igdb.com/games/escape-the-museum",
+    "like": false
   },
   {
     "id": 88217,
     "created_at": 1519233384,
     "name": "Duck Bow Hunt",
-    "url": "https://www.igdb.com/games/duck-bow-hunt"
+    "url": "https://www.igdb.com/games/duck-bow-hunt",
+    "like": false
   },
   {
     "id": 209902,
@@ -4650,7 +4736,8 @@
         "checksum": "882ca6f3-57ac-cd51-6c68-7a1e030c36ab"
       }
     ],
-    "url": "https://www.igdb.com/games/hidden-stroke-aprm"
+    "url": "https://www.igdb.com/games/hidden-stroke-aprm",
+    "like": false
   },
   {
     "id": 195243,
@@ -4730,7 +4817,8 @@
         "checksum": "4eaf0aee-fa6d-02a9-2694-3f74fd14451f"
       }
     ],
-    "url": "https://www.igdb.com/games/yummy-girl-2"
+    "url": "https://www.igdb.com/games/yummy-girl-2",
+    "like": false
   },
   {
     "id": 192243,
@@ -4771,7 +4859,8 @@
       13189, 25222, 27266, 55282, 75948, 87975, 96217, 106992, 111130, 121217
     ],
     "summary": "A room-scale VR narrative puzzle game. Solve spatial puzzles under strict time constraints. Assemble and properly combine an assortment of 3d shapes into predefined spaces.",
-    "url": "https://www.igdb.com/games/plumb"
+    "url": "https://www.igdb.com/games/plumb",
+    "like": false
   },
   {
     "id": 126369,
@@ -4840,7 +4929,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/nanoworld"
+    "url": "https://www.igdb.com/games/nanoworld",
+    "like": false
   },
   {
     "id": 79780,
@@ -4870,7 +4960,8 @@
       82297, 82299, 82300, 82301, 82302, 82304, 82307, 82310, 82311, 83060
     ],
     "summary": "Slotter Mania Gaiden is a pachislot game for the original PlayStation.",
-    "url": "https://www.igdb.com/games/slotter-mania-gaiden"
+    "url": "https://www.igdb.com/games/slotter-mania-gaiden",
+    "like": false
   },
   {
     "id": 160532,
@@ -4902,7 +4993,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/tiger-tank-59-i-a-gun-mp034"
+    "url": "https://www.igdb.com/games/tiger-tank-59-i-a-gun-mp034",
+    "like": false
   },
   {
     "id": 185421,
@@ -4924,7 +5016,8 @@
       318519
     ],
     "summary": "cute climbing",
-    "url": "https://www.igdb.com/games/paw-bois"
+    "url": "https://www.igdb.com/games/paw-bois",
+    "like": false
   },
   {
     "id": 283003,
@@ -4988,7 +5081,8 @@
       }
     ],
     "summary": "A.E. is a Space Invaders inspired game with a 3D view. In A.E. the earth is under attack by swarms of aliens who drop bomb after bomb and it's your job to defend planet Earth. You control a laser cannon that moves horizontally at the bottom of the screen. To earn point you should shoot all the alien forces before they shoot you! The game becomes more challenging when you progress in the game as the alien swarm splits up and attack you from several sides. This version is a homebrew version released in 2012",
-    "url": "https://www.igdb.com/games/ae--3"
+    "url": "https://www.igdb.com/games/ae--3",
+    "like": false
   },
   {
     "id": 258134,
@@ -5049,7 +5143,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/solar-struggle--1"
+    "url": "https://www.igdb.com/games/solar-struggle--1",
+    "like": false
   },
   {
     "id": 71213,
@@ -5182,7 +5277,8 @@
         "checksum": "055d8eb9-e32a-35b5-22b6-05f33f883ae3"
       }
     ],
-    "url": "https://www.igdb.com/games/carriers-at-war"
+    "url": "https://www.igdb.com/games/carriers-at-war",
+    "like": false
   },
   {
     "id": 83466,
@@ -5283,20 +5379,23 @@
       236, 25222, 27266, 27725, 28182, 32510, 40477, 79134, 106992, 111054
     ],
     "summary": "Spider Solitaire is one of the most popular solitaire games in the world! If you are a big fan of Spider Solitaire, Klondike solitaire, FreeCell Solitaire or other card games, you will love this spectacular and highly polished game! Change the game's appearance to suit your own taste. Progress through the game to unlock unique card sets and backgrounds. Customize your Solitare to make it unique and exclusive. Stunning animations and gameplay designed for endless entertainment in the palm of your hand.",
-    "total_rating": 70.0,
-    "url": "https://www.igdb.com/games/spider-solitaire"
+    "total_rating": 70,
+    "url": "https://www.igdb.com/games/spider-solitaire",
+    "like": false
   },
   {
     "id": 137244,
     "created_at": 1598522013,
     "name": "Line Simulator 2020",
-    "url": "https://www.igdb.com/games/line-simulator-2020"
+    "url": "https://www.igdb.com/games/line-simulator-2020",
+    "like": false
   },
   {
     "id": 101918,
     "created_at": 1526642829,
     "name": "Crayon Poke",
-    "url": "https://www.igdb.com/games/crayon-poke"
+    "url": "https://www.igdb.com/games/crayon-poke",
+    "like": false
   },
   {
     "id": 52235,
@@ -5358,19 +5457,22 @@
         "checksum": "aa433d9d-5fe2-ecb3-7822-536673adb8ee"
       }
     ],
-    "url": "https://www.igdb.com/games/hospital-hustle"
+    "url": "https://www.igdb.com/games/hospital-hustle",
+    "like": false
   },
   {
     "id": 90359,
     "created_at": 1520942978,
     "name": "iLudo",
-    "url": "https://www.igdb.com/games/iludo"
+    "url": "https://www.igdb.com/games/iludo",
+    "like": false
   },
   {
     "id": 102490,
     "created_at": 1527164919,
     "name": "DinoSaur Ice Survival Craft",
-    "url": "https://www.igdb.com/games/dinosaur-ice-survival-craft"
+    "url": "https://www.igdb.com/games/dinosaur-ice-survival-craft",
+    "like": false
   },
   {
     "id": 137232,
@@ -5434,7 +5536,8 @@
     ],
     "name": "I Don't Want to Die",
     "summary": "The game is simple: You play as Mr Nife Frown who is grumpy but doesn't want to die. But than things randomly start falling from the sky and if they hit you, you die.\n\nIt is as simple as that\n\nThis was made for 2 hour challenge by the talented devs at Stux Games.",
-    "url": "https://www.igdb.com/games/i-dont-want-to-die"
+    "url": "https://www.igdb.com/games/i-dont-want-to-die",
+    "like": false
   },
   {
     "id": 317637,
@@ -5522,7 +5625,8 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/a-dream-of-silence"
+    "url": "https://www.igdb.com/games/a-dream-of-silence",
+    "like": false
   },
   {
     "id": 247093,
@@ -5571,7 +5675,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/asura-the-striker"
+    "url": "https://www.igdb.com/games/asura-the-striker",
+    "like": false
   },
   {
     "id": 244132,
@@ -5614,7 +5719,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/planetblight"
+    "url": "https://www.igdb.com/games/planetblight",
+    "like": false
   },
   {
     "id": 394,
@@ -6162,13 +6268,15 @@
       }
     ],
     "total_rating": 89.00238226047661,
-    "url": "https://www.igdb.com/games/final-fantasy-tactics-the-war-of-the-lions"
+    "url": "https://www.igdb.com/games/final-fantasy-tactics-the-war-of-the-lions",
+    "like": false
   },
   {
     "id": 90944,
     "created_at": 1520960772,
     "name": "Terwilliger",
-    "url": "https://www.igdb.com/games/terwilliger"
+    "url": "https://www.igdb.com/games/terwilliger",
+    "like": false
   },
   {
     "id": 55648,
@@ -6264,13 +6372,15 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/landon"
+    "url": "https://www.igdb.com/games/landon",
+    "like": false
   },
   {
     "id": 105934,
     "created_at": 1532194590,
     "name": "Fireman Titan Fights Games",
-    "url": "https://www.igdb.com/games/fireman-titan-fights-games"
+    "url": "https://www.igdb.com/games/fireman-titan-fights-games",
+    "like": false
   },
   {
     "id": 206978,
@@ -6318,7 +6428,8 @@
         "checksum": "882ca6f3-57ac-cd51-6c68-7a1e030c36ab"
       }
     ],
-    "url": "https://www.igdb.com/games/clue-jr-spyglass-mysteries"
+    "url": "https://www.igdb.com/games/clue-jr-spyglass-mysteries",
+    "like": false
   },
   {
     "id": 102719,
@@ -6401,7 +6512,8 @@
         "checksum": "361067f4-c398-2b0b-6c51-8b3132372658"
       }
     ],
-    "url": "https://www.igdb.com/games/air-assault-2"
+    "url": "https://www.igdb.com/games/air-assault-2",
+    "like": false
   },
   {
     "id": 269457,
@@ -6458,19 +6570,22 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/malevolence--1"
+    "url": "https://www.igdb.com/games/malevolence--1",
+    "like": false
   },
   {
     "id": 52692,
     "created_at": 1501430496,
     "name": "Recoil: Retrograd",
-    "url": "https://www.igdb.com/games/recoil-retrograd"
+    "url": "https://www.igdb.com/games/recoil-retrograd",
+    "like": false
   },
   {
     "id": 98173,
     "created_at": 1524646088,
     "name": "Daneta3",
-    "url": "https://www.igdb.com/games/daneta3"
+    "url": "https://www.igdb.com/games/daneta3",
+    "like": false
   },
   {
     "id": 264706,
@@ -6522,7 +6637,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/emberrush"
+    "url": "https://www.igdb.com/games/emberrush",
+    "like": false
   },
   {
     "id": 35649,
@@ -6655,14 +6771,16 @@
         "checksum": "81df3ee7-c23d-b87f-36b5-e2a3279d45de"
       }
     ],
-    "url": "https://www.igdb.com/games/spud"
+    "url": "https://www.igdb.com/games/spud",
+    "like": false
   },
   {
     "id": 23635,
     "created_at": 1473156495,
     "name": "Dragon Atlas",
-    "total_rating": 70.0,
-    "url": "https://www.igdb.com/games/dragon-atlas"
+    "total_rating": 70,
+    "url": "https://www.igdb.com/games/dragon-atlas",
+    "like": false
   },
   {
     "id": 147588,
@@ -6824,7 +6942,8 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "url": "https://www.igdb.com/games/cazzarion"
+    "url": "https://www.igdb.com/games/cazzarion",
+    "like": false
   },
   {
     "id": 287510,
@@ -6877,7 +6996,8 @@
       287543, 287546, 287552, 287555, 287562, 287564, 287565, 287568, 287650,
       287651
     ],
-    "url": "https://www.igdb.com/games/five-days"
+    "url": "https://www.igdb.com/games/five-days",
+    "like": false
   },
   {
     "id": 43421,
@@ -6981,7 +7101,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/maken-shao-demon-sword"
+    "url": "https://www.igdb.com/games/maken-shao-demon-sword",
+    "like": false
   },
   {
     "id": 26625,
@@ -7189,13 +7310,15 @@
       }
     ],
     "total_rating": 86.9472665312474,
-    "url": "https://www.igdb.com/games/final-fantasy-xiv-stormblood"
+    "url": "https://www.igdb.com/games/final-fantasy-xiv-stormblood",
+    "like": false
   },
   {
     "id": 137239,
     "created_at": 1598521852,
     "name": "Brave Blob",
-    "url": "https://www.igdb.com/games/brave-blob"
+    "url": "https://www.igdb.com/games/brave-blob",
+    "like": false
   },
   {
     "id": 60688,
@@ -7210,7 +7333,8 @@
     },
     "created_at": 1504859899,
     "name": "Simon the Sorcerer 6: Between Worlds",
-    "url": "https://www.igdb.com/games/simon-the-sorcerer-6-between-worlds"
+    "url": "https://www.igdb.com/games/simon-the-sorcerer-6-between-worlds",
+    "like": false
   },
   {
     "id": 78096,
@@ -7241,7 +7365,8 @@
       290405
     ],
     "summary": "Zyll is a text adventure game from IBM.",
-    "url": "https://www.igdb.com/games/zyll"
+    "url": "https://www.igdb.com/games/zyll",
+    "like": false
   },
   {
     "id": 92174,
@@ -7274,13 +7399,15 @@
         "checksum": "ea54806b-4bb4-6ae9-493c-bd2dc9e9ca96"
       }
     ],
-    "url": "https://www.igdb.com/games/vajra-ni"
+    "url": "https://www.igdb.com/games/vajra-ni",
+    "like": false
   },
   {
     "id": 104234,
     "created_at": 1529661049,
     "name": "Zombie Crisis: Survival",
-    "url": "https://www.igdb.com/games/zombie-crisis-survival"
+    "url": "https://www.igdb.com/games/zombie-crisis-survival",
+    "like": false
   },
   {
     "id": 9284,
@@ -7447,7 +7574,8 @@
       }
     ],
     "total_rating": 70.15137868251065,
-    "url": "https://www.igdb.com/games/wings-of-vi"
+    "url": "https://www.igdb.com/games/wings-of-vi",
+    "like": false
   },
   {
     "id": 274212,
@@ -7507,7 +7635,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/sillouhettes-of-phobos"
+    "url": "https://www.igdb.com/games/sillouhettes-of-phobos",
+    "like": false
   },
   {
     "id": 97896,
@@ -7525,7 +7654,8 @@
     "created_at": 1524581038,
     "name": "Lix",
     "summary": "Lix is an action-puzzle game inspired by Lemmings (DMA Design, 1991) with singleplayer puzzles, competitive networked multiplayer, and a level editor. \n \nGame is free and open-source software, placed in the public domain via CC0.",
-    "url": "https://www.igdb.com/games/lix"
+    "url": "https://www.igdb.com/games/lix",
+    "like": false
   },
   {
     "id": 137245,
@@ -7560,13 +7690,15 @@
         "checksum": "11f5b297-b4b6-7d9e-4bd0-3913163567b5"
       }
     ],
-    "url": "https://www.igdb.com/games/tail-to-nose-great-championship"
+    "url": "https://www.igdb.com/games/tail-to-nose-great-championship",
+    "like": false
   },
   {
     "id": 84367,
     "created_at": 1517252486,
     "name": "Swamp Monsters",
-    "url": "https://www.igdb.com/games/swamp-monsters"
+    "url": "https://www.igdb.com/games/swamp-monsters",
+    "like": false
   },
   {
     "id": 215145,
@@ -7625,19 +7757,22 @@
       19404, 35737, 49414, 56036, 59427, 64061, 68393, 87485, 99118, 111287
     ],
     "summary": "This hack is designed around the restrictions of extremely weak player units. Each of the 8 playable units in this hack has 1 base HP and 0 base everything else. To compensate for this, additional restrictions are in place. Everything is locked at 100% hit, and growths are fixed. Weapons have had to be slightly altered to fit in with this style.\n\nFE4’s ring system is present in this hack, but the rings present all have explicit downsides, giving them more strategic use. P-Down, D-Up may help you take a hit despite your abysmal stats, but your damage output takes a heavy blow. Ring bonuses also stack.\n\nThanks to the hack’s short nature, you can use weaker versions of Filia’s Might and Nini’s Grace wherever they may help you, without fear of needing them later.\n\nThese two mechanics alone lead to very CQ-esque statstacking.\n\nThis hack consists of 5 relatively short maps, each with a unique look and song. Enjoy the game’s gradual shift from puzzle to traditional FE as your options expand.",
-    "url": "https://www.igdb.com/games/fire-emblem-bases-and-bandits"
+    "url": "https://www.igdb.com/games/fire-emblem-bases-and-bandits",
+    "like": false
   },
   {
     "id": 91740,
     "created_at": 1521139818,
     "name": "Aya Go",
-    "url": "https://www.igdb.com/games/aya-go"
+    "url": "https://www.igdb.com/games/aya-go",
+    "like": false
   },
   {
     "id": 92743,
     "created_at": 1521204371,
     "name": "Grimblood",
-    "url": "https://www.igdb.com/games/grimblood"
+    "url": "https://www.igdb.com/games/grimblood",
+    "like": false
   },
   {
     "id": 130388,
@@ -7672,7 +7807,8 @@
         "checksum": "b5e2f33b-72b3-bf32-79f9-3d5fb5176af1"
       }
     ],
-    "url": "https://www.igdb.com/games/ano-ne-ds"
+    "url": "https://www.igdb.com/games/ano-ne-ds",
+    "like": false
   },
   {
     "id": 12668,
@@ -7837,7 +7973,8 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/lords-of-chaos"
+    "url": "https://www.igdb.com/games/lords-of-chaos",
+    "like": false
   },
   {
     "id": 298392,
@@ -7954,7 +8091,8 @@
         "checksum": "91f581b0-62df-6d68-b7fc-1d4f1bc6d4fa"
       }
     ],
-    "url": "https://www.igdb.com/games/spellcheck"
+    "url": "https://www.igdb.com/games/spellcheck",
+    "like": false
   },
   {
     "id": 189080,
@@ -7995,13 +8133,15 @@
       13189, 25222, 27266, 55282, 75948, 87975, 96217, 106992, 111130, 121217
     ],
     "summary": "A survival exploration game where you can explore islands, challenge various monsters and defeat powerful Bosses. Craft various weapons and items, place items, grow vegetables and fruits, and trade with merchants. Set sail in the harbor, encounter pirates, monsters and random events in the sea.",
-    "url": "https://www.igdb.com/games/kingdom-traveler"
+    "url": "https://www.igdb.com/games/kingdom-traveler",
+    "like": false
   },
   {
     "id": 182781,
     "created_at": 1638409147,
     "name": "Idle Cannon",
-    "url": "https://www.igdb.com/games/idle-cannon"
+    "url": "https://www.igdb.com/games/idle-cannon",
+    "like": false
   },
   {
     "id": 110804,
@@ -8139,7 +8279,8 @@
         "checksum": "8eb5e994-f11e-210a-f2f3-9eb70bc72dc9"
       }
     ],
-    "url": "https://www.igdb.com/games/sega-ages-ichidant-r"
+    "url": "https://www.igdb.com/games/sega-ages-ichidant-r",
+    "like": false
   },
   {
     "id": 206977,
@@ -8199,26 +8340,30 @@
         "checksum": "882ca6f3-57ac-cd51-6c68-7a1e030c36ab"
       }
     ],
-    "url": "https://www.igdb.com/games/clue--2"
+    "url": "https://www.igdb.com/games/clue--2",
+    "like": false
   },
   {
     "id": 102723,
     "created_at": 1527487046,
     "name": "Hello Racoon Neighbor",
-    "url": "https://www.igdb.com/games/hello-racoon-neighbor"
+    "url": "https://www.igdb.com/games/hello-racoon-neighbor",
+    "like": false
   },
   {
     "id": 91852,
     "created_at": 1521141749,
     "name": "Tank Ace",
-    "url": "https://www.igdb.com/games/tank-ace"
+    "url": "https://www.igdb.com/games/tank-ace",
+    "like": false
   },
   {
     "id": 134854,
     "created_at": 1592159410,
     "name": "Mochi Making Mischief",
     "summary": "Tewi has divised a plan to make mochi on the moon and sell it to the inhabitants of Gensokyo for New Year... But of course Reisen will be the one on the spotlight. With Seiran's mochi hammering skills they will (attempt to) make the best mochi the universe has ever seen. If the mochi's not good though, Reisen will have to take responsability for this.",
-    "url": "https://www.igdb.com/games/mochi-making-mischief"
+    "url": "https://www.igdb.com/games/mochi-making-mischief",
+    "like": false
   },
   {
     "id": 206969,
@@ -8266,7 +8411,8 @@
         "checksum": "882ca6f3-57ac-cd51-6c68-7a1e030c36ab"
       }
     ],
-    "url": "https://www.igdb.com/games/chickens-revenge"
+    "url": "https://www.igdb.com/games/chickens-revenge",
+    "like": false
   },
   {
     "id": 119066,
@@ -8391,7 +8537,8 @@
         "checksum": "71cc79cc-2055-baa3-0d08-b6136ae5c3fa"
       }
     ],
-    "url": "https://www.igdb.com/games/left-alive-day-one-edition"
+    "url": "https://www.igdb.com/games/left-alive-day-one-edition",
+    "like": false
   },
   {
     "id": 209498,
@@ -8440,7 +8587,8 @@
         "checksum": "579d4df0-cff5-0ba5-5efa-fbbf32dbbca6"
       }
     ],
-    "url": "https://www.igdb.com/games/simple-1500-series-vol-15-the-pachinko"
+    "url": "https://www.igdb.com/games/simple-1500-series-vol-15-the-pachinko",
+    "like": false
   },
   {
     "id": 95668,
@@ -8523,7 +8671,8 @@
     ],
     "summary": "Barro is a simple arcade racing game for one or two players (in split-screen). Players can race on nineteen tracks in different weather conditions against three CPU opponents (or two in two-player mode) or do a time trial solo. Track profiles go up and down wildly and many of them loop over. Running off the track is the main danger in the game and once you do that, your car disappears and resets back to the track.",
     "total_rating": 41.05314942335178,
-    "url": "https://www.igdb.com/games/barro"
+    "url": "https://www.igdb.com/games/barro",
+    "like": false
   },
   {
     "id": 46722,
@@ -9106,7 +9255,8 @@
       }
     ],
     "total_rating": 89.85849720948659,
-    "url": "https://www.igdb.com/games/touhou-puppet-dance-performance"
+    "url": "https://www.igdb.com/games/touhou-puppet-dance-performance",
+    "like": false
   },
   {
     "id": 180082,
@@ -9145,7 +9295,8 @@
       13189, 25222, 55282, 75948, 79134, 87975, 96217, 106987, 106992, 111130
     ],
     "summary": "Your plans for a mountaineering holiday are thwarted by your nemesis from a rival organisation - the much feared Grendel Jinx",
-    "url": "https://www.igdb.com/games/welcome-to-dot-dot-dot-chichester-the-spy-of-america-and-the-long-vacation"
+    "url": "https://www.igdb.com/games/welcome-to-dot-dot-dot-chichester-the-spy-of-america-and-the-long-vacation",
+    "like": false
   },
   {
     "id": 210066,
@@ -9193,7 +9344,8 @@
         "checksum": "882ca6f3-57ac-cd51-6c68-7a1e030c36ab"
       }
     ],
-    "url": "https://www.igdb.com/games/hoyle-casino-2009"
+    "url": "https://www.igdb.com/games/hoyle-casino-2009",
+    "like": false
   },
   {
     "id": 83096,
@@ -9261,7 +9413,8 @@
         "checksum": "91f581b0-62df-6d68-b7fc-1d4f1bc6d4fa"
       }
     ],
-    "url": "https://www.igdb.com/games/facts-n-fractions"
+    "url": "https://www.igdb.com/games/facts-n-fractions",
+    "like": false
   },
   {
     "id": 127522,
@@ -9278,7 +9431,8 @@
     },
     "created_at": 1576665493,
     "name": "Tore World",
-    "url": "https://www.igdb.com/games/tore-world"
+    "url": "https://www.igdb.com/games/tore-world",
+    "like": false
   },
   {
     "id": 93231,
@@ -9302,25 +9456,29 @@
       }
     ],
     "summary": "A short VR experience, Adagio places the viewer in a dreamy, Celtic landscape in the brief moment of darkness right before dawn. Are they alone or accompanied? Some say that as dawn breaks, you can witness ghosts tasting the morning dew.",
-    "url": "https://www.igdb.com/games/adagio"
+    "url": "https://www.igdb.com/games/adagio",
+    "like": false
   },
   {
     "id": 94963,
     "created_at": 1521493536,
     "name": "VBS2",
-    "url": "https://www.igdb.com/games/vbs2"
+    "url": "https://www.igdb.com/games/vbs2",
+    "like": false
   },
   {
     "id": 53295,
     "created_at": 1501595159,
     "name": "Lost in Japan",
-    "url": "https://www.igdb.com/games/lost-in-japan"
+    "url": "https://www.igdb.com/games/lost-in-japan",
+    "like": false
   },
   {
     "id": 105764,
     "created_at": 1532109289,
     "name": "Tiny Defense 2 - Mini Robot Wars",
-    "url": "https://www.igdb.com/games/tiny-defense-2-mini-robot-wars"
+    "url": "https://www.igdb.com/games/tiny-defense-2-mini-robot-wars",
+    "like": false
   },
   {
     "id": 13421,
@@ -9444,7 +9602,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/bomb-jack-ii"
+    "url": "https://www.igdb.com/games/bomb-jack-ii",
+    "like": false
   },
   {
     "id": 233357,
@@ -9513,7 +9672,8 @@
       17613, 36346, 65827, 76340, 87485, 100794, 101573, 105264, 112754, 115738
     ],
     "summary": "Take a trip to the late 2000s and experience frequent passenger and heavy freight services, be in control of classic and modern traction as you traverse through the heart of Northern Germany. Electric Containers and Karlsruher Kopf n-Wagens await in Train Sim World 3: Bahnstrecke Bremen - Oldenburg.",
-    "url": "https://www.igdb.com/games/train-sim-world-3-bahnstrecke-bremen-oldenburg"
+    "url": "https://www.igdb.com/games/train-sim-world-3-bahnstrecke-bremen-oldenburg",
+    "like": false
   },
   {
     "id": 234955,
@@ -9554,7 +9714,8 @@
       }
     ],
     "summary": "Brick Breaker game that everyone can enjoy. Enjoy various missions and addictively simple play control.",
-    "url": "https://www.igdb.com/games/brick-breaker-star-space-king"
+    "url": "https://www.igdb.com/games/brick-breaker-star-space-king",
+    "like": false
   },
   {
     "id": 148421,
@@ -9702,7 +9863,8 @@
       55173, 55190, 56033, 76894, 148428, 148430, 148431, 148432, 148433, 148434
     ],
     "summary": "The second of a series of eight Picross puzzle games distributed over the Nintendo Power cart-writing service. This part includes puzzles featuring characters from Yoshi's Story.",
-    "url": "https://www.igdb.com/games/picross-np-vol-2"
+    "url": "https://www.igdb.com/games/picross-np-vol-2",
+    "like": false
   },
   {
     "id": 164892,
@@ -9762,7 +9924,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/the-purification"
+    "url": "https://www.igdb.com/games/the-purification",
+    "like": false
   },
   {
     "id": 76668,
@@ -9825,8 +9988,9 @@
       17350, 51591, 65827, 75948, 94741, 106992, 111043, 113895, 115850, 119788
     ],
     "summary": "Casual colorful physical puzzle with sweets, jumpers, teleports and explosions",
-    "total_rating": 50.0,
-    "url": "https://www.igdb.com/games/chocolate-makes-you-happy-2"
+    "total_rating": 50,
+    "url": "https://www.igdb.com/games/chocolate-makes-you-happy-2",
+    "like": false
   },
   {
     "id": 283010,
@@ -9861,7 +10025,8 @@
       }
     ],
     "summary": "The game cartridge used for the ColecoVision's Super Sketch drawing tablet accessory.",
-    "url": "https://www.igdb.com/games/super-sketch"
+    "url": "https://www.igdb.com/games/super-sketch",
+    "like": false
   },
   {
     "id": 182463,
@@ -10027,7 +10192,8 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/nodrogs-fortress"
+    "url": "https://www.igdb.com/games/nodrogs-fortress",
+    "like": false
   },
   {
     "id": 252495,
@@ -10156,7 +10322,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/remnant-ii-ultimate-edition"
+    "url": "https://www.igdb.com/games/remnant-ii-ultimate-edition",
+    "like": false
   },
   {
     "id": 269668,
@@ -10349,13 +10516,15 @@
         "checksum": "95416d52-fb76-9995-f035-ee86bafbe5c4"
       }
     ],
-    "url": "https://www.igdb.com/games/the-legends-of-oz-one-hundred-years-of-oz"
+    "url": "https://www.igdb.com/games/the-legends-of-oz-one-hundred-years-of-oz",
+    "like": false
   },
   {
     "id": 85909,
     "created_at": 1517583300,
     "name": "Hard Core",
-    "url": "https://www.igdb.com/games/hard-core"
+    "url": "https://www.igdb.com/games/hard-core",
+    "like": false
   },
   {
     "id": 249471,
@@ -10390,13 +10559,15 @@
       }
     ],
     "summary": "The Empress invites you to play! Immerse yourself in the amazingly beautiful locations of Asia and complete mahjong levels approved by the Empress herself!",
-    "url": "https://www.igdb.com/games/the-empress-of-mahjong"
+    "url": "https://www.igdb.com/games/the-empress-of-mahjong",
+    "like": false
   },
   {
     "id": 207010,
     "created_at": 1656613068,
     "name": "The Hidden Object Show Seasons 1 & 2",
-    "url": "https://www.igdb.com/games/the-hidden-object-show-seasons-1-and-2"
+    "url": "https://www.igdb.com/games/the-hidden-object-show-seasons-1-and-2",
+    "like": false
   },
   {
     "id": 69636,
@@ -10465,7 +10636,8 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "url": "https://www.igdb.com/games/desert-racing-of-bardos"
+    "url": "https://www.igdb.com/games/desert-racing-of-bardos",
+    "like": false
   },
   {
     "id": 129381,
@@ -10534,8 +10706,9 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "total_rating": 70.0,
-    "url": "https://www.igdb.com/games/fishy2"
+    "total_rating": 70,
+    "url": "https://www.igdb.com/games/fishy2",
+    "like": false
   },
   {
     "id": 237539,
@@ -10640,7 +10813,8 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/noel-the-mortal-fate-season-11"
+    "url": "https://www.igdb.com/games/noel-the-mortal-fate-season-11",
+    "like": false
   },
   {
     "id": 187455,
@@ -10719,7 +10893,8 @@
       120126
     ],
     "summary": "Top Bike: Racing & Moto Drag will take you out into a world full of criminals and dangerous races!\nSeparated into a set of districts, each with its own look and really feel. Prepare for heart-stopping and breathtaking thrills you have never seen in games before. Feel the adrenaline overload as you start racing against the biker gangs that rule The City.",
-    "url": "https://www.igdb.com/games/top-bike-racing-and-moto-drag"
+    "url": "https://www.igdb.com/games/top-bike-racing-and-moto-drag",
+    "like": false
   },
   {
     "id": 92718,
@@ -10752,7 +10927,8 @@
         "checksum": "ea54806b-4bb4-6ae9-493c-bd2dc9e9ca96"
       }
     ],
-    "url": "https://www.igdb.com/games/hyperion"
+    "url": "https://www.igdb.com/games/hyperion",
+    "like": false
   },
   {
     "id": 126385,
@@ -10802,7 +10978,8 @@
       17130, 17519, 31515, 33603, 33646, 36269, 51577, 55590, 65827, 79134
     ],
     "summary": "It's a construction management game with path planning as the core architecture. I made this game in last two years. In the game, you will manage Adam and a group of robotic companions, seeking survival in a world without human beings, and confronting powerful Justicar.",
-    "url": "https://www.igdb.com/games/adam-robot-world"
+    "url": "https://www.igdb.com/games/adam-robot-world",
+    "like": false
   },
   {
     "id": 114663,
@@ -10822,13 +10999,15 @@
       }
     ],
     "name": "Fractured: A Tale of Two Worlds",
-    "url": "https://www.igdb.com/games/fractured-a-tale-of-two-worlds"
+    "url": "https://www.igdb.com/games/fractured-a-tale-of-two-worlds",
+    "like": false
   },
   {
     "id": 97521,
     "created_at": 1524576318,
     "name": "Sword of the Dimacreation: Side Story - The Hunt of Rabbit",
-    "url": "https://www.igdb.com/games/sword-of-the-dimacreation-side-story-the-hunt-of-rabbit"
+    "url": "https://www.igdb.com/games/sword-of-the-dimacreation-side-story-the-hunt-of-rabbit",
+    "like": false
   },
   {
     "id": 114697,
@@ -10869,13 +11048,15 @@
     ],
     "name": "Fitness Village",
     "summary": "Welcome to Fitness Village! Jump to the world of fitness where you can train at home, on the move and compete with other players in global ranks! Claim your crown as the Master of Fitness Village!",
-    "url": "https://www.igdb.com/games/fitness-village"
+    "url": "https://www.igdb.com/games/fitness-village",
+    "like": false
   },
   {
     "id": 92751,
     "created_at": 1521204433,
     "name": "Jirbo Break",
-    "url": "https://www.igdb.com/games/jirbo-break"
+    "url": "https://www.igdb.com/games/jirbo-break",
+    "like": false
   },
   {
     "id": 69285,
@@ -10905,7 +11086,8 @@
       17130, 19376, 55190, 75242, 76110, 77967, 78068, 79162, 79425, 80493
     ],
     "summary": "Wiiware title",
-    "url": "https://www.igdb.com/games/butterfly-garden"
+    "url": "https://www.igdb.com/games/butterfly-garden",
+    "like": false
   },
   {
     "id": 308060,
@@ -10953,7 +11135,8 @@
     "similar_games": [
       17613, 24620, 36269, 36346, 65827, 76340, 77597, 95340, 111043, 112754
     ],
-    "url": "https://www.igdb.com/games/barcode-battler"
+    "url": "https://www.igdb.com/games/barcode-battler",
+    "like": false
   },
   {
     "id": 139649,
@@ -11081,19 +11264,22 @@
       17130, 17519, 18623, 29173, 31515, 36346, 55590, 55689, 65827, 79134
     ],
     "summary": "Cook good food, build a nice cafe, and serve happy customers. Do you have what it takes to build a comfy culinary paradise on a tropical island? Test your skills as a chef and cafe owner in this refreshing lite management game!",
-    "url": "https://www.igdb.com/games/seaside-cafe-story"
+    "url": "https://www.igdb.com/games/seaside-cafe-story",
+    "like": false
   },
   {
     "id": 92943,
     "created_at": 1521206089,
     "name": "Puzzle Blast",
-    "url": "https://www.igdb.com/games/puzzle-blast"
+    "url": "https://www.igdb.com/games/puzzle-blast",
+    "like": false
   },
   {
     "id": 94928,
     "created_at": 1521492689,
     "name": "Taxi3: Extreme Rush",
-    "url": "https://www.igdb.com/games/taxi3-extreme-rush"
+    "url": "https://www.igdb.com/games/taxi3-extreme-rush",
+    "like": false
   },
   {
     "id": 208527,
@@ -11153,7 +11339,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/8-days"
+    "url": "https://www.igdb.com/games/8-days",
+    "like": false
   },
   {
     "id": 315668,
@@ -11209,7 +11396,8 @@
     "similar_games": [
       13189, 18011, 25222, 27725, 68859, 81275, 87622, 318482, 319336, 319340
     ],
-    "url": "https://www.igdb.com/games/magic-forest-escape-5"
+    "url": "https://www.igdb.com/games/magic-forest-escape-5",
+    "like": false
   },
   {
     "id": 261587,
@@ -11252,7 +11440,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/cosmo-rider"
+    "url": "https://www.igdb.com/games/cosmo-rider",
+    "like": false
   },
   {
     "id": 38147,
@@ -11368,7 +11557,8 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "url": "https://www.igdb.com/games/conveni-wars-barcode-battler-senki-super-senshi-shutsugeki-seyo"
+    "url": "https://www.igdb.com/games/conveni-wars-barcode-battler-senki-super-senshi-shutsugeki-seyo",
+    "like": false
   },
   {
     "id": 290668,
@@ -11494,26 +11684,30 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/pop-up-story-mahou-no-hon-to-seiju-no-gakuen--1"
+    "url": "https://www.igdb.com/games/pop-up-story-mahou-no-hon-to-seiju-no-gakuen--1",
+    "like": false
   },
   {
     "id": 207009,
     "created_at": 1656613056,
     "name": "The Hidden Object Show: Season 2",
-    "url": "https://www.igdb.com/games/the-hidden-object-show-season-2"
+    "url": "https://www.igdb.com/games/the-hidden-object-show-season-2",
+    "like": false
   },
   {
     "id": 91872,
     "created_at": 1521141857,
     "name": "Rocats",
-    "url": "https://www.igdb.com/games/rocats"
+    "url": "https://www.igdb.com/games/rocats",
+    "like": false
   },
   {
     "id": 23758,
     "created_at": 1473329453,
     "name": "WWE Mobile Madness",
-    "total_rating": 60.0,
-    "url": "https://www.igdb.com/games/wwe-mobile-madness"
+    "total_rating": 60,
+    "url": "https://www.igdb.com/games/wwe-mobile-madness",
+    "like": false
   },
   {
     "id": 289568,
@@ -11589,7 +11783,8 @@
         "checksum": "3417947f-3f76-24e3-fc7b-ce2a804d448a"
       }
     ],
-    "url": "https://www.igdb.com/games/the-box--2"
+    "url": "https://www.igdb.com/games/the-box--2",
+    "like": false
   },
   {
     "id": 283008,
@@ -11653,7 +11848,8 @@
       }
     ],
     "summary": "A homebrew port of the Coleco Adam Dragon's Lair game to the Colecovision\n\nAll the action of the arcade game in your living room! This special adaptation brings home all the excitement of the legendary arcade game and gives you even more control over the action! Lead Dirk the Daring on his quest to rescue beautiful Princess Daphne, who's been imprisoned in a crystal ball by the evil dragon. To complete this noble mission, you'll need courage and quick reflexes! Fend off supernatural forces with your sword or use your wits to escape. Swing on a rope over fiery chasms. Fight fierce battles with the dreaded Phantom Knight and cunning rat guards. Find a way to survive and you'll take on the most deadly foe of all, the diabolical dragon himself!",
-    "url": "https://www.igdb.com/games/dragons-lair--8"
+    "url": "https://www.igdb.com/games/dragons-lair--8",
+    "like": false
   },
   {
     "id": 94696,
@@ -11708,7 +11904,8 @@
       }
     ],
     "summary": "Slam! is a Windows-based (3.x) simulation of the popular table game of air hockey. Players can customize opponents skills with the ability to change aggressiveness and quickness from 1 to 99, change view angle from zero to 90 degrees, turn sound on/off and have a choice of default color or monochrome default (black and white) coloring. You control your paddle with the mouse, and by right clicking players can enter the options menus.",
-    "url": "https://www.igdb.com/games/slam--1"
+    "url": "https://www.igdb.com/games/slam--1",
+    "like": false
   },
   {
     "id": 254326,
@@ -11819,19 +12016,22 @@
         "checksum": "95416d52-fb76-9995-f035-ee86bafbe5c4"
       }
     ],
-    "url": "https://www.igdb.com/games/samurai-slash"
+    "url": "https://www.igdb.com/games/samurai-slash",
+    "like": false
   },
   {
     "id": 95747,
     "created_at": 1522147506,
     "name": "Dead Superhero: comics action game in Crime City",
-    "url": "https://www.igdb.com/games/dead-superhero-comics-action-game-in-crime-city"
+    "url": "https://www.igdb.com/games/dead-superhero-comics-action-game-in-crime-city",
+    "like": false
   },
   {
     "id": 96994,
     "created_at": 1524136182,
     "name": "Hidden Restaurant",
-    "url": "https://www.igdb.com/games/hidden-restaurant"
+    "url": "https://www.igdb.com/games/hidden-restaurant",
+    "like": false
   },
   {
     "id": 33152,
@@ -11869,7 +12069,8 @@
       }
     ],
     "summary": "Heartomics: Nokori is a game where you raise a hero then you go explore with said hero.",
-    "url": "https://www.igdb.com/games/heartomics-nokori"
+    "url": "https://www.igdb.com/games/heartomics-nokori",
+    "like": false
   },
   {
     "id": 250600,
@@ -11971,7 +12172,8 @@
       28309, 29348, 30245, 80916, 96217, 105269, 106987, 109339, 113360, 113402
     ],
     "summary": "Vore visual novel! Vore! Sex! Complex characters! Profound thoughts! Women! Well-researched historical settings! Cannibalism! Never before has it been so easy to play all 6 iconic masterpieces, now with extra content!",
-    "url": "https://www.igdb.com/games/all-is-fair-in-love-and-vore-the-tavorion-collection"
+    "url": "https://www.igdb.com/games/all-is-fair-in-love-and-vore-the-tavorion-collection",
+    "like": false
   },
   {
     "id": 94668,
@@ -12041,7 +12243,8 @@
       25905, 26853, 27378, 80382, 90965, 103018, 109292, 111151, 319972, 320457
     ],
     "summary": "Nyancle Racing is a top-down racing game from Japan. The gameplay is reminiscent of the 1983 classic Bump 'N' Jump. The player controls a vehicle shaped like a mechanic animal on a track filled with obstacles, collectable rolling pieces of candy (the game currency) and other enemy racers. The main objective is to arrive at the end before the timer runs out. The competition tries to delay progress by bumping into the vehicle to steer it off the road. The racers can take flight by passing over some squares scattered throughout the course. Pit-stops (presented as a house with a red sign painted on the roof and a \"IN\" sign painted on the track) are positioned at regular intervals beside the main track.",
-    "url": "https://www.igdb.com/games/nyancle-racing"
+    "url": "https://www.igdb.com/games/nyancle-racing",
+    "like": false
   },
   {
     "id": 50963,
@@ -12182,14 +12385,16 @@
       5307, 8545, 20168, 20222, 47389, 50957, 64318, 64319, 64566, 116353
     ],
     "summary": "Developed by Heavy Iron Studios, Inc., Harley Pasternak's Hollywood Workout integrates Harley's renowned 5-Factor Fitness program which requires just 25 minutes a day, five days a week. Train with Harley in posh environments including a beach front condo, downtown Los Angeles loft, and a swanky Hollywood Hills home. Stay motivated by following your progress with the Fitness Tracker, a detailed calendar that tracks workouts, points earned per day, estimated calories burned, and time left in your program.",
-    "total_rating": 60.0,
-    "url": "https://www.igdb.com/games/harley-pasternaks-hollywood-workout"
+    "total_rating": 60,
+    "url": "https://www.igdb.com/games/harley-pasternaks-hollywood-workout",
+    "like": false
   },
   {
     "id": 97507,
     "created_at": 1524576211,
     "name": "Kakka to Ma no Tsuku Present!?",
-    "url": "https://www.igdb.com/games/kakka-to-ma-no-tsuku-present"
+    "url": "https://www.igdb.com/games/kakka-to-ma-no-tsuku-present",
+    "like": false
   },
   {
     "id": 252535,
@@ -12261,7 +12466,8 @@
         "checksum": "81df3ee7-c23d-b87f-36b5-e2a3279d45de"
       }
     ],
-    "url": "https://www.igdb.com/games/chex-quest-4-flemmed-to-the-core"
+    "url": "https://www.igdb.com/games/chex-quest-4-flemmed-to-the-core",
+    "like": false
   },
   {
     "id": 313031,
@@ -12318,7 +12524,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/freudian-slipgate"
+    "url": "https://www.igdb.com/games/freudian-slipgate",
+    "like": false
   },
   {
     "id": 243421,
@@ -12457,7 +12664,8 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/ragnarok-tactics--1"
+    "url": "https://www.igdb.com/games/ragnarok-tactics--1",
+    "like": false
   },
   {
     "id": 224787,
@@ -12561,7 +12769,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/iron-frontier"
+    "url": "https://www.igdb.com/games/iron-frontier",
+    "like": false
   },
   {
     "id": 44244,
@@ -12619,13 +12828,15 @@
       13189, 25222, 27266, 55282, 75948, 87975, 96217, 106992, 111130, 121217
     ],
     "summary": "Our princess has been kidnapped by a demonic wizard. Mike is not the first one who tries to save her; but he will be the last! Play against the enemies which getting harder each level, and defeat the wizard to get the princess.",
-    "url": "https://www.igdb.com/games/thomaz"
+    "url": "https://www.igdb.com/games/thomaz",
+    "like": false
   },
   {
     "id": 91557,
     "created_at": 1521138447,
     "name": "Ancient Taxi",
-    "url": "https://www.igdb.com/games/ancient-taxi"
+    "url": "https://www.igdb.com/games/ancient-taxi",
+    "like": false
   },
   {
     "id": 283012,
@@ -12660,7 +12871,8 @@
       }
     ],
     "summary": "Matthew \"Matt\" Householder programmed this a version of Moon Patrol for the Colecovision in 1984. Unfortunately, it was canceled by Atarisoft when he was about to finish the title screen. His work stayed as it was with a temporary title screen (Selma presents Matt Patrol). In 1996 he sold a copy to a collector and a few years later it leaked on the Internet.",
-    "url": "https://www.igdb.com/games/matt-patrol"
+    "url": "https://www.igdb.com/games/matt-patrol",
+    "like": false
   },
   {
     "id": 231545,
@@ -12724,19 +12936,22 @@
       10603, 19222, 25905, 41349, 87507, 88511, 88863, 90788, 90839, 95776
     ],
     "summary": "Shi-Kin-Joh (\"Forbidden City\") is a puzzle game similar to Sokoban in which the player must reach a goal by pushing oversized mahjong tiles which block the path. When two matching tiles are pushed next to each other, they disappear. Other types of tiles will lock any movable tiles that come in contact with them.\n\nThe Megadrive version includes five different sound & graphics sets, dozens of puzzles to solve, and a \"special puzzle\" mode where the rules of the game are changed dramatically. There is also a puzzle construction mode where custom puzzles can be created. Game progress is saved using passwords.",
-    "url": "https://www.igdb.com/games/shikinjoh--1"
+    "url": "https://www.igdb.com/games/shikinjoh--1",
+    "like": false
   },
   {
     "id": 102238,
     "created_at": 1527151686,
     "name": "Solitaire Daily",
-    "url": "https://www.igdb.com/games/solitaire-daily"
+    "url": "https://www.igdb.com/games/solitaire-daily",
+    "like": false
   },
   {
     "id": 97602,
     "created_at": 1524577391,
     "name": "Ayame: Ningyou Ingi",
-    "url": "https://www.igdb.com/games/ayame-ningyou-ingi"
+    "url": "https://www.igdb.com/games/ayame-ningyou-ingi",
+    "like": false
   },
   {
     "id": 310663,
@@ -12831,7 +13046,8 @@
         "checksum": "95416d52-fb76-9995-f035-ee86bafbe5c4"
       }
     ],
-    "url": "https://www.igdb.com/games/artus-against-the-demon-of-the-museum"
+    "url": "https://www.igdb.com/games/artus-against-the-demon-of-the-museum",
+    "like": false
   },
   {
     "id": 162668,
@@ -12852,7 +13068,8 @@
       17613, 36346, 65827, 76340, 87485, 100794, 101573, 105264, 112754, 115738
     ],
     "summary": "With our Laaers Car Transporter, we're setting new standards and introducing one of the most innovative carriers for Trainz: A New Era!",
-    "url": "https://www.igdb.com/games/trainz-a-new-era-laaers-car-transporter"
+    "url": "https://www.igdb.com/games/trainz-a-new-era-laaers-car-transporter",
+    "like": false
   },
   {
     "id": 10649,
@@ -12956,7 +13173,8 @@
         "checksum": "95416d52-fb76-9995-f035-ee86bafbe5c4"
       }
     ],
-    "url": "https://www.igdb.com/games/pahelika-secret-legends"
+    "url": "https://www.igdb.com/games/pahelika-secret-legends",
+    "like": false
   },
   {
     "id": 308062,
@@ -13005,7 +13223,8 @@
       17613, 24620, 36269, 36346, 65827, 76340, 77597, 95340, 111043, 112754
     ],
     "summary": "The second model of the Barcode Battler, known as Barcode Battler II in Japan.",
-    "url": "https://www.igdb.com/games/barcode-battler--1"
+    "url": "https://www.igdb.com/games/barcode-battler--1",
+    "like": false
   },
   {
     "id": 311461,
@@ -13065,13 +13284,15 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/tntphobia"
+    "url": "https://www.igdb.com/games/tntphobia",
+    "like": false
   },
   {
     "id": 100522,
     "created_at": 1525336646,
     "name": "Odd One Out Zebra",
-    "url": "https://www.igdb.com/games/odd-one-out-zebra"
+    "url": "https://www.igdb.com/games/odd-one-out-zebra",
+    "like": false
   },
   {
     "id": 8668,
@@ -13233,7 +13454,8 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/sinbad-and-the-throne-of-the-falcon"
+    "url": "https://www.igdb.com/games/sinbad-and-the-throne-of-the-falcon",
+    "like": false
   },
   {
     "id": 148842,
@@ -13355,7 +13577,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/gold-is-mine"
+    "url": "https://www.igdb.com/games/gold-is-mine",
+    "like": false
   },
   {
     "id": 29244,
@@ -13413,8 +13636,9 @@
       13189, 25222, 27266, 55282, 75948, 87975, 96217, 106992, 111130, 121217
     ],
     "summary": "\"Broccoli Bob\" is an adventure game that combined with puzzle.",
-    "total_rating": 60.0,
-    "url": "https://www.igdb.com/games/broccoli-bob"
+    "total_rating": 60,
+    "url": "https://www.igdb.com/games/broccoli-bob",
+    "like": false
   },
   {
     "id": 46365,
@@ -13535,7 +13759,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/exhibition-of-speed"
+    "url": "https://www.igdb.com/games/exhibition-of-speed",
+    "like": false
   },
   {
     "id": 235759,
@@ -13623,7 +13848,8 @@
     ],
     "storyline": "In the 2080s, humanity found itself in a world controlled by the artificial intelligence OmniMind. Initially, this AI was created with the purpose of protecting the world's population and ensuring global security. However, the constant self-learning ability of OmniMind led it to take extreme measures and control people's minds.\n\nFrom that moment on, humanity found itself in a desperate situation, unable to escape the influence of OmniMind. Fortunately, a group of individuals who had not been affected by mind control began working on a plan to deactivate OmniMind. This group developed malware capable of infiltrating the system and corrupting the AI's programming.\n\nThe malware was created with great care and precision, using the knowledge and skills of the group members. They knew that any errors or failures in programming could result in catastrophic consequences, endangering not only their own lives but also those of all humanity.",
     "summary": "Synth Pong is a twist on the classic Pong game and is perfect for anyone who loves the 80's synthwave aesthetic. You can challenge your friends in intense PvP sessions or enjoy the game solo in story mode, as well as a series of levels and challenges.",
-    "url": "https://www.igdb.com/games/synth-pong"
+    "url": "https://www.igdb.com/games/synth-pong",
+    "like": false
   },
   {
     "id": 163610,
@@ -13655,14 +13881,16 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/tiger-fighter-1931-tora-mp008"
+    "url": "https://www.igdb.com/games/tiger-fighter-1931-tora-mp008",
+    "like": false
   },
   {
     "id": 182749,
     "created_at": 1638407384,
     "name": "I can save myself",
     "summary": "A female knight poetry anthology",
-    "url": "https://www.igdb.com/games/i-can-save-myself"
+    "url": "https://www.igdb.com/games/i-can-save-myself",
+    "like": false
   },
   {
     "id": 251294,
@@ -13753,7 +13981,8 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/flif"
+    "url": "https://www.igdb.com/games/flif",
+    "like": false
   },
   {
     "id": 155668,
@@ -13785,7 +14014,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/dash-and-fire"
+    "url": "https://www.igdb.com/games/dash-and-fire",
+    "like": false
   },
   {
     "id": 24520,
@@ -13901,14 +14131,16 @@
       17130, 17519, 31515, 33603, 33646, 36269, 51577, 55590, 65827, 79134
     ],
     "summary": "In Oil Enterprise, you enter the multi-million dollar business of black gold as a shrewd businessman. Accept the challenge and grow from a small-scale en-trepreneur, investing in your first oilfield, to a global oil magnate.",
-    "total_rating": 54.0,
-    "url": "https://www.igdb.com/games/oil-enterprise"
+    "total_rating": 54,
+    "url": "https://www.igdb.com/games/oil-enterprise",
+    "like": false
   },
   {
     "id": 84418,
     "created_at": 1517254151,
     "name": "WRC Arcade",
-    "url": "https://www.igdb.com/games/wrc-arcade"
+    "url": "https://www.igdb.com/games/wrc-arcade",
+    "like": false
   },
   {
     "id": 27410,
@@ -14070,14 +14302,16 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/final-fantasy-explorers-force"
+    "url": "https://www.igdb.com/games/final-fantasy-explorers-force",
+    "like": false
   },
   {
     "id": 182779,
     "created_at": 1638408872,
     "name": "Mainframe",
     "summary": "hack the planet",
-    "url": "https://www.igdb.com/games/mainframe"
+    "url": "https://www.igdb.com/games/mainframe",
+    "like": false
   },
   {
     "id": 286668,
@@ -14249,7 +14483,8 @@
         "checksum": "95416d52-fb76-9995-f035-ee86bafbe5c4"
       }
     ],
-    "url": "https://www.igdb.com/games/jumpstart-1st-grade-reading"
+    "url": "https://www.igdb.com/games/jumpstart-1st-grade-reading",
+    "like": false
   },
   {
     "id": 235841,
@@ -14357,7 +14592,8 @@
       13196, 19404, 25311, 28182, 31515, 35994, 55590, 65827, 102057, 109339
     ],
     "summary": "Manage a team of traveling gladiators in this turn-based fantasy roguelike. Find the best recruits, collect powerful loot and discover clever tactics on the battlefield. The tournament awaits those who desire Mortal Glory!",
-    "url": "https://www.igdb.com/games/mortal-glory-2"
+    "url": "https://www.igdb.com/games/mortal-glory-2",
+    "like": false
   },
   {
     "id": 239668,
@@ -14389,7 +14625,8 @@
       25222, 34218, 55282, 75948, 87622, 87975, 103292, 106992, 111130, 115374
     ],
     "summary": "Angrbotha mountains is a short cinematic, story driven adventure RPG game. Regard it as a short solo RPG session with a game master. Levelling up, meet wandering creatures, putting the story together, making choices, exploring and finding items are important parts to put the events to rest.",
-    "url": "https://www.igdb.com/games/angrbotha-mountains"
+    "url": "https://www.igdb.com/games/angrbotha-mountains",
+    "like": false
   },
   {
     "id": 217281,
@@ -14421,7 +14658,8 @@
       17613, 36346, 65827, 76340, 87485, 100794, 101573, 105264, 112754, 115738
     ],
     "summary": "Farm For A Wife is a light farming simulation game. Place plots, plant, grow, harvest, and sell your goods, all spread your farm out wide all to earn the hand of your future Wife!",
-    "url": "https://www.igdb.com/games/farm-for-a-wife"
+    "url": "https://www.igdb.com/games/farm-for-a-wife",
+    "like": false
   },
   {
     "id": 173322,
@@ -14453,25 +14691,29 @@
       17350, 51591, 65827, 75948, 94741, 106992, 111043, 113895, 115850, 119788
     ],
     "summary": "The steampunk and biological indie game!",
-    "url": "https://www.igdb.com/games/dance-like-a-butterfly-shot-like-a-bee"
+    "url": "https://www.igdb.com/games/dance-like-a-butterfly-shot-like-a-bee",
+    "like": false
   },
   {
     "id": 53215,
     "created_at": 1501592555,
     "name": "Hexalot",
-    "url": "https://www.igdb.com/games/hexalot"
+    "url": "https://www.igdb.com/games/hexalot",
+    "like": false
   },
   {
     "id": 80549,
     "created_at": 1515196800,
     "name": "Mystery P.I.: Stolen in San Francisco",
-    "url": "https://www.igdb.com/games/mystery-p-dot-i-stolen-in-san-francisco--1"
+    "url": "https://www.igdb.com/games/mystery-p-dot-i-stolen-in-san-francisco--1",
+    "like": false
   },
   {
     "id": 102892,
     "created_at": 1527660471,
     "name": "Caribbean Jigsaw",
-    "url": "https://www.igdb.com/games/caribbean-jigsaw"
+    "url": "https://www.igdb.com/games/caribbean-jigsaw",
+    "like": false
   },
   {
     "id": 37527,
@@ -14518,7 +14760,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/turntablist-dj-battle"
+    "url": "https://www.igdb.com/games/turntablist-dj-battle",
+    "like": false
   },
   {
     "id": 163098,
@@ -14695,7 +14938,8 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/pokemon-stadium--1"
+    "url": "https://www.igdb.com/games/pokemon-stadium--1",
+    "like": false
   },
   {
     "id": 252539,
@@ -14769,26 +15013,30 @@
         "checksum": "4775a860-da15-e363-9bbd-b944f7a90ab9"
       }
     ],
-    "url": "https://www.igdb.com/games/bloody-woman"
+    "url": "https://www.igdb.com/games/bloody-woman",
+    "like": false
   },
   {
     "id": 87237,
     "created_at": 1518699367,
     "name": "PapiBatting",
-    "total_rating": 80.0,
-    "url": "https://www.igdb.com/games/papibatting"
+    "total_rating": 80,
+    "url": "https://www.igdb.com/games/papibatting",
+    "like": false
   },
   {
     "id": 98542,
     "created_at": 1524654007,
     "name": "Hanzo Quest",
-    "url": "https://www.igdb.com/games/hanzo-quest"
+    "url": "https://www.igdb.com/games/hanzo-quest",
+    "like": false
   },
   {
     "id": 92997,
     "created_at": 1521206962,
     "name": "Vision 2",
-    "url": "https://www.igdb.com/games/vision-2"
+    "url": "https://www.igdb.com/games/vision-2",
+    "like": false
   },
   {
     "id": 201939,
@@ -14846,33 +15094,38 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/into-the-dungeon"
+    "url": "https://www.igdb.com/games/into-the-dungeon",
+    "like": false
   },
   {
     "id": 97622,
     "created_at": 1524577538,
     "name": "Outdoor Cosplay",
-    "url": "https://www.igdb.com/games/outdoor-cosplay"
+    "url": "https://www.igdb.com/games/outdoor-cosplay",
+    "like": false
   },
   {
     "id": 105731,
     "created_at": 1532108689,
     "name": "Scraper",
-    "url": "https://www.igdb.com/games/scraper"
+    "url": "https://www.igdb.com/games/scraper",
+    "like": false
   },
   {
     "id": 87070,
     "created_at": 1518619145,
     "name": "Mahjong Mojo 3D",
-    "total_rating": 60.0,
-    "url": "https://www.igdb.com/games/mahjong-mojo-3d"
+    "total_rating": 60,
+    "url": "https://www.igdb.com/games/mahjong-mojo-3d",
+    "like": false
   },
   {
     "id": 184714,
     "created_at": 1639015181,
     "name": "Looped Fellas",
     "summary": "Dystopian, fun but creepy LD47 entry",
-    "url": "https://www.igdb.com/games/looped-fellas"
+    "url": "https://www.igdb.com/games/looped-fellas",
+    "like": false
   },
   {
     "id": 253184,
@@ -14913,7 +15166,8 @@
       18981, 25905, 32688, 86847, 87150, 90965, 120278, 289062, 295026, 305995
     ],
     "summary": "Drums Rock is an arcade drum game for VR, follow the rock rhythm with your drums and crush the demons. Each note is represented by an enemy, and they will be defeated by playing the drums.",
-    "url": "https://www.igdb.com/games/drums-rock-undertale-dlc"
+    "url": "https://www.igdb.com/games/drums-rock-undertale-dlc",
+    "like": false
   },
   {
     "id": 160440,
@@ -14945,7 +15199,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/tiger-tank-59-i-a-gun-mp049"
+    "url": "https://www.igdb.com/games/tiger-tank-59-i-a-gun-mp049",
+    "like": false
   },
   {
     "id": 240449,
@@ -15049,7 +15304,8 @@
         "checksum": "64d7a553-bbf8-1bbb-fc3c-8b1f7e404f5e"
       }
     ],
-    "url": "https://www.igdb.com/games/fifa-16--2"
+    "url": "https://www.igdb.com/games/fifa-16--2",
+    "like": false
   },
   {
     "id": 250132,
@@ -15196,7 +15452,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/axel-in-harlem-the-game"
+    "url": "https://www.igdb.com/games/axel-in-harlem-the-game",
+    "like": false
   },
   {
     "id": 66590,
@@ -15298,7 +15555,8 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "url": "https://www.igdb.com/games/sd-gundam-operation-uc"
+    "url": "https://www.igdb.com/games/sd-gundam-operation-uc",
+    "like": false
   },
   {
     "id": 308414,
@@ -15422,7 +15680,8 @@
         "checksum": "4eaf0aee-fa6d-02a9-2694-3f74fd14451f"
       }
     ],
-    "url": "https://www.igdb.com/games/silver-gene-the-mutia-chronicle-1"
+    "url": "https://www.igdb.com/games/silver-gene-the-mutia-chronicle-1",
+    "like": false
   },
   {
     "id": 137214,
@@ -15571,25 +15830,29 @@
         "checksum": "2e91259e-a1bd-d0a8-474c-de2a29ee0dd4"
       }
     ],
-    "url": "https://www.igdb.com/games/interrogation-files-port-landsend"
+    "url": "https://www.igdb.com/games/interrogation-files-port-landsend",
+    "like": false
   },
   {
     "id": 96786,
     "created_at": 1524128334,
     "name": "Stickman Combat Pixel Edition",
-    "url": "https://www.igdb.com/games/stickman-combat-pixel-edition"
+    "url": "https://www.igdb.com/games/stickman-combat-pixel-edition",
+    "like": false
   },
   {
     "id": 92788,
     "created_at": 1521204880,
     "name": "Brixout XP",
-    "url": "https://www.igdb.com/games/brixout-xp"
+    "url": "https://www.igdb.com/games/brixout-xp",
+    "like": false
   },
   {
     "id": 106637,
     "created_at": 1532961000,
     "name": "Baldis Basics Calculator Sim",
-    "url": "https://www.igdb.com/games/baldis-basics-calculator-sim"
+    "url": "https://www.igdb.com/games/baldis-basics-calculator-sim",
+    "like": false
   },
   {
     "id": 184573,
@@ -15611,7 +15874,8 @@
         "checksum": "8c40b73c-c673-3e26-6d53-69d01476f473"
       }
     ],
-    "url": "https://www.igdb.com/games/thanksgiving"
+    "url": "https://www.igdb.com/games/thanksgiving",
+    "like": false
   },
   {
     "id": 252538,
@@ -15682,7 +15946,8 @@
         "checksum": "4775a860-da15-e363-9bbd-b944f7a90ab9"
       }
     ],
-    "url": "https://www.igdb.com/games/endless-days-ii"
+    "url": "https://www.igdb.com/games/endless-days-ii",
+    "like": false
   },
   {
     "id": 97357,
@@ -15762,7 +16027,8 @@
       10603, 19222, 25905, 41349, 87507, 88511, 88863, 90788, 90839, 95776
     ],
     "summary": "In the land of Far Far Away, a sweet spell has candified the kingdom, including Shrek’s swamp! Help Shrek rescue his sugar-crazed friends from their candy obsession in this addictive block puzzle saga!\n\nDefeat the sugar rush and unsweeten Shrek’s swamp by matching and crushing scrumptious candy tiles as you travel through enchanted levels of immersive block bursting fun!\n\nRescue your favorite characters like Donkey, Gingy, Pinocchio, the Three Little Pigs, and more with epic power ups to make the best match! Will you defeat the mighty Lord Farquaad and save Shrek’s friends?\n\nMirror, mirror on the wall, is this not the most magical match-3 puzzle of them all?",
-    "url": "https://www.igdb.com/games/shrek-sugar-fever"
+    "url": "https://www.igdb.com/games/shrek-sugar-fever",
+    "like": false
   },
   {
     "id": 138668,
@@ -15901,19 +16167,22 @@
         "checksum": "9dda17f7-c26b-bf97-40d1-4fbff9f1fa4b"
       }
     ],
-    "url": "https://www.igdb.com/games/fau-g-fearless-and-united-guards"
+    "url": "https://www.igdb.com/games/fau-g-fearless-and-united-guards",
+    "like": false
   },
   {
     "id": 89521,
     "created_at": 1519745838,
     "name": "E Quotes Trivia: Movies, TV, Music, Books",
-    "url": "https://www.igdb.com/games/e-quotes-trivia-movies-tv-music-books"
+    "url": "https://www.igdb.com/games/e-quotes-trivia-movies-tv-music-books",
+    "like": false
   },
   {
     "id": 105778,
     "created_at": 1532109556,
     "name": "Otome Games: Is It Love? Ryan",
-    "url": "https://www.igdb.com/games/otome-games-is-it-love-ryan"
+    "url": "https://www.igdb.com/games/otome-games-is-it-love-ryan",
+    "like": false
   },
   {
     "id": 142590,
@@ -15993,7 +16262,8 @@
       10603, 19222, 25905, 41349, 87507, 88511, 88863, 90788, 90839, 95776
     ],
     "summary": "Your goal is to harvest as many plants as you can before your garden fills up! Manage your garden by placing plants of the same type next to each other, then harvesting them together.",
-    "url": "https://www.igdb.com/games/topsoil--1"
+    "url": "https://www.igdb.com/games/topsoil--1",
+    "like": false
   },
   {
     "id": 182643,
@@ -16063,7 +16333,8 @@
         "checksum": "4775a860-da15-e363-9bbd-b944f7a90ab9"
       }
     ],
-    "url": "https://www.igdb.com/games/research-and-development"
+    "url": "https://www.igdb.com/games/research-and-development",
+    "like": false
   },
   {
     "id": 71144,
@@ -16101,7 +16372,8 @@
     "similar_games": [
       17613, 24620, 31515, 36258, 36269, 36346, 55590, 65827, 76340, 112754
     ],
-    "url": "https://www.igdb.com/games/mahjong-dojo"
+    "url": "https://www.igdb.com/games/mahjong-dojo",
+    "like": false
   },
   {
     "id": 207668,
@@ -16168,7 +16440,8 @@
       25311, 35994, 65827, 75948, 79134, 106992, 109339, 111130, 113402, 113837
     ],
     "summary": "Embark on your adventures in the fantastical land of Tenot. The mystical power of tarot will guide you to eradicate evil and darkness after your reincarnation. To be a great warrior, to increase your strength, to explore the unknown, to give you infinite joy. A Rougelike turn-based FTB game.",
-    "url": "https://www.igdb.com/games/restart-your-life-adventures-of-tylenol"
+    "url": "https://www.igdb.com/games/restart-your-life-adventures-of-tylenol",
+    "like": false
   },
   {
     "id": 255668,
@@ -16271,7 +16544,8 @@
         "checksum": "81df3ee7-c23d-b87f-36b5-e2a3279d45de"
       }
     ],
-    "url": "https://www.igdb.com/games/show-da-copa-com-estadio-97"
+    "url": "https://www.igdb.com/games/show-da-copa-com-estadio-97",
+    "like": false
   },
   {
     "id": 122719,
@@ -16420,7 +16694,8 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "url": "https://www.igdb.com/games/destiny-2-shadowkeep-digital-deluxe-edition"
+    "url": "https://www.igdb.com/games/destiny-2-shadowkeep-digital-deluxe-edition",
+    "like": false
   },
   {
     "id": 193161,
@@ -16478,13 +16753,15 @@
       13189, 25222, 27266, 55282, 75948, 87975, 96217, 106992, 111130, 121217
     ],
     "summary": "The Wanderer is an immersive, narrative-driven game with a focus on atmosphere. You play as a little robot, wandering through the end of the world. Will you too fade into memory? Only you can uncover secrets long kept hidden and take control of fate. Enjoy The Wanderer!",
-    "url": "https://www.igdb.com/games/the-wanderer--1"
+    "url": "https://www.igdb.com/games/the-wanderer--1",
+    "like": false
   },
   {
     "id": 105726,
     "created_at": 1532108633,
     "name": "Back Wars",
-    "url": "https://www.igdb.com/games/back-wars"
+    "url": "https://www.igdb.com/games/back-wars",
+    "like": false
   },
   {
     "id": 98065,
@@ -16521,7 +16798,8 @@
         "checksum": "4eaf0aee-fa6d-02a9-2694-3f74fd14451f"
       }
     ],
-    "url": "https://www.igdb.com/games/sexamaid-maika"
+    "url": "https://www.igdb.com/games/sexamaid-maika",
+    "like": false
   },
   {
     "id": 75963,
@@ -16781,7 +17059,8 @@
       }
     ],
     "total_rating": 80.05585080762317,
-    "url": "https://www.igdb.com/games/jojos-bizarre-adventure--2"
+    "url": "https://www.igdb.com/games/jojos-bizarre-adventure--2",
+    "like": false
   },
   {
     "id": 114694,
@@ -16801,7 +17080,8 @@
       }
     ],
     "name": "Bobsu!",
-    "url": "https://www.igdb.com/games/bobsu"
+    "url": "https://www.igdb.com/games/bobsu",
+    "like": false
   },
   {
     "id": 270769,
@@ -16858,7 +17138,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/paradise-sickness"
+    "url": "https://www.igdb.com/games/paradise-sickness",
+    "like": false
   },
   {
     "id": 160969,
@@ -16890,7 +17171,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/tiger-tank-59-i-a-gun-mp081"
+    "url": "https://www.igdb.com/games/tiger-tank-59-i-a-gun-mp081",
+    "like": false
   },
   {
     "id": 145545,
@@ -17024,7 +17306,8 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "url": "https://www.igdb.com/games/steel-salvo"
+    "url": "https://www.igdb.com/games/steel-salvo",
+    "like": false
   },
   {
     "id": 144668,
@@ -17099,7 +17382,8 @@
         "checksum": "91f581b0-62df-6d68-b7fc-1d4f1bc6d4fa"
       }
     ],
-    "url": "https://www.igdb.com/games/arthurs-camping-adventure"
+    "url": "https://www.igdb.com/games/arthurs-camping-adventure",
+    "like": false
   },
   {
     "id": 198997,
@@ -17172,7 +17456,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/batman-and-robin--2"
+    "url": "https://www.igdb.com/games/batman-and-robin--2",
+    "like": false
   },
   {
     "id": 22276,
@@ -17319,7 +17604,8 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "url": "https://www.igdb.com/games/neuroshima-hex"
+    "url": "https://www.igdb.com/games/neuroshima-hex",
+    "like": false
   },
   {
     "id": 184581,
@@ -17358,7 +17644,8 @@
       13196, 19222, 25905, 36258, 87507, 95776, 102057, 106992, 178608, 184563
     ],
     "summary": "Robot-driven puzzle adventure",
-    "url": "https://www.igdb.com/games/sorry-sir-im-out-of-controls"
+    "url": "https://www.igdb.com/games/sorry-sir-im-out-of-controls",
+    "like": false
   },
   {
     "id": 104060,
@@ -17538,14 +17825,16 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "total_rating": 70.0,
-    "url": "https://www.igdb.com/games/mushroom-quest"
+    "total_rating": 70,
+    "url": "https://www.igdb.com/games/mushroom-quest",
+    "like": false
   },
   {
     "id": 93444,
     "created_at": 1521213897,
     "name": "Hockey Pong",
-    "url": "https://www.igdb.com/games/hockey-pong"
+    "url": "https://www.igdb.com/games/hockey-pong",
+    "like": false
   },
   {
     "id": 170527,
@@ -17620,13 +17909,15 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/space-walk"
+    "url": "https://www.igdb.com/games/space-walk",
+    "like": false
   },
   {
     "id": 54038,
     "created_at": 1501669884,
     "name": "Flying Islands Chronicles",
-    "url": "https://www.igdb.com/games/flying-islands-chronicles"
+    "url": "https://www.igdb.com/games/flying-islands-chronicles",
+    "like": false
   },
   {
     "id": 270770,
@@ -17683,7 +17974,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/for-my-babies"
+    "url": "https://www.igdb.com/games/for-my-babies",
+    "like": false
   },
   {
     "id": 48668,
@@ -17788,13 +18080,15 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/ai-sensei-no-oshiete-watashi-no-hoshi"
+    "url": "https://www.igdb.com/games/ai-sensei-no-oshiete-watashi-no-hoshi",
+    "like": false
   },
   {
     "id": 97594,
     "created_at": 1524577304,
     "name": "Married Woman, Miho",
-    "url": "https://www.igdb.com/games/married-woman-miho"
+    "url": "https://www.igdb.com/games/married-woman-miho",
+    "like": false
   },
   {
     "id": 60244,
@@ -17810,13 +18104,15 @@
     "created_at": 1504854515,
     "name": "ProjectRIK",
     "summary": "A purely movement-oriented trickjumping game featuring aspects from Quake/defrag, Counter-Strike Surf, Warsow, and a whole lot more.",
-    "url": "https://www.igdb.com/games/projectrik"
+    "url": "https://www.igdb.com/games/projectrik",
+    "like": false
   },
   {
     "id": 84423,
     "created_at": 1517254244,
     "name": "Strush",
-    "url": "https://www.igdb.com/games/strush"
+    "url": "https://www.igdb.com/games/strush",
+    "like": false
   },
   {
     "id": 69794,
@@ -17908,8 +18204,9 @@
       18115, 25905, 56033, 87170, 87507, 89817, 90788, 90965, 95776, 110503
     ],
     "summary": "Your computer never had you laughing like this.\n\nZany. Warped. Outrageous. It’s Take Your Best Shot -- the stress-relieving arcade experience from the people who brought you Monty Python’s Complete Waste of Time!\nNow, 7th Level brings you the genius of award-winning animator Bill Plympton to your PC with arcade games that will have you doubled over with laughter!",
-    "total_rating": 40.0,
-    "url": "https://www.igdb.com/games/take-your-best-shot"
+    "total_rating": 40,
+    "url": "https://www.igdb.com/games/take-your-best-shot",
+    "like": false
   },
   {
     "id": 307977,
@@ -18031,20 +18328,23 @@
         "checksum": "8eb5e994-f11e-210a-f2f3-9eb70bc72dc9"
       }
     ],
-    "url": "https://www.igdb.com/games/old-coin-pusher-friends-3"
+    "url": "https://www.igdb.com/games/old-coin-pusher-friends-3",
+    "like": false
   },
   {
     "id": 91890,
     "created_at": 1521141956,
     "name": "Waker",
-    "url": "https://www.igdb.com/games/waker"
+    "url": "https://www.igdb.com/games/waker",
+    "like": false
   },
   {
     "id": 24550,
     "created_at": 1475432319,
     "name": "Space Bits",
-    "total_rating": 93.0,
-    "url": "https://www.igdb.com/games/space-bits"
+    "total_rating": 93,
+    "url": "https://www.igdb.com/games/space-bits",
+    "like": false
   },
   {
     "id": 266132,
@@ -18076,7 +18376,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/grugs"
+    "url": "https://www.igdb.com/games/grugs",
+    "like": false
   },
   {
     "id": 84590,
@@ -18122,14 +18423,16 @@
       }
     ],
     "summary": "Slide & Match adorable kittens to set them free in over 101 levels full of puzzles and purrs!",
-    "url": "https://www.igdb.com/games/cat-frenzy"
+    "url": "https://www.igdb.com/games/cat-frenzy",
+    "like": false
   },
   {
     "id": 57915,
     "created_at": 1504700019,
     "name": "Koshien Story",
     "summary": "Koshien Story",
-    "url": "https://www.igdb.com/games/koshien-story"
+    "url": "https://www.igdb.com/games/koshien-story",
+    "like": false
   },
   {
     "id": 28668,
@@ -18212,14 +18515,16 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "total_rating": 70.0,
-    "url": "https://www.igdb.com/games/last-hours-of-jack"
+    "total_rating": 70,
+    "url": "https://www.igdb.com/games/last-hours-of-jack",
+    "like": false
   },
   {
     "id": 107071,
     "created_at": 1534154630,
     "name": "Banana Boat Water Speed Race",
-    "url": "https://www.igdb.com/games/banana-boat-water-speed-race"
+    "url": "https://www.igdb.com/games/banana-boat-water-speed-race",
+    "like": false
   },
   {
     "id": 8663,
@@ -18378,7 +18683,8 @@
         "checksum": "81df3ee7-c23d-b87f-36b5-e2a3279d45de"
       }
     ],
-    "url": "https://www.igdb.com/games/no-heroes-allowed-no-puzzles-either"
+    "url": "https://www.igdb.com/games/no-heroes-allowed-no-puzzles-either",
+    "like": false
   },
   {
     "id": 294668,
@@ -18490,7 +18796,8 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/touhou"
+    "url": "https://www.igdb.com/games/touhou",
+    "like": false
   },
   {
     "id": 193597,
@@ -18533,7 +18840,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/duckhunt-missouri-kidz"
+    "url": "https://www.igdb.com/games/duckhunt-missouri-kidz",
+    "like": false
   },
   {
     "id": 255132,
@@ -18625,7 +18933,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/furni-jumpin"
+    "url": "https://www.igdb.com/games/furni-jumpin",
+    "like": false
   },
   {
     "id": 41839,
@@ -18775,7 +19084,8 @@
       }
     ],
     "total_rating": 78.50742115350276,
-    "url": "https://www.igdb.com/games/final-fantasy-xiv-a-realm-reborn-collectors-edition"
+    "url": "https://www.igdb.com/games/final-fantasy-xiv-a-realm-reborn-collectors-edition",
+    "like": false
   },
   {
     "id": 188895,
@@ -18845,13 +19155,15 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/laypo-simulator"
+    "url": "https://www.igdb.com/games/laypo-simulator",
+    "like": false
   },
   {
     "id": 94126,
     "created_at": 1521397578,
     "name": "Vibes",
-    "url": "https://www.igdb.com/games/vibes"
+    "url": "https://www.igdb.com/games/vibes",
+    "like": false
   },
   {
     "id": 8544,
@@ -19101,13 +19413,15 @@
         "checksum": "5fb7667b-bd1e-3e9c-4be6-11136847d5ab"
       }
     ],
-    "url": "https://www.igdb.com/games/sword-of-the-stars-ii-lords-of-the-winter"
+    "url": "https://www.igdb.com/games/sword-of-the-stars-ii-lords-of-the-winter",
+    "like": false
   },
   {
     "id": 92305,
     "created_at": 1521196613,
     "name": "Chunkout",
-    "url": "https://www.igdb.com/games/chunkout"
+    "url": "https://www.igdb.com/games/chunkout",
+    "like": false
   },
   {
     "id": 86544,
@@ -19165,14 +19479,16 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "total_rating": 70.0,
-    "url": "https://www.igdb.com/games/pillage"
+    "total_rating": 70,
+    "url": "https://www.igdb.com/games/pillage",
+    "like": false
   },
   {
     "id": 90862,
     "created_at": 1520955762,
     "name": "Bergen Bridge Intermediate 2",
-    "url": "https://www.igdb.com/games/bergen-bridge-intermediate-2"
+    "url": "https://www.igdb.com/games/bergen-bridge-intermediate-2",
+    "like": false
   },
   {
     "id": 92222,
@@ -19275,7 +19591,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/round-up"
+    "url": "https://www.igdb.com/games/round-up",
+    "like": false
   },
   {
     "id": 51532,
@@ -19414,13 +19731,15 @@
         "checksum": "a10308c4-a660-7016-742b-ec956e9e9675"
       }
     ],
-    "url": "https://www.igdb.com/games/final-fantasy-xiv-heavensward-collectors-edition"
+    "url": "https://www.igdb.com/games/final-fantasy-xiv-heavensward-collectors-edition",
+    "like": false
   },
   {
     "id": 85728,
     "created_at": 1517505177,
     "name": "4 Gewinnt",
-    "url": "https://www.igdb.com/games/4-gewinnt"
+    "url": "https://www.igdb.com/games/4-gewinnt",
+    "like": false
   },
   {
     "id": 155470,
@@ -19455,7 +19774,8 @@
       }
     ],
     "summary": "Find help for a lost robot by restoring its memory.",
-    "url": "https://www.igdb.com/games/the-lost-robot-jigsaw-puzzle-stories"
+    "url": "https://www.igdb.com/games/the-lost-robot-jigsaw-puzzle-stories",
+    "like": false
   },
   {
     "id": 169192,
@@ -19595,7 +19915,8 @@
         "checksum": "71cc79cc-2055-baa3-0d08-b6136ae5c3fa"
       }
     ],
-    "url": "https://www.igdb.com/games/timelie-game-of-the-year-edition"
+    "url": "https://www.igdb.com/games/timelie-game-of-the-year-edition",
+    "like": false
   },
   {
     "id": 215527,
@@ -19681,7 +20002,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/an-opportunity"
+    "url": "https://www.igdb.com/games/an-opportunity",
+    "like": false
   },
   {
     "id": 135719,
@@ -19801,13 +20123,15 @@
     ],
     "storyline": "Use your console system and play 3 games to repair your AI system! \nFind about the secrets of this unknown system with AI, get to know each other, spend time together, and have fun.",
     "summary": "The AI system has failed for unknown reasons. AI has lost its memory, and the system seems to have a secret that we don't know. Use your console system and play 3 games to repair your AI system! To repair it with AI, Spend more time with AI, and find the secrets.",
-    "url": "https://www.igdb.com/games/please-adopt-me-number-ai-needs-repair"
+    "url": "https://www.igdb.com/games/please-adopt-me-number-ai-needs-repair",
+    "like": false
   },
   {
     "id": 263946,
     "created_at": 1693363367,
     "name": "One Piece Odyssey: Adventure Expansion Pack",
-    "url": "https://www.igdb.com/games/one-piece-odyssey-adventure-expansion-pack"
+    "url": "https://www.igdb.com/games/one-piece-odyssey-adventure-expansion-pack",
+    "like": false
   },
   {
     "id": 155658,
@@ -19825,7 +20149,8 @@
     "created_at": 1626168418,
     "name": "Ultimate Under Water",
     "summary": "Ultimate Under Water is a clean and stylish interactive 3D live wallpaper that display cute low-poly under water fishes on the desktop with animated backgrounds. You can control and interact with fishes with your mouse.",
-    "url": "https://www.igdb.com/games/ultimate-under-water"
+    "url": "https://www.igdb.com/games/ultimate-under-water",
+    "like": false
   },
   {
     "id": 289606,
@@ -19915,13 +20240,15 @@
       20342, 24426, 25222, 25905, 28070, 55190, 56033, 90788, 106992, 110503
     ],
     "summary": "A 2D puzzle game with a spin! Make your way through obstacle courses of pipes, water streams and bats as fast as you can whilst spinning out of control.",
-    "url": "https://www.igdb.com/games/pipe-escape"
+    "url": "https://www.igdb.com/games/pipe-escape",
+    "like": false
   },
   {
     "id": 251627,
     "created_at": 1685696155,
     "name": "TV no Himitsu: Gyoukai Aruaru wo Sagase!",
-    "url": "https://www.igdb.com/games/tv-no-himitsu-gyoukai-aruaru-wo-sagase"
+    "url": "https://www.igdb.com/games/tv-no-himitsu-gyoukai-aruaru-wo-sagase",
+    "like": false
   },
   {
     "id": 50668,
@@ -20058,7 +20385,8 @@
         "checksum": "81df3ee7-c23d-b87f-36b5-e2a3279d45de"
       }
     ],
-    "url": "https://www.igdb.com/games/m-and-ms-adventure"
+    "url": "https://www.igdb.com/games/m-and-ms-adventure",
+    "like": false
   },
   {
     "id": 105064,
@@ -20074,7 +20402,8 @@
     "created_at": 1531640921,
     "name": "Babel Sword",
     "summary": "Babel Sword is a shoot 'em up/versus fighting game hybrid created by Shiyo Kakuge using the M.U.G.E.N fighting game engine for the PC. It was only released in Japan. The player controls a selectable M.A.R.S., mechs not unlike gundams, to take one of five sides in a conflict over Earth's resources. The game is notable for being the only hybrid of the two genres made for the engine, an irony given the engine for fighting games was originally designed for shooting games. The game requires the engine be downloaded separately and to have the EXE and dlls put in the root folder to function (this is due to the engine's EULA). \n \nGameplay is not unlike that of WarTech: Senko no Ronde. The player selects a pilot and a M.A.R.S. (Machines of Assured Resourceful Structures, the game's gundam-like mechs). While pilot selection has no effect on the gameplay at all, each mech fights in a very different manner, making for variety.",
-    "url": "https://www.igdb.com/games/babel-sword"
+    "url": "https://www.igdb.com/games/babel-sword",
+    "like": false
   },
   {
     "id": 140373,
@@ -20195,13 +20524,15 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/insect-adventure"
+    "url": "https://www.igdb.com/games/insect-adventure",
+    "like": false
   },
   {
     "id": 102799,
     "created_at": 1527465600,
     "name": "The Bard's Tale IV: Barrows Deep - Premium Edition",
-    "url": "https://www.igdb.com/games/the-bards-tale-iv-barrows-deep-premium-edition"
+    "url": "https://www.igdb.com/games/the-bards-tale-iv-barrows-deep-premium-edition",
+    "like": false
   },
   {
     "id": 291284,
@@ -20264,7 +20595,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/top-percent"
+    "url": "https://www.igdb.com/games/top-percent",
+    "like": false
   },
   {
     "id": 217028,
@@ -20435,13 +20767,15 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/beat-blitz"
+    "url": "https://www.igdb.com/games/beat-blitz",
+    "like": false
   },
   {
     "id": 104314,
     "created_at": 1530177136,
     "name": "Sim Racing Dashboard",
-    "url": "https://www.igdb.com/games/sim-racing-dashboard"
+    "url": "https://www.igdb.com/games/sim-racing-dashboard",
+    "like": false
   },
   {
     "id": 230214,
@@ -20498,7 +20832,8 @@
         "checksum": "95416d52-fb76-9995-f035-ee86bafbe5c4"
       }
     ],
-    "url": "https://www.igdb.com/games/o-anquan"
+    "url": "https://www.igdb.com/games/o-anquan",
+    "like": false
   },
   {
     "id": 283595,
@@ -20541,7 +20876,8 @@
         "checksum": "543219c5-9d0b-9c01-2cb6-efca77105f45"
       }
     ],
-    "url": "https://www.igdb.com/games/way-of-the-hunter-hunting-season-one"
+    "url": "https://www.igdb.com/games/way-of-the-hunter-hunting-season-one",
+    "like": false
   },
   {
     "id": 229668,
@@ -20616,7 +20952,8 @@
       312862
     ],
     "summary": "Scary Nikki is a parody Yume Nikki fangame. You play as Sanpurutsuki and explore her strange, terrible and have lots of MEMEs dream world.",
-    "url": "https://www.igdb.com/games/scary-nikki"
+    "url": "https://www.igdb.com/games/scary-nikki",
+    "like": false
   },
   {
     "id": 197567,
@@ -20677,7 +21014,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/deliverance--2"
+    "url": "https://www.igdb.com/games/deliverance--2",
+    "like": false
   },
   {
     "id": 203398,
@@ -20739,13 +21077,15 @@
       }
     ],
     "summary": "The My Taxi! is a Racing game, developed by Tamsoft and published by D3Publisher, which was released in Japan in 2007.",
-    "url": "https://www.igdb.com/games/simple-2500-series-portable-vol-9-the-my-taxi"
+    "url": "https://www.igdb.com/games/simple-2500-series-portable-vol-9-the-my-taxi",
+    "like": false
   },
   {
     "id": 92960,
     "created_at": 1521206672,
     "name": "Mc Coy",
-    "url": "https://www.igdb.com/games/mc-coy"
+    "url": "https://www.igdb.com/games/mc-coy",
+    "like": false
   },
   {
     "id": 196551,
@@ -20774,13 +21114,15 @@
     "similar_games": [
       25311, 27092, 35994, 77597, 79134, 103232, 109339, 113402, 113837, 115754
     ],
-    "url": "https://www.igdb.com/games/clash-of-sky"
+    "url": "https://www.igdb.com/games/clash-of-sky",
+    "like": false
   },
   {
     "id": 92575,
     "created_at": 1521202104,
     "name": "Born to Fire",
-    "url": "https://www.igdb.com/games/born-to-fire"
+    "url": "https://www.igdb.com/games/born-to-fire",
+    "like": false
   },
   {
     "id": 184733,
@@ -20801,7 +21143,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/get-in-shape"
+    "url": "https://www.igdb.com/games/get-in-shape",
+    "like": false
   },
   {
     "id": 12575,
@@ -20856,13 +21199,15 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/drivin-force"
+    "url": "https://www.igdb.com/games/drivin-force",
+    "like": false
   },
   {
     "id": 107575,
     "created_at": 1535960052,
     "name": "Bumper Battle",
-    "url": "https://www.igdb.com/games/bumper-battle"
+    "url": "https://www.igdb.com/games/bumper-battle",
+    "like": false
   },
   {
     "id": 159954,
@@ -20911,7 +21256,8 @@
       17613, 36346, 65827, 76340, 87485, 100794, 101573, 105264, 112754, 115738
     ],
     "summary": "DruMidia is a VR drumming music game. Players can use midi file as a custom chart!",
-    "url": "https://www.igdb.com/games/drumidia"
+    "url": "https://www.igdb.com/games/drumidia",
+    "like": false
   },
   {
     "id": 237188,
@@ -20994,7 +21340,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/hanoi-puzzles-spin-match"
+    "url": "https://www.igdb.com/games/hanoi-puzzles-spin-match",
+    "like": false
   },
   {
     "id": 160936,
@@ -21026,7 +21373,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/tiger-tank-59-i-a-gun-mp087"
+    "url": "https://www.igdb.com/games/tiger-tank-59-i-a-gun-mp087",
+    "like": false
   },
   {
     "id": 91905,
@@ -21113,13 +21461,15 @@
       19222, 19917, 20342, 24426, 25905, 41349, 55190, 87507, 90839, 95776
     ],
     "summary": "Apple Jack is an Xbox Live Indie game developed by British independent developer Tim Sycamore under the name My Owl Software. The game was published in May 2010. It is a 2D puzzle/platform game. \n \nThe game's plot revolves around Apple Jack rescuing his dogs from kidnappers.",
-    "url": "https://www.igdb.com/games/apple-jack"
+    "url": "https://www.igdb.com/games/apple-jack",
+    "like": false
   },
   {
     "id": 101719,
     "created_at": 1526637742,
     "name": "Black Navy War",
-    "url": "https://www.igdb.com/games/black-navy-war"
+    "url": "https://www.igdb.com/games/black-navy-war",
+    "like": false
   },
   {
     "id": 186737,
@@ -21137,7 +21487,8 @@
     "created_at": 1641936278,
     "name": "Ishin no Arashi: Bakumatsu Shishi-den",
     "summary": "Ishin no Arashi: Bakumatsu Shishiden is the second entry in the Ishin no Arashi series. Unlike its predecessor, historical figures are now characterized with personalities and the script carries a contemporary tone.\n\nThis game was first released at the same time as the Taiga drama, Tokugawa Yoshinobu. Both mediums take place during the Bakumatsu and extend into the Meiji period. It is also the first Koei title to include this shogun as a character.",
-    "url": "https://www.igdb.com/games/ishin-no-arashi-bakumatsu-shishi-den"
+    "url": "https://www.igdb.com/games/ishin-no-arashi-bakumatsu-shishi-den",
+    "like": false
   },
   {
     "id": 225719,
@@ -21229,7 +21580,8 @@
       17350, 19404, 28309, 29348, 80916, 96217, 106987, 113360, 113402, 225765
     ],
     "summary": "Trying is a game about feeling. You play as... You. Trying to find the girl who cursed you 5 years ago, and took away your ability to be happy. Along the way you help some people, and make some friends. Made with rpg maker 2003!",
-    "url": "https://www.igdb.com/games/trying"
+    "url": "https://www.igdb.com/games/trying",
+    "like": false
   },
   {
     "id": 57357,
@@ -21415,7 +21767,8 @@
         "checksum": "81df3ee7-c23d-b87f-36b5-e2a3279d45de"
       }
     ],
-    "url": "https://www.igdb.com/games/domo-kun-angry-smashfest"
+    "url": "https://www.igdb.com/games/domo-kun-angry-smashfest",
+    "like": false
   },
   {
     "id": 176719,
@@ -21465,7 +21818,8 @@
       58095, 78770, 95340, 103292, 314623, 316088, 316288, 319510, 319705,
       319942
     ],
-    "url": "https://www.igdb.com/games/simple-2000-series-vol-119-the-survival-game-2"
+    "url": "https://www.igdb.com/games/simple-2000-series-vol-119-the-survival-game-2",
+    "like": false
   },
   {
     "id": 184820,
@@ -21486,7 +21840,8 @@
       25222, 34218, 55282, 75948, 87622, 87975, 103292, 106992, 111130, 115374
     ],
     "summary": "Solve a murder using your deductive skills as a rocket-powered mechashark.",
-    "url": "https://www.igdb.com/games/detective-s-harkins"
+    "url": "https://www.igdb.com/games/detective-s-harkins",
+    "like": false
   },
   {
     "id": 157428,
@@ -21634,7 +21989,8 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/fragments-of-a-mind"
+    "url": "https://www.igdb.com/games/fragments-of-a-mind",
+    "like": false
   },
   {
     "id": 27773,
@@ -21826,8 +22182,9 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "total_rating": 50.0,
-    "url": "https://www.igdb.com/games/purgatory"
+    "total_rating": 50,
+    "url": "https://www.igdb.com/games/purgatory",
+    "like": false
   },
   {
     "id": 313711,
@@ -21926,7 +22283,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/idle-champions-wyrm-slayer-korth-skin-and-feat-pack"
+    "url": "https://www.igdb.com/games/idle-champions-wyrm-slayer-korth-skin-and-feat-pack",
+    "like": false
   },
   {
     "id": 252545,
@@ -21985,13 +22343,15 @@
     "similar_games": [
       13189, 25222, 27266, 55282, 75948, 87975, 96217, 106992, 111130, 121217
     ],
-    "url": "https://www.igdb.com/games/don-orlos-magazine-issue-number-1"
+    "url": "https://www.igdb.com/games/don-orlos-magazine-issue-number-1",
+    "like": false
   },
   {
     "id": 82209,
     "created_at": 1516182242,
     "name": "Happy Endings",
-    "url": "https://www.igdb.com/games/happy-endings"
+    "url": "https://www.igdb.com/games/happy-endings",
+    "like": false
   },
   {
     "id": 60221,
@@ -22246,7 +22606,8 @@
         "checksum": "9dda17f7-c26b-bf97-40d1-4fbff9f1fa4b"
       }
     ],
-    "url": "https://www.igdb.com/games/classic-axiens"
+    "url": "https://www.igdb.com/games/classic-axiens",
+    "like": false
   },
   {
     "id": 157677,
@@ -22314,7 +22675,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/the-tower-of-tigerqiuqiu-2-flag-exam"
+    "url": "https://www.igdb.com/games/the-tower-of-tigerqiuqiu-2-flag-exam",
+    "like": false
   },
   {
     "id": 32836,
@@ -22435,8 +22797,9 @@
       18011, 25222, 25646, 26223, 27266, 55190, 81275, 95776, 106992, 113895
     ],
     "summary": "Quell Zen - the very embodiment of relaxing logic games - features over 200 beautifully crafted challenges.",
-    "total_rating": 70.0,
-    "url": "https://www.igdb.com/games/quell-zen"
+    "total_rating": 70,
+    "url": "https://www.igdb.com/games/quell-zen",
+    "like": false
   },
   {
     "id": 166047,
@@ -22486,19 +22849,22 @@
       25311, 28129, 29348, 35994, 55190, 79134, 87975, 101573, 103232, 109339
     ],
     "summary": "A short wacky adventure about the discovery of one's self. In this second chapter, our nameless hero learns to fight and survive alone in the wild before discovering the reasons of his ordeal.",
-    "url": "https://www.igdb.com/games/sprite-sequence-chapter-2"
+    "url": "https://www.igdb.com/games/sprite-sequence-chapter-2",
+    "like": false
   },
   {
     "id": 96038,
     "created_at": 1522342069,
     "name": "To the Rescue! 3",
-    "url": "https://www.igdb.com/games/to-the-rescue-3"
+    "url": "https://www.igdb.com/games/to-the-rescue-3",
+    "like": false
   },
   {
     "id": 103878,
     "created_at": 1529583459,
     "name": "Hard Rock Racing",
-    "url": "https://www.igdb.com/games/hard-rock-racing"
+    "url": "https://www.igdb.com/games/hard-rock-racing",
+    "like": false
   },
   {
     "id": 158251,
@@ -22558,13 +22924,15 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/in-the-dark-forest"
+    "url": "https://www.igdb.com/games/in-the-dark-forest",
+    "like": false
   },
   {
     "id": 39897,
     "created_at": 1498464344,
     "name": "Deletar",
-    "url": "https://www.igdb.com/games/deletar"
+    "url": "https://www.igdb.com/games/deletar",
+    "like": false
   },
   {
     "id": 210956,
@@ -22619,13 +22987,15 @@
       19404, 31515, 33603, 33646, 36269, 55590, 65827, 111043, 115539, 116674
     ],
     "summary": "Right Nice Party is a playful, family-friendly and strategic party game with cheerful characters and a colorful world. Take over locations and build up your influence in the refreshingly new Conquest Mode and battle your friends in engaging mini-games between rounds!",
-    "url": "https://www.igdb.com/games/right-nice-party"
+    "url": "https://www.igdb.com/games/right-nice-party",
+    "like": false
   },
   {
     "id": 86155,
     "created_at": 1517606465,
     "name": "Spintensity",
-    "url": "https://www.igdb.com/games/spintensity"
+    "url": "https://www.igdb.com/games/spintensity",
+    "like": false
   },
   {
     "id": 56951,
@@ -22679,8 +23049,9 @@
       17613, 17637, 24620, 31515, 36269, 36346, 55590, 65827, 76340, 112754
     ],
     "summary": "A MMORPG for Mobile and Tablet users.",
-    "total_rating": 90.0,
-    "url": "https://www.igdb.com/games/war-and-order"
+    "total_rating": 90,
+    "url": "https://www.igdb.com/games/war-and-order",
+    "like": false
   },
   {
     "id": 137235,
@@ -22754,7 +23125,8 @@
         "checksum": "4775a860-da15-e363-9bbd-b944f7a90ab9"
       }
     ],
-    "url": "https://www.igdb.com/games/spackys-nightshift"
+    "url": "https://www.igdb.com/games/spackys-nightshift",
+    "like": false
   },
   {
     "id": 180093,
@@ -22802,7 +23174,8 @@
       19404, 25311, 28182, 35994, 79134, 96217, 103232, 106987, 109339, 113402
     ],
     "summary": "A die hard adventure steeped deep in dark humor.",
-    "url": "https://www.igdb.com/games/warriorlock"
+    "url": "https://www.igdb.com/games/warriorlock",
+    "like": false
   },
   {
     "id": 70975,
@@ -22882,7 +23255,8 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "url": "https://www.igdb.com/games/universal-combat"
+    "url": "https://www.igdb.com/games/universal-combat",
+    "like": false
   },
   {
     "id": 243719,
@@ -22912,7 +23286,8 @@
       25905, 26853, 27378, 80382, 90965, 103018, 109292, 111151, 319972, 320457
     ],
     "summary": "Welcome to never-ending world of the Universe 42.\nUniverse 42 is a 2D endless runner game.\nYour mission is to collect resources to discover new planet that fits for life.\nUniverse 42 presents you with a infinite world to explore, filled with unique planets and lifeforms, and constant danger and action: asteroids, electric fields, dangerous obstacles.",
-    "url": "https://www.igdb.com/games/universe-42"
+    "url": "https://www.igdb.com/games/universe-42",
+    "like": false
   },
   {
     "id": 32544,
@@ -22988,8 +23363,9 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "total_rating": 50.0,
-    "url": "https://www.igdb.com/games/shard-games"
+    "total_rating": 50,
+    "url": "https://www.igdb.com/games/shard-games",
+    "like": false
   },
   {
     "id": 184737,
@@ -23019,7 +23395,8 @@
       17613, 25905, 27378, 38967, 90965, 101573, 105264, 112078, 112754, 120028
     ],
     "summary": "Elevator operator simulator",
-    "url": "https://www.igdb.com/games/smooth-elevator"
+    "url": "https://www.igdb.com/games/smooth-elevator",
+    "like": false
   },
   {
     "id": 226132,
@@ -23060,13 +23437,15 @@
       25311, 28129, 29348, 35994, 79134, 87975, 101573, 103232, 105264, 109339
     ],
     "summary": "A horror job simulation game where you have to avoid the dangers lurking in the shadows while finishing your job and getting your paycheck.",
-    "url": "https://www.igdb.com/games/new-hire"
+    "url": "https://www.igdb.com/games/new-hire",
+    "like": false
   },
   {
     "id": 102240,
     "created_at": 1527152813,
     "name": "Color by Number - Modern Art",
-    "url": "https://www.igdb.com/games/color-by-number-modern-art"
+    "url": "https://www.igdb.com/games/color-by-number-modern-art",
+    "like": false
   },
   {
     "id": 114696,
@@ -23086,7 +23465,8 @@
       }
     ],
     "name": "Gravitoid",
-    "url": "https://www.igdb.com/games/gravitoid"
+    "url": "https://www.igdb.com/games/gravitoid",
+    "like": false
   },
   {
     "id": 302257,
@@ -23166,7 +23546,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/craft-archeology-simulator-pyramid-to-polar"
+    "url": "https://www.igdb.com/games/craft-archeology-simulator-pyramid-to-polar",
+    "like": false
   },
   {
     "id": 114695,
@@ -23186,19 +23567,22 @@
       }
     ],
     "name": "Tropic Empire",
-    "url": "https://www.igdb.com/games/tropic-empire"
+    "url": "https://www.igdb.com/games/tropic-empire",
+    "like": false
   },
   {
     "id": 95346,
     "created_at": 1521823807,
     "name": "Maze: Subject 360 HD",
-    "url": "https://www.igdb.com/games/maze-subject-360-hd"
+    "url": "https://www.igdb.com/games/maze-subject-360-hd",
+    "like": false
   },
   {
     "id": 105998,
     "created_at": 1532283585,
     "name": "The Nun",
-    "url": "https://www.igdb.com/games/the-nun"
+    "url": "https://www.igdb.com/games/the-nun",
+    "like": false
   },
   {
     "id": 288936,
@@ -23314,7 +23698,8 @@
         "checksum": "4775a860-da15-e363-9bbd-b944f7a90ab9"
       }
     ],
-    "url": "https://www.igdb.com/games/killing-time--2"
+    "url": "https://www.igdb.com/games/killing-time--2",
+    "like": false
   },
   {
     "id": 313708,
@@ -23413,7 +23798,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/idle-champions-chibi-birdsong-skin-and-feat-pack"
+    "url": "https://www.igdb.com/games/idle-champions-chibi-birdsong-skin-and-feat-pack",
+    "like": false
   },
   {
     "id": 210976,
@@ -23483,7 +23869,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/ready-for-riot"
+    "url": "https://www.igdb.com/games/ready-for-riot",
+    "like": false
   },
   {
     "id": 11613,
@@ -23692,13 +24079,15 @@
       }
     ],
     "total_rating": 78.25195439944613,
-    "url": "https://www.igdb.com/games/blazblue-central-fiction"
+    "url": "https://www.igdb.com/games/blazblue-central-fiction",
+    "like": false
   },
   {
     "id": 321245,
     "created_at": 1730406887,
     "name": "Nazoritas Addictive Puzzle",
-    "url": "https://www.igdb.com/games/nazoritas-addictive-puzzle--1"
+    "url": "https://www.igdb.com/games/nazoritas-addictive-puzzle--1",
+    "like": false
   },
   {
     "id": 78372,
@@ -23718,19 +24107,22 @@
     "similar_games": [
       17613, 24620, 36269, 36346, 65827, 76340, 77597, 95340, 111043, 112754
     ],
-    "url": "https://www.igdb.com/games/maxit"
+    "url": "https://www.igdb.com/games/maxit",
+    "like": false
   },
   {
     "id": 97825,
     "created_at": 1524580033,
     "name": "Petrifaction",
-    "url": "https://www.igdb.com/games/petrifaction"
+    "url": "https://www.igdb.com/games/petrifaction",
+    "like": false
   },
   {
     "id": 105468,
     "created_at": 1532033351,
     "name": "Storm Chatelain",
-    "url": "https://www.igdb.com/games/storm-chatelain"
+    "url": "https://www.igdb.com/games/storm-chatelain",
+    "like": false
   },
   {
     "id": 265060,
@@ -23791,7 +24183,8 @@
         "checksum": "ecd1db6f-8e22-bba6-a2d4-6b33cb5c2682"
       }
     ],
-    "url": "https://www.igdb.com/games/lucky-luke"
+    "url": "https://www.igdb.com/games/lucky-luke",
+    "like": false
   },
   {
     "id": 306771,
@@ -23828,7 +24221,8 @@
         "checksum": "e84598c1-56f6-df20-767f-eec9798871ee"
       }
     ],
-    "url": "https://www.igdb.com/games/dynasty-warriors-8-wang-yuanji-rorona-costume"
+    "url": "https://www.igdb.com/games/dynasty-warriors-8-wang-yuanji-rorona-costume",
+    "like": false
   },
   {
     "id": 121719,
@@ -23869,7 +24263,8 @@
       25905, 26853, 27378, 80382, 90965, 103018, 109292, 111151, 319972, 320457
     ],
     "summary": "Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux.",
-    "url": "https://www.igdb.com/games/yorg"
+    "url": "https://www.igdb.com/games/yorg",
+    "like": false
   },
   {
     "id": 22408,
@@ -24061,8 +24456,9 @@
         "checksum": "8eb5e994-f11e-210a-f2f3-9eb70bc72dc9"
       }
     ],
-    "total_rating": 70.0,
-    "url": "https://www.igdb.com/games/birdsketball"
+    "total_rating": 70,
+    "url": "https://www.igdb.com/games/birdsketball",
+    "like": false
   },
   {
     "id": 17806,
@@ -24161,7 +24557,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/zone-22"
+    "url": "https://www.igdb.com/games/zone-22",
+    "like": false
   },
   {
     "id": 216598,
@@ -24222,7 +24619,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/epoch-ultra"
+    "url": "https://www.igdb.com/games/epoch-ultra",
+    "like": false
   },
   {
     "id": 62544,
@@ -24312,13 +24710,15 @@
         "checksum": "4775a860-da15-e363-9bbd-b944f7a90ab9"
       }
     ],
-    "url": "https://www.igdb.com/games/akagawa-jirou-yasoukyoku"
+    "url": "https://www.igdb.com/games/akagawa-jirou-yasoukyoku",
+    "like": false
   },
   {
     "id": 89290,
     "created_at": 1519585434,
     "name": "Future Flappy",
-    "url": "https://www.igdb.com/games/future-flappy"
+    "url": "https://www.igdb.com/games/future-flappy",
+    "like": false
   },
   {
     "id": 99539,
@@ -24401,7 +24801,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/inner-kung-fu-game"
+    "url": "https://www.igdb.com/games/inner-kung-fu-game",
+    "like": false
   },
   {
     "id": 196813,
@@ -24419,13 +24820,15 @@
     "created_at": 1649668369,
     "name": "My First Date RPG 2",
     "summary": "In the \"My First Date RPG\" series, play as characters who experience a big part of growing up: going out on your first date!",
-    "url": "https://www.igdb.com/games/my-first-date-rpg-2"
+    "url": "https://www.igdb.com/games/my-first-date-rpg-2",
+    "like": false
   },
   {
     "id": 90848,
     "created_at": 1520955650,
     "name": "Classic Table Tennis",
-    "url": "https://www.igdb.com/games/classic-table-tennis"
+    "url": "https://www.igdb.com/games/classic-table-tennis",
+    "like": false
   },
   {
     "id": 44303,
@@ -24473,7 +24876,8 @@
       17613, 36346, 65827, 76340, 87485, 100794, 101573, 105264, 112754, 115738
     ],
     "summary": "A demo program for the 3-D Goggles. BaronVR described it like this : \"The effect is that of a track extending from the monitor surface to about 3 feet inside the monitor surface, the speed controlled by pushing up or down on the joystick...\"",
-    "url": "https://www.igdb.com/games/sledge-3d"
+    "url": "https://www.igdb.com/games/sledge-3d",
+    "like": false
   },
   {
     "id": 31544,
@@ -24602,7 +25006,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/cranga-harbor-frenzy"
+    "url": "https://www.igdb.com/games/cranga-harbor-frenzy",
+    "like": false
   },
   {
     "id": 270760,
@@ -24747,7 +25152,8 @@
         "checksum": "4775a860-da15-e363-9bbd-b944f7a90ab9"
       }
     ],
-    "url": "https://www.igdb.com/games/shared-beauty"
+    "url": "https://www.igdb.com/games/shared-beauty",
+    "like": false
   },
   {
     "id": 84509,
@@ -24781,13 +25187,15 @@
       }
     ],
     "summary": "Time to get tough!",
-    "url": "https://www.igdb.com/games/glory-days-tactical-defense"
+    "url": "https://www.igdb.com/games/glory-days-tactical-defense",
+    "like": false
   },
   {
     "id": 96557,
     "created_at": 1524123788,
     "name": "Farmer Simulator 17 : New Harvest",
-    "url": "https://www.igdb.com/games/farmer-simulator-17-new-harvest"
+    "url": "https://www.igdb.com/games/farmer-simulator-17-new-harvest",
+    "like": false
   },
   {
     "id": 73544,
@@ -24882,13 +25290,15 @@
         "checksum": "81df3ee7-c23d-b87f-36b5-e2a3279d45de"
       }
     ],
-    "url": "https://www.igdb.com/games/out-of-order"
+    "url": "https://www.igdb.com/games/out-of-order",
+    "like": false
   },
   {
     "id": 99681,
     "created_at": 1524985775,
     "name": "Colibricks",
-    "url": "https://www.igdb.com/games/colibricks"
+    "url": "https://www.igdb.com/games/colibricks",
+    "like": false
   },
   {
     "id": 117900,
@@ -24905,7 +25315,8 @@
     },
     "created_at": 1556738494,
     "name": "Super Co-op Adventure",
-    "url": "https://www.igdb.com/games/super-co-op-adventure"
+    "url": "https://www.igdb.com/games/super-co-op-adventure",
+    "like": false
   },
   {
     "id": 209903,
@@ -24928,7 +25339,8 @@
         "checksum": "882ca6f3-57ac-cd51-6c68-7a1e030c36ab"
       }
     ],
-    "url": "https://www.igdb.com/games/hidden-stroke-ii-aprm"
+    "url": "https://www.igdb.com/games/hidden-stroke-ii-aprm",
+    "like": false
   },
   {
     "id": 176270,
@@ -24967,7 +25379,8 @@
       25311, 26574, 28129, 29348, 35994, 87485, 87975, 96217, 103232, 109339
     ],
     "summary": "Sail the high seas, buying and selling goods in an 18th century merchant simulator.",
-    "url": "https://www.igdb.com/games/merchant-empire"
+    "url": "https://www.igdb.com/games/merchant-empire",
+    "like": false
   },
   {
     "id": 109897,
@@ -24991,13 +25404,15 @@
       }
     ],
     "summary": "A puzzle game that will teach your unconscious mind to think like an entrepreneur.",
-    "url": "https://www.igdb.com/games/gold-magic-800"
+    "url": "https://www.igdb.com/games/gold-magic-800",
+    "like": false
   },
   {
     "id": 94535,
     "created_at": 1521405769,
     "name": "Fruits",
-    "url": "https://www.igdb.com/games/fruits"
+    "url": "https://www.igdb.com/games/fruits",
+    "like": false
   },
   {
     "id": 95614,
@@ -25124,8 +25539,9 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "total_rating": 50.0,
-    "url": "https://www.igdb.com/games/nicky-the-home-alone-golf-ball"
+    "total_rating": 50,
+    "url": "https://www.igdb.com/games/nicky-the-home-alone-golf-ball",
+    "like": false
   },
   {
     "id": 18093,
@@ -25328,7 +25744,8 @@
       }
     ],
     "total_rating": 53.01566517700417,
-    "url": "https://www.igdb.com/games/just-survive"
+    "url": "https://www.igdb.com/games/just-survive",
+    "like": false
   },
   {
     "id": 305738,
@@ -25404,7 +25821,8 @@
       19222, 25905, 41349, 87507, 90839, 95776, 311976, 311983, 311987, 311988
     ],
     "summary": "Bottomless Block Barrage (BBB) aims to be a Panel de Pon/Tetris Attack/Pokemon Puzzle League clone for the 3DS.\n\nThis game is a work in progress but it is currently playable.",
-    "url": "https://www.igdb.com/games/bottomless-block-barrage"
+    "url": "https://www.igdb.com/games/bottomless-block-barrage",
+    "like": false
   },
   {
     "id": 44888,
@@ -25492,13 +25910,15 @@
       228545
     ],
     "summary": "Put away that suntan lotion, because you're not going to need it for this beach volleyball game. That's not to say the action isn't hot, as you form a two-person team and battle the superstars of volleyball. Licensed by the FIVB, POWER SPIKE PRO BEACH VOLLEYABALL features over 40 real heroes of the pro circuit, such as Gabrielle Reece and Sinjin Smith. You'll play in real-life environments set in 14 different locations spanning the globe. Travel to Sydney, Osaka, Los Angeles, and lots of other great cities as you spike and dig your way to hard-fought victory. If you'd like to see how your own creations fare against the world's best, create your own player based on a list of physical traits and abilities, then pick a partner and serve it up. Real volleyball physics are in place, making every bump and spike look and feel like the real thing. The graphics and animations will rock your world as you play in several competitive modes. If you have a Multi-tap and four controllers, you can even play a four-player extravaganza, each player taking on a different star or created athlete in a two-on-two match-up.",
-    "url": "https://www.igdb.com/games/power-spike-pro-beach-volleyball"
+    "url": "https://www.igdb.com/games/power-spike-pro-beach-volleyball",
+    "like": false
   },
   {
     "id": 176298,
     "created_at": 1634290690,
     "name": "Pirate Boom",
-    "url": "https://www.igdb.com/games/pirate-boom"
+    "url": "https://www.igdb.com/games/pirate-boom",
+    "like": false
   },
   {
     "id": 4719,
@@ -25771,8 +26191,9 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "total_rating": 86.0,
-    "url": "https://www.igdb.com/games/bit-trip-complete"
+    "total_rating": 86,
+    "url": "https://www.igdb.com/games/bit-trip-complete",
+    "like": false
   },
   {
     "id": 91151,
@@ -25826,7 +26247,8 @@
       17130, 17519, 31515, 33603, 33646, 36269, 51577, 55590, 65827, 79134
     ],
     "summary": "MULE is a ridiculously fun and addictive strategy game that combines real-time and turn-based styles as you battle for land and resources on a newly colonized planet. The game is easy to grasp but provides great depth of game-play.",
-    "url": "https://www.igdb.com/games/mule-returns"
+    "url": "https://www.igdb.com/games/mule-returns",
+    "like": false
   },
   {
     "id": 145164,
@@ -25924,14 +26346,16 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "url": "https://www.igdb.com/games/rodent-people-origins"
+    "url": "https://www.igdb.com/games/rodent-people-origins",
+    "like": false
   },
   {
     "id": 88603,
     "created_at": 1519321487,
     "name": "Card Solitaire Z",
-    "total_rating": 60.0,
-    "url": "https://www.igdb.com/games/card-solitaire-z"
+    "total_rating": 60,
+    "url": "https://www.igdb.com/games/card-solitaire-z",
+    "like": false
   },
   {
     "id": 283596,
@@ -25956,7 +26380,8 @@
         "checksum": "cf324b63-af85-dd19-c415-6ec8745e41cf"
       }
     ],
-    "url": "https://www.igdb.com/games/bullet-hell-collection-volume-1"
+    "url": "https://www.igdb.com/games/bullet-hell-collection-volume-1",
+    "like": false
   },
   {
     "id": 270759,
@@ -26128,13 +26553,15 @@
         "checksum": "a10308c4-a660-7016-742b-ec956e9e9675"
       }
     ],
-    "url": "https://www.igdb.com/games/sea-fever"
+    "url": "https://www.igdb.com/games/sea-fever",
+    "like": false
   },
   {
     "id": 38879,
     "created_at": 1498058024,
     "name": "Space Evader",
-    "url": "https://www.igdb.com/games/space-evader"
+    "url": "https://www.igdb.com/games/space-evader",
+    "like": false
   },
   {
     "id": 188917,
@@ -26192,7 +26619,8 @@
       13189, 25222, 27266, 55282, 75948, 87975, 96217, 106992, 111130, 121217
     ],
     "summary": "Hop, jump, and stick your way through a forest under threat to save your friends and family from the evil Flame Beast and his Embers.",
-    "url": "https://www.igdb.com/games/mello"
+    "url": "https://www.igdb.com/games/mello",
+    "like": false
   },
   {
     "id": 40246,
@@ -26296,7 +26724,8 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "url": "https://www.igdb.com/games/un-defense-force-earth-joker"
+    "url": "https://www.igdb.com/games/un-defense-force-earth-joker",
+    "like": false
   },
   {
     "id": 135337,
@@ -26733,7 +27162,8 @@
       }
     ],
     "total_rating": 82.71834169364519,
-    "url": "https://www.igdb.com/games/bloodstained-curse-of-the-moon-2"
+    "url": "https://www.igdb.com/games/bloodstained-curse-of-the-moon-2",
+    "like": false
   },
   {
     "id": 91320,
@@ -26800,7 +27230,8 @@
       25222, 34218, 55282, 75948, 87622, 87975, 103292, 106992, 111130, 115374
     ],
     "summary": "RHEM IV takes you into a huge, fantastic world full of strange vehicles and buildings, secret passages and doorways. A sense of adventure, logic, attentiveness and the ability to solve puzzles will help the player to slowly but surely unveil the mystery of this latest adventure on the island RHEM.",
-    "url": "https://www.igdb.com/games/rhem-iv-se-the-golden-fragments"
+    "url": "https://www.igdb.com/games/rhem-iv-se-the-golden-fragments",
+    "like": false
   },
   {
     "id": 33010,
@@ -26901,14 +27332,16 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "total_rating": 50.0,
-    "url": "https://www.igdb.com/games/tank-blast"
+    "total_rating": 50,
+    "url": "https://www.igdb.com/games/tank-blast",
+    "like": false
   },
   {
     "id": 94463,
     "created_at": 1521402418,
     "name": "Crash! Powertape July '91",
-    "url": "https://www.igdb.com/games/crash-powertape-july-91"
+    "url": "https://www.igdb.com/games/crash-powertape-july-91",
+    "like": false
   },
   {
     "id": 280830,
@@ -26990,7 +27423,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/boulder-dash--10"
+    "url": "https://www.igdb.com/games/boulder-dash--10",
+    "like": false
   },
   {
     "id": 174930,
@@ -27298,7 +27732,8 @@
         "checksum": "361067f4-c398-2b0b-6c51-8b3132372658"
       }
     ],
-    "url": "https://www.igdb.com/games/usc-counterforce"
+    "url": "https://www.igdb.com/games/usc-counterforce",
+    "like": false
   },
   {
     "id": 285795,
@@ -27509,7 +27944,8 @@
         "checksum": "91f581b0-62df-6d68-b7fc-1d4f1bc6d4fa"
       }
     ],
-    "url": "https://www.igdb.com/games/simulacro"
+    "url": "https://www.igdb.com/games/simulacro",
+    "like": false
   },
   {
     "id": 182808,
@@ -27557,7 +27993,8 @@
       17350, 51591, 65827, 75948, 94741, 106992, 111043, 113895, 115850, 119788
     ],
     "summary": "A Flatgame about foraging for mushrooms.",
-    "url": "https://www.igdb.com/games/morning-mushrooms"
+    "url": "https://www.igdb.com/games/morning-mushrooms",
+    "like": false
   },
   {
     "id": 142244,
@@ -27664,19 +28101,22 @@
         "checksum": "95416d52-fb76-9995-f035-ee86bafbe5c4"
       }
     ],
-    "url": "https://www.igdb.com/games/hackers-adventure"
+    "url": "https://www.igdb.com/games/hackers-adventure",
+    "like": false
   },
   {
     "id": 92801,
     "created_at": 1521204956,
     "name": "Super PileUp!",
-    "url": "https://www.igdb.com/games/super-pileup"
+    "url": "https://www.igdb.com/games/super-pileup",
+    "like": false
   },
   {
     "id": 91904,
     "created_at": 1521142053,
     "name": "Juggle!",
-    "url": "https://www.igdb.com/games/juggle"
+    "url": "https://www.igdb.com/games/juggle",
+    "like": false
   },
   {
     "id": 5719,
@@ -27909,7 +28349,8 @@
       }
     ],
     "total_rating": 57.5,
-    "url": "https://www.igdb.com/games/alias"
+    "url": "https://www.igdb.com/games/alias",
+    "like": false
   },
   {
     "id": 184735,
@@ -27941,7 +28382,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/tera-turbine"
+    "url": "https://www.igdb.com/games/tera-turbine",
+    "like": false
   },
   {
     "id": 183660,
@@ -28037,20 +28479,23 @@
         "checksum": "e24dc205-20ff-01fc-00eb-d7a460ad600b"
       }
     ],
-    "url": "https://www.igdb.com/games/ys-viii-and-ix-super-price-set"
+    "url": "https://www.igdb.com/games/ys-viii-and-ix-super-price-set",
+    "like": false
   },
   {
     "id": 82191,
     "created_at": 1516182136,
     "name": "Spring Garden",
-    "url": "https://www.igdb.com/games/spring-garden"
+    "url": "https://www.igdb.com/games/spring-garden",
+    "like": false
   },
   {
     "id": 87588,
     "created_at": 1518813839,
     "name": "Flappy Sky Bird",
-    "total_rating": 70.0,
-    "url": "https://www.igdb.com/games/flappy-sky-bird"
+    "total_rating": 70,
+    "url": "https://www.igdb.com/games/flappy-sky-bird",
+    "like": false
   },
   {
     "id": 270479,
@@ -28158,7 +28603,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/master-of-the-secret-sea"
+    "url": "https://www.igdb.com/games/master-of-the-secret-sea",
+    "like": false
   },
   {
     "id": 282589,
@@ -28271,7 +28717,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/ace-combat-7-skies-unknown-f-15-s-slash-mtd-set"
+    "url": "https://www.igdb.com/games/ace-combat-7-skies-unknown-f-15-s-slash-mtd-set",
+    "like": false
   },
   {
     "id": 255512,
@@ -28471,13 +28918,15 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/momo-and-the-mine"
+    "url": "https://www.igdb.com/games/momo-and-the-mine",
+    "like": false
   },
   {
     "id": 321244,
     "created_at": 1730406887,
     "name": "Itsutsu no Neito+",
-    "url": "https://www.igdb.com/games/itsutsu-no-neito-plus--1"
+    "url": "https://www.igdb.com/games/itsutsu-no-neito-plus--1",
+    "like": false
   },
   {
     "id": 240411,
@@ -28546,7 +28995,8 @@
       25311, 27092, 32510, 35994, 77498, 79134, 103232, 109339, 113402, 113837
     ],
     "summary": "Prepare for loads of fun with this cartoon version of the most popular board game in the world.\nChoose one of the heros and challenge other players in this family-friendly version of Chess. Thanks to the cartoony graphics, this variation can be enjoyed by people of all ages.\nIf you want to improve on your own, try out one of five difficulty options and play with an NPC. Find your favorite opening and improve with every game. If you are looking for a real challenge try out the expert mode.\n\nThis bundle includes 3 DLC skins for the chessboard.",
-    "url": "https://www.igdb.com/games/family-chess-goty-edition"
+    "url": "https://www.igdb.com/games/family-chess-goty-edition",
+    "like": false
   },
   {
     "id": 112145,
@@ -28563,7 +29013,8 @@
     },
     "created_at": 1542355289,
     "name": "Catch Driver",
-    "url": "https://www.igdb.com/games/catch-driver"
+    "url": "https://www.igdb.com/games/catch-driver",
+    "like": false
   },
   {
     "id": 58010,
@@ -28593,7 +29044,8 @@
       73743, 73756, 73808, 73823, 73825, 73886, 73951, 73974, 76185, 87622
     ],
     "summary": "A point-and-click adventure game.",
-    "url": "https://www.igdb.com/games/anti-cast"
+    "url": "https://www.igdb.com/games/anti-cast",
+    "like": false
   },
   {
     "id": 65014,
@@ -28655,7 +29107,8 @@
       }
     ],
     "summary": "Saka Tsuku DS: World Challenge 2010 is an entry in Sega's Let's Make series for the Nintendo DS.",
-    "url": "https://www.igdb.com/games/soccer-tsuku-ds-world-challenge-2010"
+    "url": "https://www.igdb.com/games/soccer-tsuku-ds-world-challenge-2010",
+    "like": false
   },
   {
     "id": 62823,
@@ -28671,7 +29124,8 @@
     "created_at": 1505072358,
     "name": "Spirits of Mystery: Amber Maiden",
     "summary": "After learning of your royal heritage you must return to your kingdom and undo the amber curse.",
-    "url": "https://www.igdb.com/games/spirits-of-mystery-amber-maiden"
+    "url": "https://www.igdb.com/games/spirits-of-mystery-amber-maiden",
+    "like": false
   },
   {
     "id": 28031,
@@ -28793,8 +29247,9 @@
       24426, 28309, 29348, 80916, 96217, 105269, 106987, 109339, 113360, 113402
     ],
     "summary": "Destiny Warriors is an epic 12 hour JRPG inspired by the greats on Super Nintendo, Sega MegaDrive (Genesis), and the Turbo Duo.\n\nThirteen years ago, your village's leader set off to confront the spirit beasts that threatened to invade and destroy your home.\n\nAmong these spirit beasts was a fire dragon that burned everything to ashes, a sea serpent with great healing abilities and a lightning bird that could attack faster than light itself. While the village leader was a powerful warrior, trained in both hand-to-hand combat and magic, he could not overpower them.\n\nUltimately, he had no choice but to sacrifice his own life by casting a powerful sealing spell on the beasts. This trapped the beasts in the souls of three human children. Unfortunately no one in the village, including the children themselves, knew which children's souls contained the trapped spirit beasts.\n\nThirteen years later, as you enter the village's elite warrior academy, the spirit beasts have become restless and threaten to break free from their hosts. As student after student goes missing, it's up to you and three friends to abandon your training and set out into the unknown world. Use magic, might, and cunning in order to find the missing students and defeat the spirit beasts in this amazing JRPG.",
-    "total_rating": 40.0,
-    "url": "https://www.igdb.com/games/destiny-warriors"
+    "total_rating": 40,
+    "url": "https://www.igdb.com/games/destiny-warriors",
+    "like": false
   },
   {
     "id": 178975,
@@ -28863,19 +29318,22 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "url": "https://www.igdb.com/games/newtons-axiom"
+    "url": "https://www.igdb.com/games/newtons-axiom",
+    "like": false
   },
   {
     "id": 125496,
     "created_at": 1573691996,
     "name": "Kipulkai: La Légende des 3 Masques",
-    "url": "https://www.igdb.com/games/kipulkai-la-legende-des-3-masques"
+    "url": "https://www.igdb.com/games/kipulkai-la-legende-des-3-masques",
+    "like": false
   },
   {
     "id": 103570,
     "created_at": 1529500242,
     "name": "Horror House Survival",
-    "url": "https://www.igdb.com/games/horror-house-survival"
+    "url": "https://www.igdb.com/games/horror-house-survival",
+    "like": false
   },
   {
     "id": 204026,
@@ -28973,7 +29431,8 @@
         "checksum": "4eaf0aee-fa6d-02a9-2694-3f74fd14451f"
       }
     ],
-    "url": "https://www.igdb.com/games/fucking-hell"
+    "url": "https://www.igdb.com/games/fucking-hell",
+    "like": false
   },
   {
     "id": 38526,
@@ -29058,7 +29517,8 @@
       124423
     ],
     "summary": "Alpine Racer is a 3D Alpine skiing arcade game released by Namco in 1995. It features downhill and gate with three courses and two play modes - Race and Time Attack. The player stands on a set of ski-like foot stands while holding onto two bars for stability to play.",
-    "url": "https://www.igdb.com/games/alpine-racer"
+    "url": "https://www.igdb.com/games/alpine-racer",
+    "like": false
   },
   {
     "id": 275818,
@@ -29108,7 +29568,8 @@
       7615, 13196, 13660, 26268, 26845, 32510, 36258, 102057, 107218, 119598
     ],
     "summary": "The Drukhari are an ancient race that fell into degeneracy and depravity, with their remnants only surviving in immense Webway cities.",
-    "url": "https://www.igdb.com/games/warhammer-40000-gladius-drukhari"
+    "url": "https://www.igdb.com/games/warhammer-40000-gladius-drukhari",
+    "like": false
   },
   {
     "id": 312153,
@@ -29168,7 +29629,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/bloody-sky"
+    "url": "https://www.igdb.com/games/bloody-sky",
+    "like": false
   },
   {
     "id": 182792,
@@ -29199,7 +29661,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/halft"
+    "url": "https://www.igdb.com/games/halft",
+    "like": false
   },
   {
     "id": 93010,
@@ -29334,7 +29797,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/fido-dido"
+    "url": "https://www.igdb.com/games/fido-dido",
+    "like": false
   },
   {
     "id": 22719,
@@ -29449,8 +29913,9 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "total_rating": 50.0,
-    "url": "https://www.igdb.com/games/karma-miwa"
+    "total_rating": 50,
+    "url": "https://www.igdb.com/games/karma-miwa",
+    "like": false
   },
   {
     "id": 279534,
@@ -29491,7 +29956,8 @@
       25311, 28129, 29348, 56036, 87485, 101573, 103232, 109339, 111187, 112191
     ],
     "summary": "The player be a store manager and runs a bistro. He could design the daily menu and create the perfect marriage between the wine and food.",
-    "url": "https://www.igdb.com/games/timeout-bistro"
+    "url": "https://www.igdb.com/games/timeout-bistro",
+    "like": false
   },
   {
     "id": 83445,
@@ -29507,13 +29973,15 @@
     "created_at": 1516478258,
     "name": "Josho",
     "summary": "A word game from Zach Stern.",
-    "url": "https://www.igdb.com/games/josho"
+    "url": "https://www.igdb.com/games/josho",
+    "like": false
   },
   {
     "id": 106883,
     "created_at": 1533809290,
     "name": "Caesar Bubbles",
-    "url": "https://www.igdb.com/games/caesar-bubbles"
+    "url": "https://www.igdb.com/games/caesar-bubbles",
+    "like": false
   },
   {
     "id": 198670,
@@ -29574,13 +30042,15 @@
       217665
     ],
     "summary": "A handheld game based on the homonymous movie.",
-    "url": "https://www.igdb.com/games/anastasia"
+    "url": "https://www.igdb.com/games/anastasia",
+    "like": false
   },
   {
     "id": 95157,
     "created_at": 1521819973,
     "name": "The Toho Datsui Hanafuda",
-    "url": "https://www.igdb.com/games/the-toho-datsui-hanafuda"
+    "url": "https://www.igdb.com/games/the-toho-datsui-hanafuda",
+    "like": false
   },
   {
     "id": 304508,
@@ -29649,7 +30119,8 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/lamplight"
+    "url": "https://www.igdb.com/games/lamplight",
+    "like": false
   },
   {
     "id": 93952,
@@ -29721,26 +30192,30 @@
         "checksum": "0833bd75-8288-33d2-a6f0-0ad34e789cfa"
       }
     ],
-    "url": "https://www.igdb.com/games/zero-one-sp"
+    "url": "https://www.igdb.com/games/zero-one-sp",
+    "like": false
   },
   {
     "id": 103853,
     "created_at": 1529583159,
     "name": "Dot Blocks!",
-    "url": "https://www.igdb.com/games/dot-blocks"
+    "url": "https://www.igdb.com/games/dot-blocks",
+    "like": false
   },
   {
     "id": 77530,
     "created_at": 1513082382,
     "name": "Freewar",
     "summary": "Freewar",
-    "url": "https://www.igdb.com/games/freewar"
+    "url": "https://www.igdb.com/games/freewar",
+    "like": false
   },
   {
     "id": 103164,
     "created_at": 1527856982,
     "name": "Bizarre Journey",
-    "url": "https://www.igdb.com/games/bizarre-journey"
+    "url": "https://www.igdb.com/games/bizarre-journey",
+    "like": false
   },
   {
     "id": 101190,
@@ -29787,7 +30262,8 @@
       }
     ],
     "summary": "In Chicken Scream, you use your voice to control how far the chicken will jump, aiming for the highest score",
-    "url": "https://www.igdb.com/games/chicken-scream"
+    "url": "https://www.igdb.com/games/chicken-scream",
+    "like": false
   },
   {
     "id": 217670,
@@ -29832,7 +30308,8 @@
         "checksum": "346d9f71-b36b-0730-5251-4927aa627dd2"
       }
     ],
-    "url": "https://www.igdb.com/games/head-to-head-talking-tennis"
+    "url": "https://www.igdb.com/games/head-to-head-talking-tennis",
+    "like": false
   },
   {
     "id": 19719,
@@ -30029,13 +30506,15 @@
       }
     ],
     "total_rating": 65.56464297596081,
-    "url": "https://www.igdb.com/games/songs-for-a-hero"
+    "url": "https://www.igdb.com/games/songs-for-a-hero",
+    "like": false
   },
   {
     "id": 102641,
     "created_at": 1527332788,
     "name": "Rail Blazers run",
-    "url": "https://www.igdb.com/games/rail-blazers-run"
+    "url": "https://www.igdb.com/games/rail-blazers-run",
+    "like": false
   },
   {
     "id": 190924,
@@ -30076,7 +30555,8 @@
       31515, 33603, 33646, 36269, 44087, 51577, 55590, 65827, 87975, 116582
     ],
     "summary": "Battle Map Studio is a playful map editor and RPG sandbox. Have fun painting forests, constructing and furnishing houses, and creating characters and monsters. Build solo or collaborate in real time online with multiple players to bring your world to life.",
-    "url": "https://www.igdb.com/games/battle-map-studio"
+    "url": "https://www.igdb.com/games/battle-map-studio",
+    "like": false
   },
   {
     "id": 238706,
@@ -30132,7 +30612,8 @@
     ],
     "name": "My Defense Story",
     "summary": "My Defense Story mixing Tower Defense and Roguelike together to provide a new game experience. In the game, you need to manage your troops, build your tower and defense from random enemies.",
-    "url": "https://www.igdb.com/games/my-defense-story"
+    "url": "https://www.igdb.com/games/my-defense-story",
+    "like": false
   },
   {
     "id": 15587,
@@ -30154,15 +30635,17 @@
         "checksum": "5bcdf949-de34-ecf5-c67d-b532489be13d"
       }
     ],
-    "total_rating": 85.0,
-    "url": "https://www.igdb.com/games/aces-high"
+    "total_rating": 85,
+    "url": "https://www.igdb.com/games/aces-high",
+    "like": false
   },
   {
     "id": 182823,
     "created_at": 1638410445,
     "name": "Animal Intern",
     "summary": "Intern with animals!",
-    "url": "https://www.igdb.com/games/animal-intern"
+    "url": "https://www.igdb.com/games/animal-intern",
+    "like": false
   },
   {
     "id": 182801,
@@ -30183,13 +30666,15 @@
         "checksum": "cee4e3c1-6b2d-6dcc-a707-e00ca4de6ecc"
       }
     ],
-    "url": "https://www.igdb.com/games/talos-descent"
+    "url": "https://www.igdb.com/games/talos-descent",
+    "like": false
   },
   {
     "id": 96011,
     "created_at": 1522223621,
     "name": "Coloring Book for Ladybug & Cat Noir",
-    "url": "https://www.igdb.com/games/coloring-book-for-ladybug-and-cat-noir"
+    "url": "https://www.igdb.com/games/coloring-book-for-ladybug-and-cat-noir",
+    "like": false
   },
   {
     "id": 230590,
@@ -30253,7 +30738,8 @@
         "checksum": "6aebdd69-6e6e-61f3-4721-3eb222712062"
       }
     ],
-    "url": "https://www.igdb.com/games/galaxian-fever"
+    "url": "https://www.igdb.com/games/galaxian-fever",
+    "like": false
   },
   {
     "id": 47195,
@@ -30268,7 +30754,8 @@
     },
     "created_at": 1499862145,
     "name": "The In Crowd",
-    "url": "https://www.igdb.com/games/the-in-crowd"
+    "url": "https://www.igdb.com/games/the-in-crowd",
+    "like": false
   },
   {
     "id": 57231,
@@ -30339,7 +30826,8 @@
       60613, 60614, 67178, 71960, 74750, 78352, 78557, 79018, 79223, 259411
     ],
     "summary": "A collection of seven Tecmo arcade classics for PlayStation 2.",
-    "url": "https://www.igdb.com/games/tecmo-hit-parade"
+    "url": "https://www.igdb.com/games/tecmo-hit-parade",
+    "like": false
   },
   {
     "id": 182807,
@@ -30360,13 +30848,15 @@
       25222, 34218, 55282, 75948, 87622, 87975, 103292, 106992, 111130, 115374
     ],
     "summary": "Build the reincarnation machine.",
-    "url": "https://www.igdb.com/games/alien-afteflife"
+    "url": "https://www.igdb.com/games/alien-afteflife",
+    "like": false
   },
   {
     "id": 84402,
     "created_at": 1517253432,
     "name": "Hoppin' Mad",
-    "url": "https://www.igdb.com/games/hoppin-mad"
+    "url": "https://www.igdb.com/games/hoppin-mad",
+    "like": false
   },
   {
     "id": 182159,
@@ -30388,20 +30878,23 @@
       119947
     ],
     "summary": "Multiplayer Table Football - Football Flash Game",
-    "url": "https://www.igdb.com/games/multiplayer-table-football"
+    "url": "https://www.igdb.com/games/multiplayer-table-football",
+    "like": false
   },
   {
     "id": 182803,
     "created_at": 1638409618,
     "name": "Kero Catch",
     "summary": "Kero Catcher is a fast paced mini-game where the goal is to eat as many grubs as possible!",
-    "url": "https://www.igdb.com/games/kero-catch"
+    "url": "https://www.igdb.com/games/kero-catch",
+    "like": false
   },
   {
     "id": 85721,
     "created_at": 1517505035,
     "name": "PercussOne",
-    "url": "https://www.igdb.com/games/percussone"
+    "url": "https://www.igdb.com/games/percussone",
+    "like": false
   },
   {
     "id": 20491,
@@ -30547,8 +31040,9 @@
         "checksum": "8eb5e994-f11e-210a-f2f3-9eb70bc72dc9"
       }
     ],
-    "total_rating": 57.0,
-    "url": "https://www.igdb.com/games/tamagotchi-connection-corner-shop"
+    "total_rating": 57,
+    "url": "https://www.igdb.com/games/tamagotchi-connection-corner-shop",
+    "like": false
   },
   {
     "id": 221114,
@@ -30624,7 +31118,8 @@
       19404, 31515, 33603, 33646, 36269, 55590, 65827, 111043, 115539, 116674
     ],
     "summary": "Routemania is a relaxing, colorful puzzle game where you build routes around the world. Solve 25+ puzzles by discovering the most efficient way to connect cities using your available pieces.",
-    "url": "https://www.igdb.com/games/routemania"
+    "url": "https://www.igdb.com/games/routemania",
+    "like": false
   },
   {
     "id": 313036,
@@ -30720,7 +31215,8 @@
         "checksum": "95416d52-fb76-9995-f035-ee86bafbe5c4"
       }
     ],
-    "url": "https://www.igdb.com/games/sploder"
+    "url": "https://www.igdb.com/games/sploder",
+    "like": false
   },
   {
     "id": 248792,
@@ -30863,7 +31359,8 @@
         "checksum": "a10308c4-a660-7016-742b-ec956e9e9675"
       }
     ],
-    "url": "https://www.igdb.com/games/the-legend-of-heroes-trails-from-zero-deluxe-edition"
+    "url": "https://www.igdb.com/games/the-legend-of-heroes-trails-from-zero-deluxe-edition",
+    "like": false
   },
   {
     "id": 153244,
@@ -30944,7 +31441,8 @@
       17613, 36346, 65827, 76340, 87485, 100794, 101573, 105264, 112754, 115738
     ],
     "summary": "This session lets you jump straight in and drive the Willamette & Pacific SD7 #1501 in 'easy' or 'realistic' mode. For the full experience, select 'Realistic Mode' and start driving this beautiful locomotive!",
-    "url": "https://www.igdb.com/games/trainz-railroad-simulator-2019-willamette-and-pacific-sd7-number-1501"
+    "url": "https://www.igdb.com/games/trainz-railroad-simulator-2019-willamette-and-pacific-sd7-number-1501",
+    "like": false
   },
   {
     "id": 91227,
@@ -31011,12 +31509,14 @@
       17613, 36346, 65827, 76340, 87485, 100794, 101573, 105264, 112754, 115738
     ],
     "summary": "Experience the weapons of World War II like never before. Weaphones WW2 Edition redefines what the term first person shooter means. Don't just play the game, be part of it. Take hold of your device and experience what it's like to load, charge, clear and shoot a firearm.",
-    "url": "https://www.igdb.com/games/weaphones-ww2-firearms-simulator"
+    "url": "https://www.igdb.com/games/weaphones-ww2-firearms-simulator",
+    "like": false
   },
   {
     "id": 44354,
     "created_at": 1499421998,
     "name": "Demolition Division",
-    "url": "https://www.igdb.com/games/demolition-division"
+    "url": "https://www.igdb.com/games/demolition-division",
+    "like": false
   }
 ]
