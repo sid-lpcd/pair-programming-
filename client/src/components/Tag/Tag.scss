@@ -5,9 +5,8 @@
   padding: calc($min-padding - $min-padding/4) $min-padding;
   border-radius: calc($min-padding - $min-padding/4);
   border: 1px solid $primary-accent-color;
-  background-color: $secondary-background-color;
-  color: black;
-  // color: $primary-accent-color;
+  background-color: $primary-background-color;
+  color: $primary-accent-color;
   font-family: "Outfit", Arial, Helvetica, sans-serif;
 
   @include tablet {
@@ -20,4 +19,9 @@
     border-color: $border-color;
     background-color: $secondary-background-color;
   }
+}
+
+*[class*="__tag-btn--filled"] {
+  background-color: $primary-accent-color;
+  color: $primary-color;
 }

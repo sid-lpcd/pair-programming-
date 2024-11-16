@@ -2,8 +2,6 @@ import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
 import gamesRoutes from "./routes/gamesRoutes.js";
-import axios from "axios";
-import fs from "fs";
 
 const app = express();
 

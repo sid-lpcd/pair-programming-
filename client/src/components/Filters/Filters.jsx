@@ -9,6 +9,9 @@ const Filters = ({
   handleFilters,
   selectedFilters,
 }) => {
+  if (!filters) {
+    return <></>;
+  }
   return (
     <aside className={isFilterOpen ? "filters" : "filters filters--hidden"}>
       <div className="filters-wrapper">
@@ -32,10 +35,12 @@ const Filters = ({
             return (
               <Tag
                 key={uuidv4()}
-                name={filter}
+                name={filter.name}
                 className="filters__filter"
                 isDisabled={false}
-                isFilled={selectedFilters.includes(filter)}
+                isFilled={selectedFilters
+                  ?.map((selectedfilter) => selectedfilter.name)
+                  .includes(filter.name)}
                 handleFilters={() => {
                   handleFilters(filter);
                 }}

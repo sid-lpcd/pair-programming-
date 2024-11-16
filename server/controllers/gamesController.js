@@ -1,9 +1,6 @@
-import { AssertionError } from "assert";
 import fs from "fs";
 
 const games = JSON.parse(fs.readFileSync("./data/games.json"));
-// const singleGame = JSON.parse(fs.readFileSync("./data/games.json"));
-// const singleGame = JSON.parse()
 const genres = JSON.parse(fs.readFileSync("./data/genres.json"));
 const keywords = JSON.parse(fs.readFileSync("./data/keywords.json"));
 const themes = JSON.parse(fs.readFileSync("./data/themes.json"));
@@ -59,6 +56,7 @@ export const getGamesByName = (req, res) => {
     console.error(error);
   }
 };
+
 export const getGamesById = (req, res) => {
   try {
     const id = Number(req.params.id);
@@ -66,75 +64,79 @@ export const getGamesById = (req, res) => {
     const game = games.find((game) => game.id === id);
 
     if (game) {
-      console.log(game);
       return res.json([game]);
     } else {
       return res.status(404).json({ msg: "Game not found" });
     }
   } catch (error) {
-    console.error(error);
+    res.status(500).json({ msg: "Server Error" });
   }
 };
 
-export const getGamesByTheme = (req, res) => {
+export const toggleLike = (req, res) => {
   try {
-    console.log(req.query);
+    const id = Number(req.params.id);
 
-    if (req.query.themeId) {
-      const filteredGames = games.filter((game) => {
-        const someGames = game.themes?.some((theme) => {
-          return theme.id === Number(req.query.themeId);
-        });
+    const gamesUpdate = games.map((game) => {
+      game.id === id ? (game.like = !game.like) : null;
+      return game;
+    });
+    // fs.writeFileSync(`./data/games.json`, JSON.stringify(gamesUpdate));
 
-        return someGames;
-      });
+    return res.status(201).send("Sucessfully updated likes");
+  } catch (error) {
+    res.status(500).json({ msg: "Server Error" });
+  }
+};
 
-      return res.json({ count: filteredGames.length, games: filteredGames });
+export const getGamesByGenre = (req, res) => {
+  let newGamesFiltered = [];
+  try {
+    const { filters } = req.query;
+
+    if (!filters) {
+      return res.json(games);
     }
 
-    return res.json({ count: games.length, games: games });
+    const filterArray = Array.isArray(filters) ? filters : [filters];
+
+    if (filterArray) {
+      console.log(filterArray);
+
+      newGamesFiltered = games.filter((game) =>
+        filterArray.some((filter) => {
+          let genresArr = [];
+          if (game.genres?.length) {
+            genresArr = game.genres?.map((genre) => genre.name);
+          }
+          return genresArr.includes(filter);
+        })
+      );
+      newGamesFiltered.sort((a, b) => {
+        const aFilterCount = filterArray.reduce(
+          (count, filter) =>
+            a.genres?.map((genre) => genre.name).includes(filter)
+              ? count + 1
+              : count,
+          0
+        );
+        const bFilterCount = filterArray.reduce(
+          (count, filter) =>
+            b.genres?.map((genre) => genre.name).includes(filter)
+              ? count + 1
+              : count,
+          0
+        );
+        return bFilterCount - aFilterCount;
+      });
+      console.log(filterArray.length);
+      return filterArray.length ? res.json(newGamesFiltered) : res.json(games);
+    }
+    res.status(400).send("Bad Request: No Filters");
   } catch (error) {
-    console.error(error);
+    res.status(500).send("Server Crached");
   }
-
-  // try {
-  //   console.log("Hello");
-  //   const themeId = req.params.themeId;
-  //   console.log(themeId);
-  //   const matchingGames = games.filter((game) => {
-  //     console.log(game.themes);
-  //     return game.themes.id.includes(themeId);
-  //   });
-  //   // const matchingGames = games.filter((game) => game.theme === theme);
-
-  //   if (matchingGames.length > 0) {
-  //     console.log(matchingGames);
-
-  //     return res.json(matchingGames);
-  //   } else {
-  //     return res.status(404).json({ msg: "Games not found" });
-  //   }
-  // } catch (error) {
-  //   console.error(error);
-  // }
 };
-
-// export const getGamesBy = (req, res) => {
-//   try {
-//     const id = Number(req.params.id);
-
-//     const game = games.find((game) => game.id === id);
-
-//     if (game) {
-//       console.log(game);
-//       return res.json(game);
-//     } else {
-//       return res.status(404).json({ msg: "Game not found" });
-//     }
-//   } catch (error) {
-//     console.error(error);
-//   }
-// };
 
 // const getGamesData = (category) => {
 //   let items = [];
@@ -142,15 +144,15 @@ export const getGamesByTheme = (req, res) => {
 //   games.forEach((game) => {
 //     if (game[category]) {
 //       game[category].forEach((cat) => {
-//         if (!items.includes(cat.name)) {
+//         if (!items.map((item) => item.name).includes(cat.name)) {
 //           items.push({ name: cat.name, id: cat.id });
 //         }
 //       });
 //     }
 //   });
 
-//   console.log(items);
+//   console.log(games);
 //   fs.writeFileSync(`./data/${category}.json`, JSON.stringify(items));
 // };
 
-// getGamesData("platforms");
+// getGamesData("themes");
