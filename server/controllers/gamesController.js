@@ -140,17 +140,23 @@ export const getGamesByTheme = (req, res) => {
 //   let items = [];
 
 //   games.forEach((game) => {
-//     if (game[category]) {
-//       game[category].forEach((cat) => {
-//         if (!items.includes(cat.name)) {
-//           items.push({ name: cat.name, id: cat.id });
-//         }
+//     // if (game[category]) {
+//     //   game[category].forEach((cat) => {
+//     //     if (!items.includes(cat.name)) {
+//     //       items.push({ name: cat.name, id: cat.id });
+//     //     }
+//     //   });
+//     // }
+
+//     (game.like = false),
+//       (game.setLike = () => {
+//         game.like = !game.like;
 //       });
-//     }
 //   });
 
-//   console.log(items);
-//   fs.writeFileSync(`./data/${category}.json`, JSON.stringify(items));
+//   console.log(games);
+//   // fs.writeFileSync(`./data/${category}.json`, JSON.stringify(items));
+//   fs.writeFileSync(`./data/games.json`, JSON.stringify(games));
 // };
 
 // getGamesData("platforms");

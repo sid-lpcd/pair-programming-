@@ -3,8 +3,8 @@ import "./MainPage.scss";
 import Filters from "../../components/Filters/Filters";
 import GameList from "../../components/GameList/GameList";
 
-const MainPage = ({ isFilterOpen, setIsFilterOpen, games, setGames }) => {
-  const [filters, setFilters] = useState(["test", "test1"]);
+const MainPage = ({ isFilterOpen, setIsFilterOpen, games, setLike }) => {
+  const [filters, setFilters] = useState(null);
 
   const [selectedFilters, setSelectedFilters] = useState([]);
 
@@ -56,9 +56,9 @@ const MainPage = ({ isFilterOpen, setIsFilterOpen, games, setGames }) => {
     }
   };
 
-  // useEffect(() => {
-  //   initialRender();
-  // }, []);
+  useEffect(() => {
+    initialRender();
+  }, []);
 
   return (
     <>
@@ -74,7 +74,13 @@ const MainPage = ({ isFilterOpen, setIsFilterOpen, games, setGames }) => {
           isFilterOpen ? " main__wrapper--filter-open" : ""
         }`}
       >
-        {games && <GameList games={games} selectedFilters={selectedFilters} />}
+        {games && (
+          <GameList
+            games={games}
+            selectedFilters={selectedFilters}
+            setLike={setLike}
+          />
+        )}
       </main>
     </>
   );

@@ -19,6 +19,11 @@ function App() {
     setGames(listGames.splice(0, 50));
   };
 
+  const setLike = async (id) => {
+    const listGames = await apiHandler("POST", "games/:id");
+    setGames(listGames.splice(0, 50));
+  };
+
   const getGame = async (newGame) => {
     if (!newGame) {
       getGames();
@@ -49,7 +54,7 @@ function App() {
           element={
             <MainPage
               games={games}
-              setGames={setGames}
+              setLike={setLike}
               isFilterOpen={isFilterOpen}
               setIsFilterOpen={setIsFilterOpen}
             />

@@ -1,0 +1,27 @@
+.filters {
+  transition: grid-template-rows 0.5s linear, width 1s linear;
+}
+
+.filters-wrapper {
+  transition: padding-bottom 0.5s linear, padding-left 1s linear;
+}
+
+main {
+  transition: width 1s linear;
+}
+
+.image-card-link {
+  transition: width 1s linear;
+}
+
+.filters__close {
+  transition: opacity 1s linear;
+}
+
+.header__filter-btn {
+  transition: opacity 1s linear;
+}
+
+.footer {
+  transition: width 1s linear;
+}

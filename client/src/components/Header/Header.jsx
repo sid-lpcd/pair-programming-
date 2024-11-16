@@ -19,7 +19,6 @@ const Header = ({
 
   const getAllGames = async () => {
     const allGamesList = await apiHandler("GET", "games/");
-    console.log(allGamesList);
     setAllGames(allGamesList);
   };
 
