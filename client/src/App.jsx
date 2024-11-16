@@ -20,8 +20,8 @@ function App() {
   };
 
   const setLike = async (id) => {
-    const listGames = await apiHandler("POST", "games/:id");
-    setGames(listGames.splice(0, 50));
+    await apiHandler("POST", `games/${id}/like`);
+    getGames();
   };
 
   const getGame = async (newGame) => {
@@ -57,6 +57,7 @@ function App() {
               setLike={setLike}
               isFilterOpen={isFilterOpen}
               setIsFilterOpen={setIsFilterOpen}
+              setGames={setGames}
             />
           }
         />

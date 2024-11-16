@@ -45,8 +45,9 @@
     top: 0;
     z-index: 1;
     &:hover {
-      @include flex(center);
+      @include flex(center, center);
       gap: $min-padding;
+      flex-wrap: wrap;
     }
   }
 

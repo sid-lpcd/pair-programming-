@@ -2,18 +2,25 @@ import { useEffect, useState } from "react";
 import "./MainPage.scss";
 import Filters from "../../components/Filters/Filters";
 import GameList from "../../components/GameList/GameList";
+import { apiHandler } from "../../utils/apiUtils.mjs";
 
-const MainPage = ({ isFilterOpen, setIsFilterOpen, games, setLike }) => {
+const MainPage = ({
+  isFilterOpen,
+  setIsFilterOpen,
+  games,
+  setLike,
+  setGames,
+}) => {
   const [filters, setFilters] = useState(null);
 
   const [selectedFilters, setSelectedFilters] = useState([]);
 
-  const handleFilters = (filter) => {
+  const handleFilters = async (filter) => {
     let newFilters = [];
-    let newGamesFiltered = [];
+
     if (selectedFilters.length) {
-      if (selectedFilters.find((item) => item === filter)) {
-        newFilters = selectedFilters.filter((item) => item !== filter);
+      if (selectedFilters.find((item) => item.id === filter.id)) {
+        newFilters = selectedFilters.filter((item) => item.id !== filter.id);
         setSelectedFilters(newFilters);
       } else {
         newFilters = [...selectedFilters, filter];
@@ -23,32 +30,14 @@ const MainPage = ({ isFilterOpen, setIsFilterOpen, games, setLike }) => {
       newFilters = [...selectedFilters, filter];
       setSelectedFilters(newFilters);
     }
-
-    newGamesFiltered = games.filter((image) =>
-      newFilters.some((filter) => image.tags.includes(filter))
-    );
-    {
-      /* Diving deeper with sorting by number of matches in filter tags*/
-    }
-    newGamesFiltered.sort((a, b) => {
-      const aFilterCount = newFilters.reduce(
-        (count, filter) => (a.tags.includes(filter) ? count + 1 : count),
-        0
-      );
-      const bFilterCount = newFilters.reduce(
-        (count, filter) => (b.tags.includes(filter) ? count + 1 : count),
-        0
-      );
-      return bFilterCount - aFilterCount;
+    const filteredGames = await apiHandler("GET", `games/filter-by-genre`, {
+      filters: newFilters,
     });
-
-    newFilters.length
-      ? setDisplayImages(newGamesFiltered)
-      : setDisplayImages(games);
+    setGames(filteredGames);
   };
 
   const initialRender = async () => {
-    const filter = await apiHandler("GET", "tags/");
+    const filter = await apiHandler("GET", "games/genres");
     if (filter?.error) {
       navigate("/not-found");
     } else {
